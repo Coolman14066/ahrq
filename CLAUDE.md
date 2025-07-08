@@ -94,3 +94,104 @@ Separate Python scripts in `ahrq_project/` for:
 2. **Backend not connecting**: Check `.env` files and API keys
 3. **TypeScript errors**: Run `npm run typecheck` before committing
 4. **Import errors**: Use `npm run check-imports` to verify paths
+
+## Component Dependency Map
+
+### Core Dependencies
+```
+App.tsx
+└── ErrorBoundary
+    └── AHRQDashboard.tsx
+        ├── ChatContextProvider (global state)
+        │   ├── All view components
+        │   └── ChatbotWidget
+        ├── Custom Hooks
+        │   ├── usePublicationData (data loading)
+        │   ├── usePublicationFilters (filter state)
+        │   └── useComputedMetrics (derived state)
+        └── View Components
+            ├── PremiumOverview (523 lines - main dashboard)
+            ├── ExplorerView (411 lines - publication table)
+            ├── TrendsView (temporal analysis)
+            ├── DomainsView (331 lines - domain analysis)
+            ├── MethodologyView (371 lines - docs)
+            └── GapsView (research gaps)
+```
+
+### Large Components (>300 lines - refactor candidates)
+- `SankeyDiagram.tsx` (548 lines) - Complex D3 visualization
+- `PremiumOverview.tsx` (523 lines) - Main dashboard view
+- `PremiumCharts.tsx` (514 lines) - Chart collection
+- `NetworkGraph.tsx` (431 lines) - Network visualization
+- `ExplorerView.tsx` (411 lines) - Publication explorer
+
+### State Flow
+```
+CSV File → usePublicationData → AHRQDashboard → ChatContext → Components
+                ↓                      ↓
+        Backend (via API)    View Components & Filters
+```
+
+## Debugging Guide
+
+### WebSocket Connection Issues
+1. **Check connection status**: Look for `BackendConnectionStatus` component banner
+2. **Verify backend is running**: `curl http://localhost:3002/api/health`
+3. **Check browser console**: Look for Socket.IO connection logs
+4. **Common errors**:
+   - `CORS error`: Backend FRONTEND_URL env var doesn't match
+   - `Connection refused`: Backend not running or wrong port
+   - `Timeout`: Backend services still initializing
+
+### API Debugging
+1. **Enable verbose logging**: Set `VERBOSE_LOGGING=true` in backend `.env`
+2. **Check request/response**: Browser DevTools Network tab
+3. **Backend logs**: Look for `[ChatbotService]`, `[DataQueryEngine]` prefixes
+4. **Common API errors**:
+   - `401 Unauthorized`: Missing or invalid OPENROUTER_API_KEY
+   - `500 Server Error`: Check backend console for stack trace
+   - `Data not loaded`: CSV parsing failed, check data format
+
+### State Management Debugging
+1. **React DevTools**: Install extension to inspect component state
+2. **ChatContext state**: Access via `window.__ahrqChatbotUpdateContext`
+3. **Filter synchronization**: Check filter transformation in `AHRQDashboard.tsx` lines 77-85
+4. **Common state issues**:
+   - Filters not applying: Check usage type mapping (PRIMARY_ANALYSIS vs Primary Analysis)
+   - View not updating: Verify ChatContext is propagating changes
+   - Data not loading: Check `usePublicationData` hook error state
+
+### Performance Debugging
+1. **React Profiler**: Use DevTools Profiler to find slow renders
+2. **Large lists**: Check if virtual scrolling needed (>100 items)
+3. **Memory usage**: Monitor browser memory in Task Manager
+4. **Common performance issues**:
+   - Sankey/Network graphs slow: Too many nodes/links
+   - Explorer view lag: Missing pagination or virtualization
+   - Memory leaks: Check event listener cleanup in useEffect
+
+### Development Tips
+1. **Hot Module Replacement (HMR)**: If not working, check Vite config
+2. **Type errors**: Enable `strict: true` in tsconfig.json for better catches
+3. **Import aliases**: Use `@/` prefix for src imports
+4. **Environment variables**: 
+   - Frontend: Must prefix with `VITE_`
+   - Backend: Standard `process.env`
+5. **Quick component testing**: Use browser console to trigger functions
+
+## Error Recovery Patterns
+
+### Frontend Error Boundaries
+- Wrap risky components with `ErrorBoundary`
+- Provide fallback UI for better UX
+- Log errors to console in development
+
+### Backend Error Handling
+- All routes wrapped with try-catch
+- Structured error responses with status codes
+- Graceful degradation for missing services
+
+### WebSocket Fallback
+- Automatically falls back to REST API if WebSocket fails
+- Retry logic with exponential backoff
+- Connection status indicator for users

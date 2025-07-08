@@ -13,9 +13,14 @@ export class ChatbotService {
   constructor() {
     console.log('[ChatbotService] Initializing with OpenRouter API');
     
+    // Validate API key is present
+    if (!process.env.OPENROUTER_API_KEY) {
+      throw new Error('OPENROUTER_API_KEY environment variable is required. Please check your .env file.');
+    }
+    
     this.client = new OpenAI({
       baseURL: "https://openrouter.ai/api/v1",
-      apiKey: process.env.OPENROUTER_API_KEY || "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",
+      apiKey: process.env.OPENROUTER_API_KEY,
     });
     
     // Create service instances (but don't initialize yet)

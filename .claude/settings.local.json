@@ -42,7 +42,8 @@
       "Bash(timeout 5s npm run dev)",
       "Bash(echo)",
       "Bash(timeout 15s npm run dev:full)",
-      "Bash(npm run lint)"
+      "Bash(npm run lint)",
+      "Bash(git push:*)"
     ],
     "deny": []
   },

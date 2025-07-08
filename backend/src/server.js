@@ -19,6 +19,9 @@ import createChatRoutes from './routes/chatRoutes.js';
 import createDataRoutes from './routes/dataRoutes.js';
 import { errorHandler } from './middleware/errorHandler.js';
 
+// Import logger
+import { logger, requestLogger, wsLogger } from './utils/logger.js';
+
 // Load environment variables
 dotenv.config();
 
@@ -26,24 +29,27 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const startTime = Date.now();
-console.log('[SERVER] Starting server initialization...');
+logger.info('Starting server initialization...');
 
 // Validate required environment variables
 const requiredEnvVars = ['OPENROUTER_API_KEY', 'PORT'];
 const missingEnvVars = requiredEnvVars.filter(varName => !process.env[varName]);
 
 if (missingEnvVars.length > 0) {
-  console.error('[SERVER] Missing required environment variables:', missingEnvVars.join(', '));
-  console.error('[SERVER] Please check your .env file');
+  logger.error('Missing required environment variables:', missingEnvVars.join(', '));
+  logger.error('Please check your .env file');
   process.exit(1);
 }
 
 // Log loaded configuration (without sensitive data)
-console.log('[SERVER] Configuration loaded:');
-console.log(`  - PORT: ${process.env.PORT}`);
-console.log(`  - FRONTEND_URL: ${process.env.FRONTEND_URL || 'http://localhost:3000'}`);
-console.log(`  - NODE_ENV: ${process.env.NODE_ENV || 'development'}`);
-console.log(`  - OPENROUTER_API_KEY: ${process.env.OPENROUTER_API_KEY ? '***' + process.env.OPENROUTER_API_KEY.slice(-4) : 'NOT SET'}`);
+logger.info('Configuration loaded:', {
+  PORT: process.env.PORT,
+  FRONTEND_URL: process.env.FRONTEND_URL || 'http://localhost:3000',
+  NODE_ENV: process.env.NODE_ENV || 'development',
+  OPENROUTER_API_KEY: process.env.OPENROUTER_API_KEY ? '***' + process.env.OPENROUTER_API_KEY.slice(-4) : 'NOT SET',
+  DEBUG_MODE: process.env.DEBUG_MODE || 'false',
+  VERBOSE_LOGGING: process.env.VERBOSE_LOGGING || 'false'
+});
 
 const app = express();
 const httpServer = createServer(app);
@@ -71,18 +77,15 @@ app.use(express.json({ limit: '50mb' }));
 app.use(express.urlencoded({ extended: true }));
 app.use('/api/', limiter);
 
-// Debug middleware
-app.use((req, res, next) => {
-  console.log(`[REQUEST] ${req.method} ${req.path}`);
-  next();
-});
+// Request logging middleware
+app.use(requestLogger);
 
 // Services initialization status
 let servicesReady = false;
 let initializationError = null;
 
 // Initialize services (but don't wait)
-console.log('[SERVER] Creating service instances...');
+logger.info('Creating service instances...');
 const chatbotService = new ChatbotService();
 const dataQueryEngine = new DataQueryEngine();
 const insightsEngine = new InsightsEngine();
@@ -90,7 +93,7 @@ const insightsEngine = new InsightsEngine();
 // Initialize services asynchronously after server starts
 const initializeServices = async () => {
   const serviceStartTime = Date.now();
-  console.log('[SERVER] Starting async service initialization...');
+  logger.info('Starting async service initialization...');
   
   try {
     // Initialize services in parallel where possible
@@ -100,15 +103,15 @@ const initializeServices = async () => {
     ]);
     
     servicesReady = true;
-    console.log(`[SERVER] All services initialized in ${Date.now() - serviceStartTime}ms`);
+    logger.info(`All services initialized in ${Date.now() - serviceStartTime}ms`);
   } catch (error) {
-    console.error('[SERVER] Service initialization failed:', error);
+    logger.error('Service initialization failed:', error);
     initializationError = error;
   }
 };
 
 // Initialize routes with services
-console.log('[SERVER] Setting up routes...');
+logger.info('Setting up routes...');
 const chatRoutes = createChatRoutes(chatbotService);
 const dataRoutes = createDataRoutes(dataQueryEngine, insightsEngine);
 

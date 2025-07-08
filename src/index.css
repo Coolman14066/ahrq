@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for D3 visualizations */
+.d3-tooltip {
+  position: absolute;
+  text-align: left;
+  padding: 8px;
+  font-size: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  border-radius: 4px;
+  pointer-events: none;
+  z-index: 1000;
+  visibility: hidden;
+}
+
+/* Network graph styles */
+.network-container {
+  cursor: move;
+}
+
+.network-container.dragging {
+  cursor: grabbing;
+}
+
+/* Sankey diagram styles */
+.sankey-node {
+  cursor: pointer;
+}
+
+.sankey-link {
+  fill: none;
+  stroke-opacity: 0.6;
+  transition: stroke-opacity 0.2s;
+}
+
+.sankey-link:hover {
+  stroke-opacity: 0.8;
+}
+
+/* Map styles */
+.state-path {
+  stroke: #fff;
+  stroke-width: 1px;
+  cursor: pointer;
+  transition: fill 0.2s, stroke-width 0.2s;
+}
+
+.state-path:hover {
+  stroke-width: 2px;
+  stroke: #374151;
+}

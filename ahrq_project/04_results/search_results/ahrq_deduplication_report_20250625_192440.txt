@@ -1,0 +1,6 @@
+DEDUPLICATION REPORT
+==================================================
+Total articles after deduplication: 25
+Articles found in multiple tiers:
+
+Articles found in multiple tiers: 0

@@ -1,0 +1,330 @@
+/* Premium Global Styles - Research Excellence Framework */
+/* Import Variable Fonts for Premium Typography */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+/* CSS Custom Properties from Theme */
+:root {
+  /* Apply theme variables dynamically via JavaScript */
+  /* Premium color transitions */
+  color-scheme: light;
+  
+  /* Smooth scrolling */
+  scroll-behavior: smooth;
+}
+
+/* Base Reset with Premium Defaults */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Premium Typography Base */
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+}
+
+body {
+  font-family: var(--font-primary, 'Inter var', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif);
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--color-neutral-charcoal, #0f172a);
+  background-color: var(--color-neutral-surface, #f8fafc);
+  transition: background-color var(--duration-normal, 300ms) var(--timing-easeInOut);
+}
+
+/* Premium Headings with Display Font */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display, 'Plus Jakarta Sans', sans-serif);
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--color-neutral-charcoal, #0f172a);
+  letter-spacing: -0.02em;
+  margin: 0;
+}
+
+h1 {
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 800;
+  letter-spacing: -0.035em;
+}
+
+h2 {
+  font-size: clamp(1.5rem, 4vw, 2.25rem);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+
+h3 {
+  font-size: clamp(1.25rem, 3vw, 1.75rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+/* Premium Text Styles */
+p {
+  margin: 0;
+  line-height: 1.6;
+  color: var(--color-neutral-charcoal, #0f172a);
+}
+
+.text-supporting {
+  color: var(--color-neutral-supporting, #64748b);
+}
+
+.text-whisper {
+  color: var(--color-neutral-whisper, #cbd5e1);
+}
+
+/* Premium Link Styles */
+a {
+  color: var(--color-primary-base, #1e3a8a);
+  text-decoration: none;
+  transition: all var(--duration-fast, 200ms) var(--timing-easeOut);
+  position: relative;
+}
+
+a:hover {
+  color: var(--color-primary-light, #3b82f6);
+}
+
+a.premium-link::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--color-primary-light, #3b82f6);
+  transition: width var(--duration-normal, 300ms) var(--timing-spring);
+}
+
+a.premium-link:hover::after {
+  width: 100%;
+}
+
+/* Premium Button Base */
+button {
+  font-family: inherit;
+  font-weight: 600;
+  letter-spacing: 0.025em;
+  cursor: pointer;
+  transition: all var(--duration-fast, 200ms) var(--timing-easeOut);
+}
+
+/* Selection Colors */
+::selection {
+  background-color: var(--color-primary-lightest, #dbeafe);
+  color: var(--color-primary-darker, #1e3a8a);
+}
+
+/* Focus Styles for Accessibility */
+:focus-visible {
+  outline: 2px solid var(--color-primary-base, #1e3a8a);
+  outline-offset: 2px;
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-neutral-surface, #f8fafc);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-neutral-boundary, #e2e8f0);
+  border-radius: var(--radius-full, 9999px);
+  border: 3px solid var(--color-neutral-surface, #f8fafc);
+  transition: background var(--duration-fast, 200ms);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-neutral-whisper, #cbd5e1);
+}
+
+/* Premium Loading Animation */
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0;
+  }
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+.shimmer {
+  animation: shimmer 2s infinite linear;
+  background: linear-gradient(
+    90deg,
+    var(--color-neutral-surface) 0%,
+    var(--color-neutral-boundary) 50%,
+    var(--color-neutral-surface) 100%
+  );
+  background-size: 1000px 100%;
+}
+
+/* Premium Gradient Text */
+.gradient-text {
+  background: linear-gradient(
+    135deg,
+    var(--color-primary-base, #1e3a8a) 0%,
+    var(--color-accent-base, #0f766e) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+/* Glass Morphism Base */
+.glass {
+  background: var(--color-glass-white, rgba(255, 255, 255, 0.1));
+  backdrop-filter: blur(var(--blur-medium, 16px));
+  -webkit-backdrop-filter: blur(var(--blur-medium, 16px));
+  border: 1px solid var(--color-glass-whiteLight, rgba(255, 255, 255, 0.05));
+}
+
+/* Premium Card Hover Effect */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+}
+
+.premium-hover {
+  transition: all var(--duration-normal, 300ms) var(--timing-spring);
+}
+
+.premium-hover:hover {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Noise Texture for Premium Background */
+.noise-texture {
+  position: relative;
+}
+
+.noise-texture::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.03;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='1'/%3E%3C/svg%3E");
+  pointer-events: none;
+}
+
+/* Responsive Typography Scale */
+@media (max-width: 768px) {
+  html {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+/* Print Styles for Executive Presentation */
+@media print {
+  body {
+    background: white;
+    color: black;
+  }
+  
+  .no-print {
+    display: none !important;
+  }
+  
+  a {
+    color: black;
+    text-decoration: underline;
+  }
+}
+
+/* Ripple Animation */
+@keyframes ripple {
+  to {
+    width: 400px;
+    height: 400px;
+    opacity: 0;
+  }
+}
+
+.animate-ripple {
+  animation: ripple 0.6s ease-out;
+}
+
+/* Gradient Animation */
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Fade In Animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Slide Up Animation */
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Line Clamp Utility */
+.line-clamp-1 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+}
+
+.line-clamp-2 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.line-clamp-3 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}

@@ -1,0 +1,14 @@
+SCOPUS AVAILABILITY CHECK SUMMARY
+==================================================
+Checked on: 2025-06-25 18:16:35
+Total articles: 53
+Available: 6 (11.3%)
+Not available: 47 (88.7%)
+
+Breakdown by year:
+scopus_available  NO  YES
+year                     
+2022               6    0
+2023              18    2
+2024              16    3
+2025               7    1

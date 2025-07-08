@@ -1,0 +1,53 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(comm:*)",
+      "Bash(find:*)",
+      "Bash(chmod:*)",
+      "Bash(cut:*)",
+      "Bash(awk:*)",
+      "Bash(grep:*)",
+      "Bash(mkdir:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run build:*)",
+      "Bash(mv:*)",
+      "Bash(cp:*)",
+      "Bash(npm run typecheck:*)",
+      "Bash(npm run dev:*)",
+      "Bash(node:*)",
+      "Bash(rm:*)",
+      "Bash(./remove-geographic.sh:*)",
+      "Bash(sed:*)",
+      "Bash(rg:*)",
+      "Bash(npm start)",
+      "Bash(curl:*)",
+      "Bash(cd:*)",
+      "Bash(cd:*)",
+      "Bash(cd:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npm run type-check:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npm ls:*)",
+      "Bash(touch:*)",
+      "Bash(npm run check-imports:*)",
+      "Bash(pkill:*)",
+      "Bash(true)",
+      "Bash(npx nodemon:*)",
+      "Bash(kill:*)",
+      "Bash(cd:*)",
+      "Bash(cd:*)",
+      "Bash(timeout 5s npm run dev)",
+      "Bash(echo)",
+      "Bash(timeout 15s npm run dev:full)",
+      "Bash(npm run lint)"
+    ],
+    "deny": []
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "playwright"
+  ]
+}

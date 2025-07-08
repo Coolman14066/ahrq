@@ -1,0 +1,217 @@
+{
+  "data_queries": {
+    "author_search": {
+      "patterns": [
+        "publications by {author}",
+        "show me {author}'s work",
+        "what has {author} published",
+        "find papers by {author}"
+      ],
+      "intent": "filter_by_author",
+      "parameters": ["author_name"],
+      "response_format": "List of publications with titles, years, and impact scores"
+    },
+    
+    "domain_analysis": {
+      "patterns": [
+        "publications in {domain}",
+        "show me {domain} research",
+        "what work has been done in {domain}",
+        "analyze {domain} publications"
+      ],
+      "intent": "filter_by_domain",
+      "parameters": ["research_domain"],
+      "response_format": "Publications grouped by year with key insights"
+    },
+    
+    "trend_queries": {
+      "patterns": [
+        "trends in {domain} over {timeframe}",
+        "how has {metric} changed over time",
+        "show me {year1} to {year2} trends",
+        "what's trending in {domain}"
+      ],
+      "intent": "analyze_trends",
+      "parameters": ["domain", "start_year", "end_year", "metric"],
+      "response_format": "Trend analysis with growth rates and key inflection points"
+    },
+    
+    "impact_analysis": {
+      "patterns": [
+        "highest impact publications",
+        "which papers have the most policy impact",
+        "top {n} impactful studies",
+        "publications with impact above {score}"
+      ],
+      "intent": "rank_by_impact",
+      "parameters": ["limit", "min_score"],
+      "response_format": "Ranked list with scores and key policy implications"
+    },
+    
+    "collaboration_queries": {
+      "patterns": [
+        "who does {author} collaborate with",
+        "show me {author}'s network",
+        "most collaborative authors",
+        "collaboration between {author1} and {author2}"
+      ],
+      "intent": "analyze_collaborations",
+      "parameters": ["author", "collaboration_type"],
+      "response_format": "Network analysis with collaboration counts and domains"
+    },
+    
+    "usage_type_queries": {
+      "patterns": [
+        "publications using AHRQ for {usage_type}",
+        "primary analysis papers",
+        "how is AHRQ data being used",
+        "breakdown by usage type"
+      ],
+      "intent": "analyze_usage",
+      "parameters": ["usage_type"],
+      "response_format": "Distribution analysis with examples"
+    }
+  },
+  
+  "navigation_commands": {
+    "view_switching": {
+      "patterns": [
+        "show me the {view} view",
+        "go to {view}",
+        "switch to {view}",
+        "navigate to {view}"
+      ],
+      "views": {
+        "network": ["network", "collaboration", "author network"],
+        "sankey": ["sankey", "flow", "flow analysis"],
+        "trends": ["trends", "time series", "temporal"],
+        "overview": ["overview", "summary", "dashboard"]
+      },
+      "action": "switchView"
+    },
+    
+    "element_focus": {
+      "patterns": [
+        "focus on {element}",
+        "highlight {element}",
+        "zoom to {element}",
+        "show me {element} in detail"
+      ],
+      "action": "focusElement"
+    }
+  },
+  
+  "filter_commands": {
+    "year_filters": {
+      "patterns": [
+        "filter to {year}",
+        "show only {year1} to {year2}",
+        "publications from {year}",
+        "recent publications"
+      ],
+      "action": "applyYearFilter",
+      "special_cases": {
+        "recent": "last 3 years",
+        "latest": "current year",
+        "last decade": "last 10 years"
+      }
+    },
+    
+    "type_filters": {
+      "patterns": [
+        "show only {type} publications",
+        "filter by {type}",
+        "just {type} papers",
+        "exclude {type}"
+      ],
+      "action": "applyTypeFilter",
+      "types": ["government", "policy", "other"]
+    },
+    
+    "score_filters": {
+      "patterns": [
+        "high impact publications",
+        "quality score above {score}",
+        "filter by impact",
+        "top quality papers"
+      ],
+      "action": "applyScoreFilter",
+      "thresholds": {
+        "high": 70,
+        "medium": 40,
+        "low": 0
+      }
+    }
+  },
+  
+  "explanation_queries": {
+    "metric_explanations": {
+      "patterns": [
+        "what is {metric}",
+        "explain {metric}",
+        "how is {metric} calculated",
+        "what does {metric} mean"
+      ],
+      "metrics": {
+        "policy_impact_score": "Score from 0-100 based on policy-related keywords",
+        "quality_score": "Score from 0-100 based on publication completeness",
+        "collaboration_strength": "Measure of co-authorship frequency and recency"
+      }
+    },
+    
+    "visualization_explanations": {
+      "patterns": [
+        "what does this {visualization} show",
+        "explain the {visualization}",
+        "how do I read this {visualization}",
+        "what am I looking at"
+      ],
+      "action": "explainVisualization"
+    }
+  },
+  
+  "insight_queries": {
+    "pattern_detection": {
+      "patterns": [
+        "what patterns do you see",
+        "any interesting insights",
+        "what stands out",
+        "tell me something interesting"
+      ],
+      "action": "generateInsights"
+    },
+    
+    "comparative_analysis": {
+      "patterns": [
+        "compare {item1} to {item2}",
+        "difference between {item1} and {item2}",
+        "how does {item1} compare to {item2}",
+        "{item1} vs {item2}"
+      ],
+      "action": "compareItems"
+    }
+  },
+  
+  "action_queries": {
+    "export_data": {
+      "patterns": [
+        "export this data",
+        "download as {format}",
+        "save these results",
+        "get me a CSV"
+      ],
+      "formats": ["csv", "json", "excel"],
+      "action": "exportData"
+    },
+    
+    "report_generation": {
+      "patterns": [
+        "generate a report",
+        "summarize these findings",
+        "create an executive summary",
+        "prepare a brief"
+      ],
+      "action": "generateReport"
+    }
+  }
+}

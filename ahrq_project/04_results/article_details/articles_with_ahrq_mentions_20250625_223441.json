@@ -1,0 +1,70 @@
+[
+  {
+    "eid": "2-s2.0-85172796584",
+    "doi": "10.1017/ice.2023.138",
+    "title": "Executive Summary: A Compendium of Strategies to Prevent Healthcare-Associated Infections in Acute-Care Hospitals: 2022 Updates",
+    "publication_year": "2023",
+    "journal": "Infection Control and Hospital Epidemiology",
+    "volume": "44",
+    "issue": "10",
+    "pages": "1540-1554",
+    "abstract": "",
+    "citation_count": 10,
+    "authors": [
+      {
+        "name": "Yokoe D.S.",
+        "is_first": true
+      }
+    ],
+    "author_count": 1,
+    "affiliations": [],
+    "keywords": [],
+    "funding_info": [],
+    "ahrq_mentions_in_funding": {
+      "has_ahrq_funding": false,
+      "ahrq_grants": []
+    },
+    "has_ahrq_mention": true,
+    "open_access": true,
+    "document_type": "Article",
+    "source_id": "22344",
+    "retrieved_timestamp": "2025-06-25T22:35:48.515749",
+    "retrieval_method": "search_api",
+    "original_confidence": 85,
+    "original_search_type": "funding_acknowledgment"
+  },
+  {
+    "eid": "2-s2.0-85213836403",
+    "doi": "10.1177/15248399241302060",
+    "title": "From Free Play to Farm Chores: Using the Youth Compendium to Characterize Physical Activity Behaviors Among Rural Children",
+    "publication_year": "2024",
+    "journal": "Health Promotion Practice",
+    "volume": "",
+    "issue": "",
+    "pages": null,
+    "abstract": "",
+    "citation_count": 0,
+    "authors": [
+      {
+        "name": "Kramer-Kostecka E.N.",
+        "is_first": true
+      }
+    ],
+    "author_count": 1,
+    "affiliations": [],
+    "keywords": [],
+    "funding_info": [],
+    "ahrq_mentions_in_funding": {
+      "has_ahrq_funding": false,
+      "ahrq_grants": []
+    },
+    "has_ahrq_mention": true,
+    "open_access": false,
+    "document_type": "Article",
+    "source_id": "21317",
+    "retrieved_timestamp": "2025-06-25T22:35:54.079513",
+    "retrieval_method": "search_api",
+    "original_confidence": 80,
+    "original_search_type": "keyword_index"
+  }
+]

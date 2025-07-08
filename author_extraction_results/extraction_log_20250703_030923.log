@@ -1,0 +1,366 @@
+2025-07-03 03:09:23,907 - INFO - Starting author extraction process...
+2025-07-03 03:09:23,933 - INFO - Found 93 rows needing author extraction
+2025-07-03 03:09:23,934 - INFO - Processing row 1/93: Prices Paid to Hospitals by Private Health Plans â...
+2025-07-03 03:09:23,934 - INFO - Trying web_scraping for: https://vtleg.bluehousegroup.com/committee/document/2026/15/Date/5-13-2025
+2025-07-03 03:09:23,935 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:09:23,940 - INFO - Processing row 2/93: Prices Paid to Hospitals by Private Health Plans: ...
+2025-07-03 03:09:23,941 - INFO - Trying web_scraping for: http://www.rand.org/t/RRA1144-1
+2025-07-03 03:09:23,941 - INFO - Using rand.org extraction method for http://www.rand.org/t/RRA1144-1
+2025-07-03 03:09:23,941 - INFO - Successfully extracted 5 authors from web_scraping
+2025-07-03 03:09:23,969 - INFO - Processing row 3/93: Prices Paid to Hospitals by Private Health Plans: ...
+2025-07-03 03:09:23,969 - INFO - Trying web_scraping for: www.rand.org/t/RRA1144-2-v2 
+2025-07-03 03:09:23,970 - INFO - Using rand.org extraction method for https://www.rand.org/t/RRA1144-2-v2 
+2025-07-03 03:09:23,970 - INFO - Successfully extracted 5 authors from web_scraping
+2025-07-03 03:09:23,988 - INFO - Processing row 4/93: Organization and Performance of U.S. Health System...
+2025-07-03 03:09:23,988 - INFO - Trying web_scraping for: https://jamanetwork.com/journals/jama/fullarticle/2800656
+2025-07-03 03:09:23,989 - INFO - Using jamanetwork.com extraction method for https://jamanetwork.com/journals/jama/fullarticle/2800656
+2025-07-03 03:09:23,989 - INFO - Successfully extracted 5 authors from web_scraping
+2025-07-03 03:09:24,004 - INFO - Processing row 5/93: Consolidation And Mergers Among Health Systems In ...
+2025-07-03 03:09:24,004 - INFO - Trying web_scraping for: https://www.healthaffairs.org/content/forefront/consolidation-and-mergers-among-health-systems-2021-new-data-ahrq-compendium
+2025-07-03 03:09:24,005 - INFO - Using healthaffairs.org extraction method for https://www.healthaffairs.org/content/forefront/consolidation-and-mergers-among-health-systems-2021-new-data-ahrq-compendium
+2025-07-03 03:09:24,005 - INFO - Successfully extracted 6 authors from web_scraping
+2025-07-03 03:09:24,020 - INFO - Processing row 6/93: Monetizing Medicine: Private Equity and Competitio...
+2025-07-03 03:09:24,020 - INFO - Trying web_scraping for: https://www.antitrustinstitute.org/wp-content/uploads/2023/07/AAI-UCB-EG_Private-Equity-I-Physician-Practice-Report_FINAL.pdf
+2025-07-03 03:09:24,021 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:09:24,038 - INFO - Processing row 7/93: Characteristics of Health Systems Operating Medica...
+2025-07-03 03:09:24,039 - INFO - Trying web_scraping for: https://jamanetwork.com/journals/jama-health-forum/fullarticle/2825780
+2025-07-03 03:09:24,039 - INFO - Using jamanetwork.com extraction method for https://jamanetwork.com/journals/jama-health-forum/fullarticle/2825780
+2025-07-03 03:09:24,040 - INFO - Successfully extracted 5 authors from web_scraping
+2025-07-03 03:09:24,049 - INFO - Processing row 8/93: Hospital Outpatient Dept Billing Is a Poor Indicat...
+2025-07-03 03:09:24,050 - INFO - Trying scopus for: 10.1111/1475-6773.14284
+2025-07-03 03:09:24,765 - INFO - Trying crossref for: 10.1111/1475-6773.14284
+2025-07-03 03:09:24,911 - INFO - Successfully extracted 5 authors from crossref
+2025-07-03 03:09:24,915 - INFO - Processing row 9/93: Rural Hospitalsâ€™ Perspectives on Health System A...
+2025-07-03 03:09:24,915 - INFO - Trying web_scraping for: https://rupri.org/wp-content/uploads/Health-System-Affiliation-Landscape.Finalversion.April-2024.pdf
+2025-07-03 03:09:24,915 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:09:24,928 - INFO - Processing row 10/93: Vertical Integration and Plan Design in Healthcare...
+2025-07-03 03:09:24,928 - INFO - Trying web_scraping for: https://www.nber.org/system/files/working_papers/w32833/w32833.pdf
+2025-07-03 03:09:24,929 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:09:24,937 - INFO - Processed 10 rows, pausing for rate limits...
+2025-07-03 03:09:26,938 - INFO - Processing row 11/93: Benefit Design, Provider Networks & Performance of...
+2025-07-03 03:09:26,939 - INFO - Trying web_scraping for: https://academyhealth.confex.com/academyhealth/2025arm/meetingapp.cgi/Paper/71707
+2025-07-03 03:09:26,940 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:09:26,946 - INFO - Processing row 12/93: Impact of Health System Affiliation on Continuity ...
+2025-07-03 03:09:26,947 - INFO - Trying web_scraping for: https://academyhealth.confex.com/academyhealth/2025arm/meetingapp.cgi/Paper/70789
+2025-07-03 03:09:26,947 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:09:26,971 - INFO - Processing row 13/93: 2024 Trends Shaping the Health Economy...
+2025-07-03 03:09:26,972 - INFO - Trying web_scraping for: https://www.trillianthealth.com/market-research/reports/2024-health-economy-trends
+2025-07-03 03:09:26,973 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:09:26,990 - INFO - Processing row 14/93: Analysis of the AHRQ Compendium of U.S. Health Sys...
+2025-07-03 03:09:26,991 - INFO - Trying web_scraping for: https://www.mathematica.org/blogs/analysis-of-the-ahrq-compendium-of-us-health-systems-shows-system-growth-continues
+2025-07-03 03:09:26,991 - INFO - Using mathematica.org extraction method for https://www.mathematica.org/blogs/analysis-of-the-ahrq-compendium-of-us-health-systems-shows-system-growth-continues
+2025-07-03 03:09:26,992 - INFO - Successfully extracted 3 authors from web_scraping
+2025-07-03 03:09:27,010 - INFO - Processing row 15/93: Racial differences in low value care among older a...
+2025-07-03 03:09:27,011 - INFO - Trying scopus for: 10.1136/bmj-2023-074908
+2025-07-03 03:09:27,600 - INFO - Trying crossref for: 10.1136/bmj-2023-074908
+2025-07-03 03:09:27,682 - INFO - Successfully extracted 8 authors from crossref
+2025-07-03 03:09:27,693 - INFO - Processing row 16/93: Structural Discrimination in Nonprofit Hospital Co...
+2025-07-03 03:09:27,693 - INFO - Trying scopus for: 10.1001/jamahealthforum.2024.5523
+2025-07-03 03:09:28,357 - INFO - Trying crossref for: 10.1001/jamahealthforum.2024.5523
+2025-07-03 03:09:28,418 - INFO - Successfully extracted 6 authors from crossref
+2025-07-03 03:09:28,425 - INFO - Processing row 17/93: Acquisitions of safety-net hospitals from 2016â€“2...
+2025-07-03 03:09:28,426 - INFO - Trying scopus for: 10.1093/haschl/qxae056
+2025-07-03 03:09:28,932 - INFO - Trying crossref for: 10.1093/haschl/qxae056
+2025-07-03 03:09:29,007 - INFO - Successfully extracted 4 authors from crossref
+2025-07-03 03:09:29,018 - INFO - Processing row 18/93: Measure what matters: A survey-based examination o...
+2025-07-03 03:09:29,019 - INFO - Trying scopus for: 10.1371/journal.pone.0323381
+2025-07-03 03:09:29,606 - INFO - Trying crossref for: 10.1371/journal.pone.0323381
+2025-07-03 03:09:29,669 - INFO - Successfully extracted 7 authors from crossref
+2025-07-03 03:09:29,677 - INFO - Processing row 19/93: The Pennsylvania Rural Health Model (PARHM) Third ...
+2025-07-03 03:09:29,677 - INFO - Trying web_scraping for: https://www.norc.org/content/dam/norc-org/pdf2024/PARHM-ThirdAnnualReport_9_12_23.pdf
+2025-07-03 03:09:29,678 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:09:29,702 - INFO - Processing row 20/93: Health System Integration and Cancer Center Access...
+2025-07-03 03:09:29,703 - INFO - Trying web_scraping for: https://pmc.ncbi.nlm.nih.gov/articles/PMC10984769/
+2025-07-03 03:09:29,704 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:09:29,721 - INFO - Processed 20 rows, pausing for rate limits...
+2025-07-03 03:09:31,722 - INFO - Processing row 21/93: Integration vs Collaborative Redesign Strategies o...
+2025-07-03 03:09:31,724 - INFO - Trying scopus for: 10.2196/35317
+2025-07-03 03:09:32,434 - INFO - Trying crossref for: 10.2196/35317
+2025-07-03 03:09:32,535 - INFO - Successfully extracted 5 authors from crossref
+2025-07-03 03:09:32,539 - INFO - Processing row 22/93: Factors Associated With Overuse of Health Care Wit...
+2025-07-03 03:09:32,539 - INFO - Trying scopus for: 10.1001/jamahealthforum.2021.4543
+2025-07-03 03:09:33,105 - INFO - Trying crossref for: 10.1001/jamahealthforum.2021.4543
+2025-07-03 03:09:33,184 - INFO - Successfully extracted 4 authors from crossref
+2025-07-03 03:09:33,190 - INFO - Processing row 23/93: Hub and Spoke Framework for Study of Surgical Cent...
+2025-07-03 03:09:33,190 - INFO - Trying scopus for: 10.1016/j.amjsurg.2023.05.006
+2025-07-03 03:09:33,802 - INFO - Trying crossref for: 10.1016/j.amjsurg.2023.05.006
+2025-07-03 03:09:33,873 - INFO - Successfully extracted 6 authors from crossref
+2025-07-03 03:09:33,877 - INFO - Processing row 24/93: Whoâ€™s Accountable? Low-Value Care Received By Me...
+2025-07-03 03:09:33,878 - INFO - Trying web_scraping for: https://pmc.ncbi.nlm.nih.gov/articles/PMC10860675/
+2025-07-03 03:09:33,878 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:09:33,891 - INFO - Processing row 25/93: Physician mergers involve 38% of doctors, substant...
+2025-07-03 03:09:33,893 - INFO - Trying scopus for: 10.1093/haschl/qxaf061
+2025-07-03 03:09:34,332 - INFO - Trying crossref for: 10.1093/haschl/qxaf061
+2025-07-03 03:09:34,420 - INFO - Successfully extracted 4 authors from crossref
+2025-07-03 03:09:34,426 - INFO - Processing row 26/93: Hospital Mergers and Acquisitions From 2010 to 201...
+2025-07-03 03:09:34,427 - WARNING - Could not extract valid DOI or URL from: 
+2025-07-03 03:09:34,428 - INFO - Processing row 27/93: Postoperative outcomes following lung resection pe...
+2025-07-03 03:09:34,428 - INFO - Trying scopus for: 10.1016/j.jtcvs.2024.12.034
+2025-07-03 03:09:36,033 - INFO - Trying crossref for: 10.1016/j.jtcvs.2024.12.034
+2025-07-03 03:09:36,094 - INFO - Successfully extracted 14 authors from crossref
+2025-07-03 03:09:36,104 - INFO - Processing row 28/93: Esophagectomy Trends and Postoperative Outcomes at...
+2025-07-03 03:09:36,107 - INFO - Trying web_scraping for: https://jamanetwork.com/journals/jamasurgery/article-abstract/2828533
+2025-07-03 03:09:36,108 - INFO - Using jamanetwork.com extraction method for https://jamanetwork.com/journals/jamasurgery/article-abstract/2828533
+2025-07-03 03:09:36,109 - INFO - Successfully extracted 5 authors from web_scraping
+2025-07-03 03:09:36,128 - INFO - Processing row 29/93: Cost, Quality, and Utilization After Hospital-Phys...
+2025-07-03 03:09:36,129 - INFO - Trying scopus for: 10.1177/10775587241247682
+2025-07-03 03:09:36,792 - INFO - Trying crossref for: 10.1177/10775587241247682
+2025-07-03 03:09:36,854 - INFO - Successfully extracted 7 authors from crossref
+2025-07-03 03:09:36,858 - INFO - Processing row 30/93: What explains the growth in hospital assets from 2...
+2025-07-03 03:09:36,860 - INFO - Trying web_scraping for: https://pmc.ncbi.nlm.nih.gov/articles/PMC11797385/
+2025-07-03 03:09:36,860 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:09:36,877 - INFO - Processed 30 rows, pausing for rate limits...
+2025-07-03 03:09:38,877 - INFO - Processing row 31/93: How do hospitals exert market power? Evidence from...
+2025-07-03 03:09:38,879 - INFO - Trying web_scraping for: https://academic.oup.com/healthaffairsscholar/article/3/1/qxae179/7958335
+2025-07-03 03:09:38,880 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:09:38,885 - INFO - Processing row 32/93: Comparison of System Affiliated Hospitals Identifi...
+2025-07-03 03:09:38,886 - INFO - Trying web_scraping for: https://academyhealth.confex.com/academyhealth/2022arm/meetingapp.cgi/Paper/52748
+2025-07-03 03:09:38,886 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:09:38,904 - INFO - Processing row 33/93: NCCN guideline concordance in colon and rectal can...
+2025-07-03 03:09:38,904 - INFO - Trying scopus for: 10.1016/j.amjsurg.2024.116114
+2025-07-03 03:09:39,466 - INFO - Trying crossref for: 10.1016/j.amjsurg.2024.116114
+2025-07-03 03:09:39,531 - INFO - Successfully extracted 10 authors from crossref
+2025-07-03 03:09:39,535 - INFO - Processing row 34/93: Association of Hospital Flagship System Affiliatio...
+2025-07-03 03:09:39,535 - INFO - Trying scopus for: 10.6004/jnccn.2024.7096
+2025-07-03 03:09:40,114 - INFO - Trying crossref for: 10.6004/jnccn.2024.7096
+2025-07-03 03:09:40,184 - INFO - Successfully extracted 7 authors from crossref
+2025-07-03 03:09:40,194 - INFO - Processing row 35/93: Effects of Marylandâ€™s All-Payer Model on Electiv...
+2025-07-03 03:09:40,195 - INFO - Trying scopus for: 10.37765/ajmc.2025.89735
+2025-07-03 03:09:40,778 - INFO - Trying crossref for: 10.37765/ajmc.2025.89735
+2025-07-03 03:09:40,845 - INFO - Trying openalex for: 10.37765/ajmc.2025.89735
+2025-07-03 03:09:41,031 - INFO - Successfully extracted 6 authors from openalex
+2025-07-03 03:09:41,037 - INFO - Processing row 36/93: The Anatomic Pathology Hospitalist Model A Novel A...
+2025-07-03 03:09:41,037 - INFO - Trying web_scraping for: https://meridian.allenpress.com/aplm/article/149/5/469/503034/The-Anatomic-Pathology-Hospitalist-Model-A-Novel
+2025-07-03 03:09:41,038 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:09:41,051 - INFO - Processing row 37/93: The structure and implementation of practice-integ...
+2025-07-03 03:09:41,052 - INFO - Trying scopus for: 10.1002/jppr.1964
+2025-07-03 03:09:41,629 - INFO - Trying crossref for: 10.1002/jppr.1964
+2025-07-03 03:09:41,696 - INFO - Successfully extracted 4 authors from crossref
+2025-07-03 03:09:41,702 - INFO - Processing row 38/93: Hospitalâ€“Skilled Nursing Facility Integration an...
+2025-07-03 03:09:41,703 - INFO - Trying scopus for: 10.1001/jamanetworkopen.2024.25627
+2025-07-03 03:09:42,404 - INFO - Trying crossref for: 10.1001/jamanetworkopen.2024.25627
+2025-07-03 03:09:42,465 - INFO - Successfully extracted 8 authors from crossref
+2025-07-03 03:09:42,472 - INFO - Processing row 39/93: Mortality Among Older Medical Patients at Flagship...
+2025-07-03 03:09:42,474 - INFO - Trying scopus for: 10.1007/s11606-023-08415-w
+2025-07-03 03:09:43,061 - INFO - Trying crossref for: 10.1007/s11606-023-08415-w
+2025-07-03 03:09:43,131 - INFO - Successfully extracted 10 authors from crossref
+2025-07-03 03:09:43,136 - INFO - Processing row 40/93: Impact of Hospital Affiliation with a Flagship Hos...
+2025-07-03 03:09:43,136 - INFO - Trying web_scraping for: https://pmc.ncbi.nlm.nih.gov/articles/PMC10926994/
+2025-07-03 03:09:43,137 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:09:43,150 - INFO - Processed 40 rows, pausing for rate limits...
+2025-07-03 03:09:45,151 - INFO - Processing row 41/93: The relationship between health system affiliation...
+2025-07-03 03:09:45,152 - INFO - Trying scopus for: 10.1016/j.ssmhs.2023.100004
+2025-07-03 03:09:45,661 - INFO - Trying crossref for: 10.1016/j.ssmhs.2023.100004
+2025-07-03 03:09:45,737 - INFO - Successfully extracted 7 authors from crossref
+2025-07-03 03:09:45,740 - INFO - Processing row 42/93: Leadership to Accelerate Healthcare's Digital Tran...
+2025-07-03 03:09:45,741 - INFO - Trying scopus for: 10.1097/JHM-D-23-00210
+2025-07-03 03:09:46,305 - INFO - Trying crossref for: 10.1097/JHM-D-23-00210
+2025-07-03 03:09:46,378 - INFO - Successfully extracted 5 authors from crossref
+2025-07-03 03:09:46,388 - INFO - Processing row 43/93: Health-Related Data Sources Accessible to Health R...
+2025-07-03 03:09:46,388 - INFO - Trying scopus for: 10.2196/43802
+2025-07-03 03:09:47,025 - INFO - Trying crossref for: 10.2196/43802
+2025-07-03 03:09:47,102 - INFO - Successfully extracted 4 authors from crossref
+2025-07-03 03:09:47,109 - INFO - Processing row 44/93: Variation in Cost of Echocardiography Within and A...
+2025-07-03 03:09:47,112 - INFO - Trying scopus for: 10.1016/j.echo.2023.01.002
+2025-07-03 03:09:47,785 - INFO - Trying crossref for: 10.1016/j.echo.2023.01.002
+2025-07-03 03:09:47,859 - INFO - Successfully extracted 5 authors from crossref
+2025-07-03 03:09:47,867 - INFO - Processing row 45/93: The Impact of the No Surprises Act on Physician-In...
+2025-07-03 03:09:47,868 - INFO - Trying web_scraping for: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4392132
+2025-07-03 03:09:47,869 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:09:47,893 - INFO - Processing row 46/93: The carbon footprint of health system employee com...
+2025-07-03 03:09:47,894 - INFO - Trying scopus for: 10.1016/j.joclim.2023.100216
+2025-07-03 03:09:48,525 - INFO - Trying crossref for: 10.1016/j.joclim.2023.100216
+2025-07-03 03:09:48,647 - INFO - Successfully extracted 5 authors from crossref
+2025-07-03 03:09:48,654 - INFO - Processing row 47/93: Exploring Patient Care Navigation in the Medicare ...
+2025-07-03 03:09:48,654 - INFO - Trying web_scraping for: https://www.rand.org/pubs/project_reports/PRA2599-1.html
+2025-07-03 03:09:48,655 - INFO - Using rand.org extraction method for https://www.rand.org/pubs/project_reports/PRA2599-1.html
+2025-07-03 03:09:48,655 - INFO - Successfully extracted 5 authors from web_scraping
+2025-07-03 03:09:48,678 - INFO - Processing row 48/93: Association Between Individual Primary Care Physic...
+2025-07-03 03:09:48,678 - INFO - Trying scopus for: 10.1001/jama.2022.20619
+2025-07-03 03:09:49,307 - INFO - Trying crossref for: 10.1001/jama.2022.20619
+2025-07-03 03:09:49,381 - INFO - Successfully extracted 5 authors from crossref
+2025-07-03 03:09:49,386 - INFO - Processing row 49/93: Trends in Medically Integrated Dispensing Among On...
+2025-07-03 03:09:49,387 - INFO - Trying scopus for: 10.1200/OP.22.00136
+2025-07-03 03:09:50,036 - INFO - Trying crossref for: 10.1200/OP.22.00136
+2025-07-03 03:09:50,104 - INFO - Successfully extracted 12 authors from crossref
+2025-07-03 03:09:50,110 - INFO - Processing row 50/93: Influence of Hospital Characteristics on Hospital ...
+2025-07-03 03:09:50,111 - INFO - Trying scopus for: 10.1161/CIRCOUTCOMES.121.008269
+2025-07-03 03:09:50,757 - INFO - Trying crossref for: 10.1161/CIRCOUTCOMES.121.008269
+2025-07-03 03:09:50,824 - INFO - Successfully extracted 10 authors from crossref
+2025-07-03 03:09:50,833 - INFO - Processed 50 rows, pausing for rate limits...
+2025-07-03 03:09:55,517 - INFO - Processing row 51/93: Implementation, Maintenance, and Outcomes of an El...
+2025-07-03 03:09:55,518 - INFO - Trying scopus for: 10.1093/ntr/ntad008
+2025-07-03 03:09:56,131 - INFO - Trying crossref for: 10.1093/ntr/ntad008
+2025-07-03 03:09:56,203 - INFO - Successfully extracted 14 authors from crossref
+2025-07-03 03:09:56,220 - INFO - Processing row 52/93: Effect of financial incentives on hospital-cardiol...
+2025-07-03 03:09:56,223 - INFO - Trying scopus for: 10.1111/jels.12359
+2025-07-03 03:09:57,412 - INFO - Trying crossref for: 10.1111/jels.12359
+2025-07-03 03:09:57,479 - INFO - Successfully extracted 6 authors from crossref
+2025-07-03 03:09:57,487 - INFO - Processing row 53/93: Valuing Diversity and Inclusion in Health Care to ...
+2025-07-03 03:09:57,488 - INFO - Trying scopus for: 10.2196/34808
+2025-07-03 03:09:58,274 - INFO - Trying crossref for: 10.2196/34808
+2025-07-03 03:09:58,344 - INFO - Successfully extracted 4 authors from crossref
+2025-07-03 03:09:58,354 - INFO - Processing row 54/93: Association Between Individual Primary Care Physic...
+2025-07-03 03:09:58,354 - INFO - Trying scopus for: 10.1001/jama.2022.20619
+2025-07-03 03:09:59,046 - INFO - Trying crossref for: 10.1001/jama.2022.20619
+2025-07-03 03:09:59,130 - INFO - Successfully extracted 5 authors from crossref
+2025-07-03 03:09:59,134 - INFO - Processing row 55/93: Harnessing the Power of Health Systems and Network...
+2025-07-03 03:09:59,134 - INFO - Trying web_scraping for: https://pmc.ncbi.nlm.nih.gov/articles/PMC9710658/
+2025-07-03 03:09:59,134 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:09:59,164 - INFO - Processing row 56/93: Bringing student health and Well-Being onto a heal...
+2025-07-03 03:09:59,165 - INFO - Trying scopus for: 10.1080/07448481.2020.1843468
+2025-07-03 03:10:01,740 - INFO - Trying crossref for: 10.1080/07448481.2020.1843468
+2025-07-03 03:10:01,831 - INFO - Successfully extracted 9 authors from crossref
+2025-07-03 03:10:01,841 - INFO - Processing row 57/93: Performance of Physician Groups and Hospitals Part...
+2025-07-03 03:10:01,841 - INFO - Trying scopus for: 10.1001/jamahealthforum.2022.4889
+2025-07-03 03:10:04,443 - INFO - Trying crossref for: 10.1001/jamahealthforum.2022.4889
+2025-07-03 03:10:04,513 - INFO - Successfully extracted 8 authors from crossref
+2025-07-03 03:10:04,522 - INFO - Processing row 58/93: Exploring the Relationship Between Medication Adhe...
+2025-07-03 03:10:04,522 - INFO - Trying web_scraping for: https://pmc.ncbi.nlm.nih.gov/articles/PMC11116283/
+2025-07-03 03:10:04,523 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:10:04,539 - INFO - Processing row 59/93: Consolidation Of Providers Into Health Systems Inc...
+2025-07-03 03:10:04,540 - INFO - Trying scopus for: 10.1377/hlthaff.2020.00017
+2025-07-03 03:10:05,111 - INFO - Trying crossref for: 10.1377/hlthaff.2020.00017
+2025-07-03 03:10:05,176 - INFO - Successfully extracted 6 authors from crossref
+2025-07-03 03:10:05,184 - INFO - Processing row 60/93: Transdisciplinary perspectives for health systems ...
+2025-07-03 03:10:05,185 - INFO - Trying scopus for: 10.1038/s44401-024-00002-3
+2025-07-03 03:10:05,657 - INFO - Trying crossref for: 10.1038/s44401-024-00002-3
+2025-07-03 03:10:05,728 - INFO - Successfully extracted 9 authors from crossref
+2025-07-03 03:10:05,745 - INFO - Processed 60 rows, pausing for rate limits...
+2025-07-03 03:10:07,747 - INFO - Processing row 61/93: Practice and market factors associated with provid...
+2025-07-03 03:10:07,748 - INFO - Trying web_scraping for: https://pmc.ncbi.nlm.nih.gov/articles/PMC8279783/
+2025-07-03 03:10:07,749 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:10:07,760 - INFO - Processing row 62/93: Improving health equity through health care system...
+2025-07-03 03:10:07,762 - INFO - Trying scopus for: 10.1111/1475-6773.14192
+2025-07-03 03:10:08,415 - INFO - Trying crossref for: 10.1111/1475-6773.14192
+2025-07-03 03:10:08,494 - INFO - Successfully extracted 7 authors from crossref
+2025-07-03 03:10:08,502 - INFO - Processing row 63/93: Exploring the Relationship Between Medication Adhe...
+2025-07-03 03:10:08,504 - INFO - Trying web_scraping for: https://pmc.ncbi.nlm.nih.gov/articles/PMC11116283/
+2025-07-03 03:10:08,505 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:10:08,530 - INFO - Processing row 64/93: Association of the Range of Outpatient Services Pr...
+2025-07-03 03:10:08,533 - INFO - Trying web_scraping for: https://pmc.ncbi.nlm.nih.gov/articles/PMC10682337/
+2025-07-03 03:10:08,535 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:10:08,552 - INFO - Processing row 65/93: Estimates of ACO savings in the presence of provid...
+2025-07-03 03:10:08,552 - INFO - Trying web_scraping for: https://pmc.ncbi.nlm.nih.gov/articles/PMC7887069/
+2025-07-03 03:10:08,553 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:10:08,567 - INFO - Processing row 66/93: Care Systems COVID-19 Impact Assessment: Lessons L...
+2025-07-03 03:10:08,568 - INFO - Trying scopus for: 10.31478/202104d
+2025-07-03 03:10:08,965 - INFO - Trying crossref for: 10.31478/202104d
+2025-07-03 03:10:09,044 - INFO - Successfully extracted 6 authors from crossref
+2025-07-03 03:10:09,052 - INFO - Processing row 67/93: Racial Inequality in Prescription Opioid Receipt â...
+2025-07-03 03:10:09,053 - INFO - Trying scopus for: 10.1056/NEJMsa2034159
+2025-07-03 03:10:09,693 - INFO - Trying crossref for: 10.1056/NEJMsa2034159
+2025-07-03 03:10:09,762 - INFO - Successfully extracted 4 authors from crossref
+2025-07-03 03:10:09,768 - INFO - Processing row 68/93: Dementia care navigation: Building toward a common...
+2025-07-03 03:10:09,768 - INFO - Trying scopus for: 10.1002/trc2.12408
+2025-07-03 03:10:10,433 - INFO - Trying crossref for: 10.1002/trc2.12408
+2025-07-03 03:10:10,503 - INFO - Successfully extracted 9 authors from crossref
+2025-07-03 03:10:10,515 - INFO - Processing row 69/93: Fragmentation of Care Among Black Women With Breas...
+2025-07-03 03:10:10,516 - INFO - Trying scopus for: 10.1200/OP.20.01089
+2025-07-03 03:10:11,200 - INFO - Trying crossref for: 10.1200/OP.20.01089
+2025-07-03 03:10:11,281 - INFO - Successfully extracted 9 authors from crossref
+2025-07-03 03:10:11,290 - INFO - Processing row 70/93: Representation of Women in the Leadership Structur...
+2025-07-03 03:10:11,291 - INFO - Trying scopus for: 10.1001/jamanetworkopen.2021.36358
+2025-07-03 03:10:11,951 - INFO - Trying crossref for: 10.1001/jamanetworkopen.2021.36358
+2025-07-03 03:10:12,023 - INFO - Successfully extracted 7 authors from crossref
+2025-07-03 03:10:12,026 - INFO - Processed 70 rows, pausing for rate limits...
+2025-07-03 03:10:14,027 - INFO - Processing row 71/93: Safety and Distribution of Opioid Prescribing by U...
+2025-07-03 03:10:14,028 - INFO - Trying scopus for: 10.1097/SLA.0000000000005802
+2025-07-03 03:10:14,613 - INFO - Trying crossref for: 10.1097/SLA.0000000000005802
+2025-07-03 03:10:14,686 - INFO - Successfully extracted 5 authors from crossref
+2025-07-03 03:10:14,692 - INFO - Processing row 72/93: Geographic Variation In The Consolidation Of Physi...
+2025-07-03 03:10:14,692 - INFO - Trying scopus for: 10.1377/hlthaff.2020.00812
+2025-07-03 03:10:15,360 - INFO - Trying crossref for: 10.1377/hlthaff.2020.00812
+2025-07-03 03:10:15,418 - INFO - Successfully extracted 6 authors from crossref
+2025-07-03 03:10:15,425 - INFO - Processing row 73/93: Accelerating Virtual Health Implementation Followi...
+2025-07-03 03:10:15,430 - INFO - Trying scopus for: 10.2196/32819
+2025-07-03 03:10:15,994 - INFO - Trying crossref for: 10.2196/32819
+2025-07-03 03:10:16,051 - INFO - Successfully extracted 5 authors from crossref
+2025-07-03 03:10:16,059 - INFO - Processing row 74/93: Reducing Overuse by Healthcare Systems: A Positive...
+2025-07-03 03:10:16,060 - INFO - Trying scopus for: 10.1007/s11606-023-08060-3
+2025-07-03 03:10:16,685 - INFO - Trying crossref for: 10.1007/s11606-023-08060-3
+2025-07-03 03:10:16,751 - INFO - Successfully extracted 6 authors from crossref
+2025-07-03 03:10:16,757 - INFO - Processing row 75/93: Hospital-physician integration and clinical volume...
+2025-07-03 03:10:16,758 - INFO - Trying web_scraping for: https://pmc.ncbi.nlm.nih.gov/articles/PMC10771899/
+2025-07-03 03:10:16,758 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:10:16,778 - INFO - Processing row 76/93: Gender-Affirming Primary Care Access Among Rural T...
+2025-07-03 03:10:16,778 - INFO - Trying scopus for: 10.1089/lgbt.2021.0391
+2025-07-03 03:10:17,439 - INFO - Trying crossref for: 10.1089/lgbt.2021.0391
+2025-07-03 03:10:17,504 - INFO - Successfully extracted 6 authors from crossref
+2025-07-03 03:10:17,514 - INFO - Processing row 77/93: Estimates of ACO savings in the presence of provid...
+2025-07-03 03:10:17,515 - INFO - Trying web_scraping for: https://pmc.ncbi.nlm.nih.gov/articles/PMC7887069/
+2025-07-03 03:10:17,515 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:10:17,537 - INFO - Processing row 78/93: Impact of Policy Options for Reducing Hospital Pri...
+2025-07-03 03:10:17,538 - INFO - Trying web_scraping for: www.rand.org/t/RRA805-1
+2025-07-03 03:10:17,538 - INFO - Using rand.org extraction method for https://www.rand.org/t/RRA805-1
+2025-07-03 03:10:17,538 - INFO - Successfully extracted 5 authors from web_scraping
+2025-07-03 03:10:17,559 - INFO - Processing row 79/93: Hospital‐based health systems 20 years later: A ta...
+2025-07-03 03:10:17,559 - INFO - Trying web_scraping for: https://pmc.ncbi.nlm.nih.gov/articles/PMC8143673/
+2025-07-03 03:10:17,560 - WARNING - Failed to extract authors for DOI: None
+2025-07-03 03:10:17,575 - INFO - Processing row 80/93: A more complete measure of vertical integration be...
+2025-07-03 03:10:17,575 - INFO - Trying scopus for: 10.1111/1475-6773.14314
+2025-07-03 03:10:18,165 - INFO - Trying crossref for: 10.1111/1475-6773.14314
+2025-07-03 03:10:18,229 - INFO - Successfully extracted 6 authors from crossref
+2025-07-03 03:10:18,233 - INFO - Processed 80 rows, pausing for rate limits...
+2025-07-03 03:10:20,234 - INFO - Processing row 81/93: Understanding The Use Of Medicare Procedure Codes ...
+2025-07-03 03:10:20,235 - INFO - Trying scopus for: 10.1377/hlthaff.2021.00848
+2025-07-03 03:10:20,938 - INFO - Trying crossref for: 10.1377/hlthaff.2021.00848
+2025-07-03 03:10:21,008 - INFO - Successfully extracted 9 authors from crossref
+2025-07-03 03:10:21,019 - INFO - Processing row 82/93: Assessment of Spanish Translation of Websites at T...
+2025-07-03 03:10:21,020 - INFO - Trying scopus for: 10.1001/jamanetworkopen.2020.37196
+2025-07-03 03:10:21,789 - INFO - Trying crossref for: 10.1001/jamanetworkopen.2020.37196
+2025-07-03 03:10:21,874 - INFO - Successfully extracted 6 authors from crossref
+2025-07-03 03:10:21,881 - INFO - Processing row 83/93: Private Payers and Cancer Care: Revisiting the Lan...
+2025-07-03 03:10:21,881 - INFO - Trying scopus for: 10.1200/OP.23.00632
+2025-07-03 03:10:22,498 - INFO - Trying crossref for: 10.1200/OP.23.00632
+2025-07-03 03:10:22,634 - INFO - Successfully extracted 2 authors from crossref
+2025-07-03 03:10:22,648 - INFO - Processing row 84/93: Outcomes for Very Preterm Infants Across Health Sy...
+2025-07-03 03:10:22,648 - INFO - Trying scopus for: 10.1001/jamanetworkopen.2025.13274
+2025-07-03 03:10:23,351 - INFO - Trying crossref for: 10.1001/jamanetworkopen.2025.13274
+2025-07-03 03:10:23,439 - INFO - Successfully extracted 6 authors from crossref
+2025-07-03 03:10:23,445 - INFO - Processing row 85/93: State Health Care Cost Commissions: Their Prioriti...
+2025-07-03 03:10:23,445 - WARNING - Could not extract valid DOI or URL from: Not available in provided text
+2025-07-03 03:10:23,445 - INFO - Processing row 86/93: Can vertically integrated health systems provide g...
+2025-07-03 03:10:23,446 - INFO - Trying scopus for: 10.1111/1475-6773.13313
+2025-07-03 03:10:24,116 - INFO - Trying crossref for: 10.1111/1475-6773.13313
+2025-07-03 03:10:24,181 - INFO - Successfully extracted 5 authors from crossref
+2025-07-03 03:10:24,192 - INFO - Processing row 87/93: Plugging gaps in payment systems: Evidence from th...
+2025-07-03 03:10:24,193 - INFO - Trying scopus for: 10.1111/coep.12696
+2025-07-03 03:10:24,933 - INFO - Trying crossref for: 10.1111/coep.12696
+2025-07-03 03:10:26,034 - INFO - Successfully extracted 3 authors from crossref
+2025-07-03 03:10:26,047 - INFO - Processing row 88/93: Health system integration with physician specialti...
+2025-07-03 03:10:26,051 - INFO - Trying scopus for: 10.1111/1475-6773.13584
+2025-07-03 03:10:26,716 - INFO - Trying crossref for: 10.1111/1475-6773.13584
+2025-07-03 03:10:26,788 - INFO - Successfully extracted 6 authors from crossref
+2025-07-03 03:10:26,794 - INFO - Processing row 89/93: Consolidation And Health Systems In 2018: New Data...
+2025-07-03 03:10:26,795 - INFO - Trying scopus for: 10.1377/forefront.20191122.345861
+2025-07-03 03:10:28,965 - INFO - Trying crossref for: 10.1377/forefront.20191122.345861
+2025-07-03 03:10:29,043 - INFO - Trying openalex for: 10.1377/forefront.20191122.345861
+2025-07-03 03:10:29,220 - INFO - Trying semantic_scholar for: 10.1377/forefront.20191122.345861
+2025-07-03 03:10:29,401 - INFO - Trying web_scraping for: 10.1377/forefront.20191122.345861
+2025-07-03 03:10:29,402 - INFO - Using doi.org extraction method for https://doi.org/10.1377/forefront.20191122.345861
+2025-07-03 03:10:29,404 - WARNING - Failed to extract authors for DOI: 10.1377/forefront.20191122.345861
+2025-07-03 03:10:29,411 - INFO - Processing row 90/93: Landscape of Health Systems in the United States...
+2025-07-03 03:10:29,412 - INFO - Trying scopus for: 10.1177/1077558718823130
+2025-07-03 03:10:30,101 - INFO - Trying crossref for: 10.1177/1077558718823130
+2025-07-03 03:10:30,177 - INFO - Successfully extracted 10 authors from crossref
+2025-07-03 03:10:30,187 - INFO - Processed 90 rows, pausing for rate limits...
+2025-07-03 03:10:32,188 - INFO - Processing row 91/93: Association of Clinician Health System Affiliation...
+2025-07-03 03:10:32,189 - INFO - Trying scopus for: 10.1001/jama.2020.13136
+2025-07-03 03:10:33,206 - INFO - Trying crossref for: 10.1001/jama.2020.13136
+2025-07-03 03:10:33,291 - INFO - Successfully extracted 5 authors from crossref
+2025-07-03 03:10:33,301 - INFO - Processing row 92/93: Quantifying Health Systems’ Investment In Social D...
+2025-07-03 03:10:33,302 - INFO - Trying scopus for: 10.1377/hlthaff.2019.01246
+2025-07-03 03:10:33,961 - INFO - Trying crossref for: 10.1377/hlthaff.2019.01246
+2025-07-03 03:10:34,043 - INFO - Successfully extracted 4 authors from crossref
+2025-07-03 03:10:34,050 - INFO - Processing row 93/93: Sepsis quality in safety-net hospitals: an analysi...
+2025-07-03 03:10:34,051 - INFO - Trying scopus for: 10.1016/j.jcrc.2019.08.009
+2025-07-03 03:10:34,677 - INFO - Trying crossref for: 10.1016/j.jcrc.2019.08.009
+2025-07-03 03:10:34,743 - INFO - Successfully extracted 2 authors from crossref
+2025-07-03 03:10:34,753 - INFO - Generating enhanced CSV...
+2025-07-03 03:10:34,794 - INFO - Enhanced CSV saved to: author_extraction_results/ahrq_check_enhanced_20250703_031034.csv
+2025-07-03 03:10:34,794 - INFO - Generating report...
+2025-07-03 03:10:34,801 - INFO - Report saved to: author_extraction_results/extraction_report_20250703_031034.txt
+2025-07-03 03:10:34,805 - INFO - Extraction complete! Results saved to author_extraction_results
+2025-07-03 03:10:34,807 - INFO - Enhanced CSV: author_extraction_results/ahrq_check_enhanced_20250703_031034.csv
+2025-07-03 03:10:34,807 - INFO - Report: author_extraction_results/extraction_report_20250703_031034.txt

@@ -1,0 +1,129 @@
+{
+  "api_key": "7cb67bc87041113e16b3604ec1d33cd6",
+  "search_queries": {
+    "tier_1_direct": {
+      "description": "Direct mentions of AHRQ Compendium",
+      "queries": [
+        "TITLE-ABS-KEY(\"AHRQ Compendium of U.S. Health Systems\")",
+        "TITLE-ABS-KEY(\"AHRQ Compendium of US Health Systems\")",
+        "TITLE-ABS-KEY(\"AHRQ Compendium\" AND \"health system*\")",
+        "TITLE-ABS-KEY(\"Agency for Healthcare Research and Quality Compendium\")"
+      ]
+    },
+    "tier_2_proximity": {
+      "description": "AHRQ and Compendium in proximity",
+      "queries": [
+        "TITLE-ABS-KEY(AHRQ w/5 Compendium)",
+        "TITLE-ABS-KEY(\"Agency for Healthcare Research and Quality\" w/10 Compendium)",
+        "TITLE-ABS-KEY(AHRQ w/10 \"health system*\" w/10 compendium)"
+      ]
+    },
+    "tier_3_wildcards": {
+      "description": "Using wildcards for variations",
+      "queries": [
+        "TITLE-ABS-KEY(\"AHRQ Compend*\")",
+        "TITLE-ABS-KEY(AHRQ AND compend* AND \"health system*\")"
+      ]
+    },
+    "tier_4_references": {
+      "description": "Citations in references",
+      "queries": [
+        "REF(\"AHRQ Compendium\")",
+        "REF(\"Agency for Healthcare Research and Quality\" AND Compendium)",
+        "REF(Contreary AND AHRQ AND \"Health Affairs\")"
+      ]
+    },
+    "tier_5_specific_citations": {
+      "description": "Known influential papers that cite AHRQ",
+      "queries": [
+        "REF(\"Consolidation and Mergers among Health Systems in 2021\")",
+        "REF(\"Rich\" AND \"Mathematica\" AND AHRQ)"
+      ]
+    },
+    "tier_6_year_specific": {
+      "description": "Year-specific AHRQ Compendium searches",
+      "queries": [
+        "TITLE-ABS-KEY(\"2018 AHRQ Compendium\")",
+        "TITLE-ABS-KEY(\"2019 AHRQ Compendium\")",
+        "TITLE-ABS-KEY(\"2020 AHRQ Compendium\")",
+        "TITLE-ABS-KEY(\"2021 AHRQ Compendium\")",
+        "TITLE-ABS-KEY(\"2022 AHRQ Compendium\")",
+        "TITLE-ABS-KEY(\"2023 AHRQ Compendium\")",
+        "TITLE-ABS-KEY(\"AHRQ Compendium Hospital Linkage File\")",
+        "TITLE-ABS-KEY(\"AHRQ Health System* Compend*\")"
+      ]
+    },
+    "tier_7_advanced_proximity": {
+      "description": "Advanced proximity and ordered searches",
+      "queries": [
+        "TITLE-ABS-KEY(AHRQ PRE/10 compendium)",
+        "TITLE-ABS-KEY(\"Agency for Healthcare Research\" PRE/15 compendium)",
+        "TITLE-ABS-KEY(AHRQ w/3 (compendium OR compendia))",
+        "TITLE-ABS-KEY(\"healthcare research quality\" w/5 compendium)"
+      ]
+    },
+    "tier_8_network_based": {
+      "description": "Author and institution network searches",
+      "queries": [
+        "AUTHOR-NAME(\"Levinson Z*\") AND TITLE-ABS-KEY(\"health system*\")",
+        "AUTHOR-NAME(\"Ganguli I*\") AND TITLE-ABS-KEY(consolidation OR integration)",
+        "AUTHOR-NAME(\"Khuntia J*\") AND REF(AHRQ OR compendium)",
+        "AUTHOR-NAME(\"Segal J.B.*\") AND TITLE-ABS-KEY(\"health system*\")",
+        "AFFIL(Mathematica) AND TITLE-ABS-KEY(\"health system*\" AND database)",
+        "AFFIL(\"Kaiser Family Foundation\") AND REF(AHRQ)",
+        "AFFIL(\"Harvard School of Public Health\") AND TITLE-ABS-KEY(compendium)"
+      ]
+    },
+    "tier_9_methodological": {
+      "description": "Common methodological phrases",
+      "queries": [
+        "TITLE-ABS(\"identify health systems\" AND \"using\" AND (AHRQ OR \"agency for healthcare\"))",
+        "TITLE-ABS(\"hospital system linkage\" w/10 database)",
+        "TITLE-ABS(\"system affiliation\" AND \"determined\" AND (compendium OR database))",
+        "TITLE-ABS(\"health system characteristics\" AND AHRQ)",
+        "TITLE-ABS(\"define health systems\" AND (compendium OR \"AHRQ\"))"
+      ]
+    }
+  },
+  "filters": {
+    "year_range": {
+      "start": 2021,
+      "end": 2025
+    },
+    "document_types": {
+      "include": ["ar", "re", "cp", "ch"],
+      "exclude": ["er", "no"]
+    },
+    "subject_areas": {
+      "primary": ["MEDI", "HEAL", "NURS", "SOCI"],
+      "optional": ["ECON", "BUSI", "MULT", "PHAR", "COMP"]
+    }
+  },
+  "search_parameters": {
+    "results_per_query": 200,
+    "sort_by": "-pubyear",
+    "view": "STANDARD",
+    "enable_cursor": true,
+    "max_results_per_query": 5000
+  },
+  "exclusion_terms": [
+    "protocol AND NOT analysis",
+    "study design AND NOT results",
+    "proposal AND NOT findings"
+  ],
+  "deduplication": {
+    "match_thresholds": {
+      "eid": 100,
+      "doi": 95,
+      "title_fuzzy": 70,
+      "author_year": 60
+    },
+    "reference_file": "../02_data_sources/ahrq_reference.csv"
+  },
+  "iteration_parameters": {
+    "max_iterations": 5,
+    "min_new_discoveries": 10,
+    "pattern_extraction_threshold": 0.7,
+    "hypothesis_generation": true
+  }
+}

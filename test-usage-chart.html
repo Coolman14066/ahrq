@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Usage Type Chart Test</title>
+    <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/recharts@2.5.0/umd/Recharts.js"></script>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            margin: 40px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 30px;
+        }
+        .chart-container {
+            width: 100%;
+            height: 400px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Usage Type Chart Test</h1>
+        <div id="chart-root"></div>
+    </div>
+
+    <script>
+        const { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell, LabelList } = Recharts;
+        
+        // Test data
+        const testData = [
+            { name: 'Primary Analysis', value: 51, percentage: 48, color: '#3B82F6' },
+            { name: 'Research Enabler', value: 35, percentage: 33, color: '#10B981' },
+            { name: 'Contextual Reference', value: 20, percentage: 19, color: '#F59E0B' }
+        ];
+
+        // Custom tooltip
+        const CustomTooltip = ({ active, payload }) => {
+            if (active && payload && payload.length) {
+                const data = payload[0].payload;
+                return React.createElement('div', {
+                    style: {
+                        backgroundColor: 'rgba(255, 255, 255, 0.95)',
+                        padding: '12px 16px',
+                        borderRadius: '8px',
+                        boxShadow: '0 10px 25px rgba(0,0,0,0.1)',
+                        border: '1px solid #e5e7eb'
+                    }
+                }, [
+                    React.createElement('p', {
+                        key: 'name',
+                        style: { fontWeight: '600', margin: '0 0 4px 0' }
+                    }, data.name),
+                    React.createElement('p', {
+                        key: 'count',
+                        style: { fontSize: '14px', color: '#6b7280', margin: '0 0 2px 0' }
+                    }, `Count: ${data.value}`),
+                    React.createElement('p', {
+                        key: 'percentage',
+                        style: { fontSize: '14px', color: '#6b7280', margin: 0 }
+                    }, `Percentage: ${data.percentage}%`)
+                ]);
+            }
+            return null;
+        };
+
+        // Custom label renderer
+        const renderCustomLabel = (props) => {
+            const { x, y, width, value } = props;
+            return React.createElement('text', {
+                x: x + width / 2,
+                y: y - 5,
+                fill: '#374151',
+                textAnchor: 'middle',
+                fontSize: 14,
+                fontWeight: '600'
+            }, value);
+        };
+
+        // Chart component
+        const UsageChart = () => {
+            return React.createElement('div', { style: { width: '100%', height: '400px' } },
+                React.createElement(ResponsiveContainer, { width: '100%', height: '100%' },
+                    React.createElement(BarChart, {
+                        data: testData,
+                        margin: { top: 30, right: 30, left: 20, bottom: 80 }
+                    }, [
+                        React.createElement(CartesianGrid, {
+                            key: 'grid',
+                            strokeDasharray: '3 3',
+                            stroke: '#E5E7EB',
+                            vertical: false
+                        }),
+                        React.createElement(XAxis, {
+                            key: 'xaxis',
+                            dataKey: 'name',
+                            tick: { fill: '#4B5563', fontSize: 13, fontWeight: 500 },
+                            angle: -20,
+                            textAnchor: 'end',
+                            height: 80,
+                            tickMargin: 10
+                        }),
+                        React.createElement(YAxis, {
+                            key: 'yaxis',
+                            tick: { fill: '#4B5563', fontSize: 12 },
+                            axisLine: { stroke: '#E5E7EB' },
+                            tickLine: { stroke: '#E5E7EB' }
+                        }),
+                        React.createElement(Tooltip, {
+                            key: 'tooltip',
+                            content: React.createElement(CustomTooltip),
+                            cursor: { fill: 'rgba(0, 0, 0, 0.05)' }
+                        }),
+                        React.createElement(Bar, {
+                            key: 'bar',
+                            dataKey: 'value',
+                            radius: [8, 8, 0, 0]
+                        }, [
+                            React.createElement(LabelList, {
+                                key: 'labels',
+                                dataKey: 'value',
+                                position: 'top',
+                                content: renderCustomLabel
+                            }),
+                            ...testData.map((entry, index) =>
+                                React.createElement(Cell, {
+                                    key: `cell-${index}`,
+                                    fill: entry.color
+                                })
+                            )
+                        ])
+                    ])
+                )
+            );
+        };
+
+        // Render the chart
+        const root = ReactDOM.createRoot(document.getElementById('chart-root'));
+        root.render(React.createElement(UsageChart));
+    </script>
+</body>
+</html>

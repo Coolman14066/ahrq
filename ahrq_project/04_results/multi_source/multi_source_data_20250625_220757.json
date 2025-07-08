@@ -1,0 +1,3020 @@
+[
+  {
+    "doi": "10.1097/JHM-D-23-00266",
+    "eid": "2-s2.0-85203420319",
+    "title": "Associations between Integration and Patient Experience in Hospital-Based Health Systems: An Exploration of Horizontal and Vertical Forms of Integration",
+    "timestamp": "2025-06-25T22:07:57.404419",
+    "crossref": {
+      "doi": "10.1097/JHM-D-23-00266",
+      "is-referenced-by-count": 1,
+      "references-count": 16,
+      "title": "Associations Between Integration and Patient Experience in Hospital-Based Health Systems: An Exploration of Horizontal and Vertical Forms of Integration",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 1,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 95
+  },
+  {
+    "doi": "10.2196/30453",
+    "eid": "2-s2.0-85113352286",
+    "title": "Digital orientation of health systems in the post-COVID-19 “New Normal” in the United States: Cross-sectional survey",
+    "timestamp": "2025-06-25T22:07:57.401004",
+    "crossref": {
+      "doi": "10.2196/30453",
+      "is-referenced-by-count": 5,
+      "references-count": 36,
+      "title": "Digital Orientation of Health Systems in the Post–COVID-19 “New Normal” in the United States: Cross-sectional Survey",
+      "publisher": "JMIR Publications Inc.",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 238435995,
+      "title": "Digital Orientation of Health Systems in the Post–COVID-19 “New Normal” in the United States: Cross-sectional Survey",
+      "abstract": "\n            Background\n            Almost all health systems have developed some form of customer-facing digital technologies and have worked to align these systems to their existing electronic health records to accommodate the surge in remote and virtual care deliveries during the COVID-19 pandemic. Others have developed analytics-driven decision-making capabilities. However, it is not clear how health systems in the United States are embracing digital technologies and there is a gap in health systems’ abilities to integrate workflows with expanding technologies to spur innovation and futuristic growth. There is a lack of reliable and reported estimates of the current and futuristic digital orientations of health systems. Periodic assessments will provide imperatives to policy formulation and align efforts to yield the transformative power of emerging digital technologies.\n          \n          \n            Objective\n            The aim of this study was to explore and examine differences in US health systems with respect to digital orientations in the post–COVID-19 “new normal” in 2021. Differences were assessed in four dimensions: (1) analytics-oriented digital technologies (AODT), (2) customer-oriented digital technologies (CODT), (3) growth and innovation–oriented digital technologies (GODT), and (4) futuristic and experimental digital technologies (FEDT). The former two dimensions are foundational to health systems’ digital orientation, whereas the latter two will prepare for future disruptions.\n          \n          \n            Methods\n            We surveyed a robust group of health system chief executive officers (CEOs) across the United States from February to March 2021. Among the 625 CEOs, 135 (22%) responded to our survey. We considered the above four broad digital technology orientations, which were ratified with expert consensus. Secondary data were collected from the Agency for Healthcare Research and Quality Hospital Compendium, leading to a matched usable dataset of 124 health systems for analysis. We examined the relationship of adopting the four digital orientations to specific hospital characteristics and earlier reported factors as barriers or facilitators to technology adoption.\n          \n          \n            Results\n            Health systems showed a lower level of CODT (mean 4.70) or GODT (mean 4.54) orientations compared with AODT (mean 5.03), and showed the lowest level of FEDT orientation (mean 4.31). The ordered logistic estimation results provided nuanced insights. Medium-sized (P&lt;.001) health systems, major teaching health systems (P&lt;.001), and systems with high-burden hospitals (P&lt;.001) appear to be doing worse with respect to AODT orientations, raising some concerns. Health systems of medium (P&lt;.001) and large (P=.02) sizes, major teaching health systems (P=.07), those with a high revenue (P=.05), and systems with high-burden hospitals (P&lt;.001) have less CODT orientation. Health systems in the midwest (P=.05) and southern (P=.04) states are more likely to adopt GODT, whereas high-revenue (P=.004) and investor-ownership (P=.01) health systems are deterred from GODT. Health systems of a medium size, and those that are in the midwest (P&lt;.001), south (P&lt;.001), and west (P=.01) are more adept to FEDT, whereas medium (P&lt;.001) and high-revenue (P&lt;.001) health systems, and those with a high discharge rate (P=.04) or high burden (P=.003, P=.005) have subdued FEDT orientations.\n          \n          \n            Conclusions\n            Almost all health systems have some current foundational digital technological orientations to glean intelligence or service delivery to customers, with some notable exceptions. Comparatively, fewer health systems have growth or futuristic digital orientations. The transformative power of digital technologies can only be leveraged by adopting futuristic digital technologies. Thus, the disparities across these orientations suggest that a holistic, consistent, and well-articulated direction across the United States remains elusive. Accordingly, we suggest that a policy strategy and financial incentives are necessary to spur a well-visioned and articulated digital orientation for all health systems across the United States. In the absence of such a policy to collectively leverage digital transformations, differences in care across the country will continue to be a concern.\n          </jats:sec",
+      "has_full_text": false,
+      "download_url": "",
+      "full_text_snippet": "",
+      "year": 2021,
+      "publisher": "JMIR Publications Inc.",
+      "oai": null
+    },
+    "semantic_scholar": {
+      "paper_id": "b2360714e6eda66d3403d61db71209499ee12966",
+      "title": "Digital Orientation of Health Systems in the Post–COVID-19 “New Normal” in the United States: Cross-sectional Survey",
+      "abstract": "Background Almost all health systems have developed some form of customer-facing digital technologies and have worked to align these systems to their existing electronic health records to accommodate the surge in remote and virtual care deliveries during the COVID-19 pandemic. Others have developed analytics-driven decision-making capabilities. However, it is not clear how health systems in the United States are embracing digital technologies and there is a gap in health systems’ abilities to integrate workflows with expanding technologies to spur innovation and futuristic growth. There is a lack of reliable and reported estimates of the current and futuristic digital orientations of health systems. Periodic assessments will provide imperatives to policy formulation and align efforts to yield the transformative power of emerging digital technologies. Objective The aim of this study was to explore and examine differences in US health systems with respect to digital orientations in the post–COVID-19 “new normal” in 2021. Differences were assessed in four dimensions: (1) analytics-oriented digital technologies (AODT), (2) customer-oriented digital technologies (CODT), (3) growth and innovation–oriented digital technologies (GODT), and (4) futuristic and experimental digital technologies (FEDT). The former two dimensions are foundational to health systems’ digital orientation, whereas the latter two will prepare for future disruptions. Methods We surveyed a robust group of health system chief executive officers (CEOs) across the United States from February to March 2021. Among the 625 CEOs, 135 (22%) responded to our survey. We considered the above four broad digital technology orientations, which were ratified with expert consensus. Secondary data were collected from the Agency for Healthcare Research and Quality Hospital Compendium, leading to a matched usable dataset of 124 health systems for analysis. We examined the relationship of adopting the four digital orientations to specific hospital characteristics and earlier reported factors as barriers or facilitators to technology adoption. Results Health systems showed a lower level of CODT (mean 4.70) or GODT (mean 4.54) orientations compared with AODT (mean 5.03), and showed the lowest level of FEDT orientation (mean 4.31). The ordered logistic estimation results provided nuanced insights. Medium-sized (P<.001) health systems, major teaching health systems (P<.001), and systems with high-burden hospitals (P<.001) appear to be doing worse with respect to AODT orientations, raising some concerns. Health systems of medium (P<.001) and large (P=.02) sizes, major teaching health systems (P=.07), those with a high revenue (P=.05), and systems with high-burden hospitals (P<.001) have less CODT orientation. Health systems in the midwest (P=.05) and southern (P=.04) states are more likely to adopt GODT, whereas high-revenue (P=.004) and investor-ownership (P=.01) health systems are deterred from GODT. Health systems of a medium size, and those that are in the midwest (P<.001), south (P<.001), and west (P=.01) are more adept to FEDT, whereas medium (P<.001) and high-revenue (P<.001) health systems, and those with a high discharge rate (P=.04) or high burden (P=.003, P=.005) have subdued FEDT orientations. Conclusions Almost all health systems have some current foundational digital technological orientations to glean intelligence or service delivery to customers, with some notable exceptions. Comparatively, fewer health systems have growth or futuristic digital orientations. The transformative power of digital technologies can only be leveraged by adopting futuristic digital technologies. Thus, the disparities across these orientations suggest that a holistic, consistent, and well-articulated direction across the United States remains elusive. Accordingly, we suggest that a policy strategy and financial incentives are necessary to spur a well-visioned and articulated digital orientation for all health systems across the United States. In the absence of such a policy to collectively leverage digital transformations, differences in care across the country will continue to be a concern.",
+      "year": 2021,
+      "venue": "Journal of Medical Internet Research",
+      "citation_count": 8,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 35,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 8,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 95
+  },
+  {
+    "doi": "10.1177/11786329241304619",
+    "eid": "2-s2.0-85211931135",
+    "title": "Does Physician-Hospital Vertical Integration Affect Hospital Output?",
+    "timestamp": "2025-06-25T22:07:57.406779",
+    "crossref": {
+      "doi": "10.1177/11786329241304619",
+      "is-referenced-by-count": 0,
+      "references-count": 31,
+      "title": "Does Physician-Hospital Vertical Integration Affect Hospital Output?",
+      "publisher": "SAGE Publications",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "semantic_scholar": {
+      "paper_id": "c1984ccc7b5a88f16702030ee81bf34a491f4c24",
+      "title": "Does Physician-Hospital Vertical Integration Affect Hospital Output?",
+      "abstract": "Background: Physician-hospital vertical integration is gaining steam but it is unclear how they affect hospital output. Objective: To examine the direct impact of vertical integration on hospital output. Design: A pooled design with 6-year data using linear regressions was used. Then, panel data design with hospital fixed effects was used. Methods: We linked American Hospital Association data (2016-2021) with AHRQ Comparative Health System Performance Initiative’s Compendium (2018, 2020, 2021; 34 987 hospital-year observations) to develop new measures of vertical integration and assess its relationship with several measures of hospital output including annualized total admissions, total number of inpatients days, and total number of emergency department (ED) and outpatient visits. Results: We find that a hospital’s entry into a vertical integration has little or no impact on a broad set of metrics capturing hospital output. Conclusion: Our findings suggest that vertical integrations as currently structured may not yield meaningful gains in output or productivity and hospitals faced with declining productivity need to carefully consider the expected gains from vertical integration strategies.",
+      "year": 2024,
+      "venue": "Health Services Insights",
+      "citation_count": 0,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 23,
+      "mentions_ahrq": true
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": true,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 95
+  },
+  {
+    "doi": "10.2196/34808",
+    "eid": "2-s2.0-85130609614",
+    "title": "Valuing Diversity and Inclusion in Health Care to Equip the Workforce: Survey Study and Pathway Analysis",
+    "timestamp": "2025-06-25T22:07:57.410567",
+    "crossref": {
+      "doi": "10.2196/34808",
+      "is-referenced-by-count": 18,
+      "references-count": 50,
+      "title": "Valuing Diversity and Inclusion in Health Care to Equip the Workforce: Survey Study and Pathway Analysis",
+      "publisher": "JMIR Publications Inc.",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 146226228,
+      "title": "Valuing Diversity and Inclusion in Health Care to Equip the Workforce: Survey Study and Pathway Analysis",
+      "abstract": "BackgroundThe COVID-19 pandemic, with all its virus variants, remains a serious situation. Health systems across the United States are trying their best to respond. On average, the health care workforce is relatively homogenous, even though it cares for a highly diverse array of patients. This perennial problem in the US health care workforce has only been accentuated during the COVID-19 pandemic. Medical workers should reflect on the variety of patients they care for and strive to understand their mindsets within the larger contexts of culture, gender, sexual orientation, religious beliefs, and socioeconomic realities. Along with talent and skills, diversity and inclusion (D&I) are essential for maintaining a workforce that can treat the myriad needs and populations that health systems serve. Developing hiring strategies that will help achieve greater workforce diversity remains a challenge for health system leaders.\n            ObjectiveThe primary aims of this study were to: (1) explore the characteristics of US health systems and their associations with D&I practices and benefits, (2) examine the associations between D&I practices and three pathways to equip workforces, and (3) examine the associations between the three pathways to better equip workforces and business and service benefits. The three pathways are: (1) improving D&I among existing employees (IMPROVE), (2) using multiple channels to find and recruit the workforce (RECRUIT), and (3) collaborating with universities to find new talent and establish plans to train students (COLLABORATE).\n            MethodsDuring February to March 2021, 625 health systems in the United States were surveyed with the help of a consultant, 135 (21.6%) of whom responded. We assessed workforce talent- and diversity-relevant factors. We collected secondary data from the Agency for Healthcare Research and Quality Compendium of the US Health Systems, leading to a matched data set of 124 health systems for analysis. We first explored differences in diversity practices and benefits across the health systems. We then examined the relationships among diversity practices, pathways, and benefits.\n            ResultsHealth system characteristics such as size, location, ownership, teaching, and revenue have varying associations with diversity practices and outcomes. D&I and talent strategies exhibited different associations with the three workforce pathways. Regarding the mediating effects, the IMPROVE pathway seems to be more effective than the RECRUIT and COLLABORATE pathways, enabling the diversity strategy to prompt business or service benefits. Moreover, these pathway effects go hand-in-hand with a talent strategy, indicating that both talent and diversity strategies need to be aligned to achieve the best results for a health system.\n            ConclusionsDiversity and talent plans can be aligned to realize multiple desired benefits for health systems. However, a one-size-fits-all approach is not a viable strategy for improving D&I. Health systems need to follow a multipronged approach based on their characteristics. To get D&I right, proactive plans and genuine efforts are essential",
+      "has_full_text": false,
+      "download_url": "",
+      "full_text_snippet": "",
+      "year": 2022,
+      "publisher": "JMIR Publications",
+      "oai": null
+    },
+    "semantic_scholar": {
+      "paper_id": "395edc8e134f92c4d3aafa4b605fd585169bd036",
+      "title": "Valuing Diversity and Inclusion in Health Care to Equip the Workforce: Survey Study and Pathway Analysis",
+      "abstract": "Background The COVID-19 pandemic, with all its virus variants, remains a serious situation. Health systems across the United States are trying their best to respond. On average, the health care workforce is relatively homogenous, even though it cares for a highly diverse array of patients. This perennial problem in the US health care workforce has only been accentuated during the COVID-19 pandemic. Medical workers should reflect on the variety of patients they care for and strive to understand their mindsets within the larger contexts of culture, gender, sexual orientation, religious beliefs, and socioeconomic realities. Along with talent and skills, diversity and inclusion (D&I) are essential for maintaining a workforce that can treat the myriad needs and populations that health systems serve. Developing hiring strategies that will help achieve greater workforce diversity remains a challenge for health system leaders. Objective The primary aims of this study were to: (1) explore the characteristics of US health systems and their associations with D&I practices and benefits, (2) examine the associations between D&I practices and three pathways to equip workforces, and (3) examine the associations between the three pathways to better equip workforces and business and service benefits. The three pathways are: (1) improving D&I among existing employees (IMPROVE), (2) using multiple channels to find and recruit the workforce (RECRUIT), and (3) collaborating with universities to find new talent and establish plans to train students (COLLABORATE). Methods During February to March 2021, 625 health systems in the United States were surveyed with the help of a consultant, 135 (21.6%) of whom responded. We assessed workforce talent- and diversity-relevant factors. We collected secondary data from the Agency for Healthcare Research and Quality Compendium of the US Health Systems, leading to a matched data set of 124 health systems for analysis. We first explored differences in diversity practices and benefits across the health systems. We then examined the relationships among diversity practices, pathways, and benefits. Results Health system characteristics such as size, location, ownership, teaching, and revenue have varying associations with diversity practices and outcomes. D&I and talent strategies exhibited different associations with the three workforce pathways. Regarding the mediating effects, the IMPROVE pathway seems to be more effective than the RECRUIT and COLLABORATE pathways, enabling the diversity strategy to prompt business or service benefits. Moreover, these pathway effects go hand-in-hand with a talent strategy, indicating that both talent and diversity strategies need to be aligned to achieve the best results for a health system. Conclusions Diversity and talent plans can be aligned to realize multiple desired benefits for health systems. However, a one-size-fits-all approach is not a viable strategy for improving D&I. Health systems need to follow a multipronged approach based on their characteristics. To get D&I right, proactive plans and genuine efforts are essential.",
+      "year": 2021,
+      "venue": "JMIR Formative Research",
+      "citation_count": 21,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 51,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 21,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 95
+  },
+  {
+    "doi": "10.2196/32477",
+    "eid": "2-s2.0-85128121072",
+    "title": "Competition and Integration of US Health Systems in the Post-COVID-19 New Normal: Cross-sectional Survey",
+    "timestamp": "2025-06-25T22:07:59.060256",
+    "crossref": {
+      "doi": "10.2196/32477",
+      "is-referenced-by-count": 3,
+      "references-count": 37,
+      "title": "Competition and Integration of US Health Systems in the Post-COVID-19 New Normal: Cross-sectional Survey",
+      "publisher": "JMIR Publications Inc.",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 146226306,
+      "title": "Competition and Integration of US Health Systems in the Post-COVID-19 New Normal: Cross-sectional Survey",
+      "abstract": "BackgroundHow do health systems in the United States view the concept of merger and acquisition (M&A) in a post-COVID 19 “new normal”? How do new entrants to the market and incumbents influence horizontal and vertical integration of health systems? Traditionally, it has been argued that M&A activity is designed to reduce inequities in the market, shift toward value-based care, or enhance the number and quality of health care offerings in a given market. However, the recent history of M&A activity has yielded fewer noble results. As might be expected, the smaller the geographical region in which M&A activity is pursued, the higher the likelihood that monopolistic tendencies will result.\n            ObjectiveWe focused on three types of competition perceptions, external environment uncertainty–related competition, technology disruption–driven competition, and customer service–driven competition, and two integration plans, vertical integration and horizontal integration. We examined (1) how health system characteristics help discern competition perceptions and integration decisions, and (2) how environment-, technology-, and service-driven competition aspects influence vertical and horizontal integration among US health systems in the post-COVID-19 new normal.\n            MethodsWe used data for this study collected through a consultant from a robust group of health system chief executive officers (CEOs) across the United States from February to March 2021. Among the 625 CEOs, 135 (21.6%) responded to our survey. We considered competition and integration aspects from the literature and ratified them via expert consensus. We collected secondary data from the Agency for Healthcare Research and Quality (AHRQ) Compendium of the US Health Systems, leading to a matched data set for 124 health systems. We used inferential statistical comparisons to assess differences across health systems regarding competition and integration, and we used ordered logit estimations to relate competition and integration.\n            ResultsHealth systems generally have a high level of the four types of competition perceptions, with the greatest concern being technology disruption–driven competition rather than environment uncertainty–related competition and customer service–driven competition. The first set of estimation results showed that size, teaching status, revenue, and uncompensated care burden are the main contingent factors influencing the three competition perceptions. The second set of estimation results revealed the relationships between different competition perceptions and integration plans. For vertical integration, environment uncertainty–related competition had a significant positive influence (P<.001), while the influence of technology disruption–driven competition was significant but negative (P<.001). The influence of customer service–driven competition on vertical integration was not evident. For horizontal integration, the results were similar for environment uncertainty–related competition and technology disruption–driven competition; however, the significance of technology disruption–driven competition was weak (P=.05). The influence of customer service–driven competition in the combined model was significant and negative (P<.001).\n            ConclusionsCompetition-driven integration has subtle influences across health systems. Environment uncertainty–related competition is a significant factor, with underlying contingent factors such as revenue concerns and leadership as the leading causes of integration plans. However, technology disruption may hinder integrations. Undoubtedly, small- and low-revenue health systems facing a high level of competition are likely to merge to navigate the health care business successfully. This trend should be a focus of policy to avoid monopolistic markets",
+      "has_full_text": false,
+      "download_url": "",
+      "full_text_snippet": "",
+      "year": 2022,
+      "publisher": "JMIR Publications",
+      "oai": null
+    },
+    "semantic_scholar": {
+      "paper_id": "5352b8b68d8bcd47ac274d8e166af5cff5ea7973",
+      "title": "Competition and Integration of US Health Systems in the Post-COVID-19 New Normal: Cross-sectional Survey",
+      "abstract": "Background How do health systems in the United States view the concept of merger and acquisition (M&A) in a post-COVID 19 “new normal”? How do new entrants to the market and incumbents influence horizontal and vertical integration of health systems? Traditionally, it has been argued that M&A activity is designed to reduce inequities in the market, shift toward value-based care, or enhance the number and quality of health care offerings in a given market. However, the recent history of M&A activity has yielded fewer noble results. As might be expected, the smaller the geographical region in which M&A activity is pursued, the higher the likelihood that monopolistic tendencies will result. Objective We focused on three types of competition perceptions, external environment uncertainty–related competition, technology disruption–driven competition, and customer service–driven competition, and two integration plans, vertical integration and horizontal integration. We examined (1) how health system characteristics help discern competition perceptions and integration decisions, and (2) how environment-, technology-, and service-driven competition aspects influence vertical and horizontal integration among US health systems in the post-COVID-19 new normal. Methods We used data for this study collected through a consultant from a robust group of health system chief executive officers (CEOs) across the United States from February to March 2021. Among the 625 CEOs, 135 (21.6%) responded to our survey. We considered competition and integration aspects from the literature and ratified them via expert consensus. We collected secondary data from the Agency for Healthcare Research and Quality (AHRQ) Compendium of the US Health Systems, leading to a matched data set for 124 health systems. We used inferential statistical comparisons to assess differences across health systems regarding competition and integration, and we used ordered logit estimations to relate competition and integration. Results Health systems generally have a high level of the four types of competition perceptions, with the greatest concern being technology disruption–driven competition rather than environment uncertainty–related competition and customer service–driven competition. The first set of estimation results showed that size, teaching status, revenue, and uncompensated care burden are the main contingent factors influencing the three competition perceptions. The second set of estimation results revealed the relationships between different competition perceptions and integration plans. For vertical integration, environment uncertainty–related competition had a significant positive influence (P<.001), while the influence of technology disruption–driven competition was significant but negative (P<.001). The influence of customer service–driven competition on vertical integration was not evident. For horizontal integration, the results were similar for environment uncertainty–related competition and technology disruption–driven competition; however, the significance of technology disruption–driven competition was weak (P=.05). The influence of customer service–driven competition in the combined model was significant and negative (P<.001). Conclusions Competition-driven integration has subtle influences across health systems. Environment uncertainty–related competition is a significant factor, with underlying contingent factors such as revenue concerns and leadership as the leading causes of integration plans. However, technology disruption may hinder integrations. Undoubtedly, small- and low-revenue health systems facing a high level of competition are likely to merge to navigate the health care business successfully. This trend should be a focus of policy to avoid monopolistic markets.",
+      "year": 2021,
+      "venue": "JMIR Formative Research",
+      "citation_count": 3,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 39,
+      "mentions_ahrq": true
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 3,
+      "mentions_ahrq": true,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 95
+  },
+  {
+    "doi": "10.1161/CIRCOUTCOMES.121.008269",
+    "eid": "2-s2.0-85130642366",
+    "title": "Influence of Hospital Characteristics on Hospital Transfer Destinations for Patients with Stroke",
+    "timestamp": "2025-06-25T22:07:59.198918",
+    "crossref": {
+      "doi": "10.1161/CIRCOUTCOMES.121.008269",
+      "is-referenced-by-count": 13,
+      "references-count": 48,
+      "title": "Influence of Hospital Characteristics on Hospital Transfer Destinations for Patients With Stroke",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 13,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1136/bmj-2023-074908",
+    "eid": "2-s2.0-85175220851",
+    "title": "Racial differences in low value care among older adult Medicare patients in US health systems: Retrospective cohort study",
+    "timestamp": "2025-06-25T22:07:59.194850",
+    "crossref": {
+      "doi": "10.1136/bmj-2023-074908",
+      "is-referenced-by-count": 7,
+      "references-count": 74,
+      "title": "Racial differences in low value care among older adult Medicare patients in US health systems: retrospective cohort study",
+      "publisher": "BMJ",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "DOI": "10.13039/100000133",
+          "name": "Agency for Healthcare Research and Quality",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100000133",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100014848",
+          "name": "Arnold Ventures",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100014848",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100000049",
+          "name": "National Institute on Aging",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100000049",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "ahrq_funded": true
+    },
+    "semantic_scholar": {
+      "paper_id": "34a825c9258b53cd96cbd351e8acacc4c049ea1f",
+      "title": "Racial differences in low value care among older adult Medicare patients in US health systems: retrospective cohort study",
+      "abstract": "Abstract Objective To characterize racial differences in receipt of low value care (services that provide little to no benefit yet have potential for harm) among older Medicare beneficiaries overall and within health systems in the United States. Design Retrospective cohort study Setting 100% Medicare fee-for-service administrative data (2016–18). Participants Black and White Medicare patients aged 65 or older as of 2016 and attributed to 595 health systems in the United States. Main outcome measures Receipt of 40 low value services among Black and White patients, with and without adjustment for patient age, sex, and previous healthcare use. Additional models included health system fixed effects to assess racial differences within health systems and separately, racial composition of the health system’s population to assess the relative contributions of individual patient race and health system racial composition to low value care receipt. Results The cohort included 9 833 304 patients (6.8% Black; 57.9% female). Of 40 low value services examined, Black patients had higher adjusted receipt of nine services and lower receipt of 20 services than White patients. Specifically, Black patients were more likely to receive low value acute diagnostic tests, including imaging for uncomplicated headache (6.9% v 3.2%) and head computed tomography scans for dizziness (3.1% v 1.9%). White patients had higher rates of low value screening tests and treatments, including preoperative laboratory tests (10.3% v 6.5%), prostate specific antigen tests (31.0% v 25.7%), and antibiotics for upper respiratory infections (36.6% v 32.7%; all P<0.001). Secondary analyses showed that these differences persisted within given health systems and were not explained by Black and White patients receiving care from different systems. Conclusions Black patients were more likely to receive low value acute diagnostic tests and White patients were more likely to receive low value screening tests and treatments. Differences were generally small and were largely due to differential care within health systems. These patterns suggest potential individual, interpersonal, and structural factors that researchers, policy makers, and health system leaders might investigate and address to improve care quality and equity.",
+      "year": 2023,
+      "venue": "British medical journal",
+      "citation_count": 8,
+      "influential_citations": 1,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 73,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 8,
+      "mentions_ahrq": false,
+      "ahrq_funded": true,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.2196/35317",
+    "eid": "2-s2.0-85133526512",
+    "title": "Integration vs Collaborative Redesign Strategies of Health Systems’ Supply Chains in the Post-COVID-19 New Normal: Cross-sectional Survey across the United States",
+    "timestamp": "2025-06-25T22:07:59.099655",
+    "crossref": {
+      "doi": "10.2196/35317",
+      "is-referenced-by-count": 4,
+      "references-count": 30,
+      "title": "Integration vs Collaborative Redesign Strategies of Health Systems’ Supply Chains in the Post-COVID-19 New Normal: Cross-sectional Survey Across the United States",
+      "publisher": "JMIR Publications Inc.",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 232291560,
+      "title": "Integration vs Collaborative Redesign Strategies of Health Systems’ Supply Chains in the Post-COVID-19 New Normal: Cross-sectional Survey Across the United States",
+      "abstract": "\n            Background\n            Given the widespread disruptions to supply chains in 2020 because of the COVID-19 pandemic, questions such as how health systems are shaping strategies to restore the supply chain disruptions are essential to have confidence in health systems’ supply chain model strategies. Plausibly, health systems have an opportunity for redesign, growth, and innovation by utilizing collaborative strategies now, compared to the usual strategies of integrating their existing supply chains to reduce inefficiencies.\n          \n          \n            Objective\n            This study focuses on teasing out the nuance of supply chain integration versus collaborative redesign strategies for health systems in the post-COVID-19 new normal. We focus on 2 research questions. First, we explore the impact of perceived supply chain challenges and disruptions on health systems’ supply chain integration (SC-INTEGRATION) and collaborative redesign (SC-REDESIGN) strategies. Second, we examine the outcomes of integration and collaborative redesign strategic choices on growth and service outcomes.\n          \n          \n            Methods\n            We used data for this study collected through a consultant from a robust group of health system chief executive officers (CEOs) across the United States from February to March 2021. Among the 625 health system CEOs contacted, 135 (21.6%) responded to our survey. We considered supply chain–relevant strategy and outcome variables from the literature and ratified them via expert consensus. We collected secondary data from the Agency for Healthcare Research and Quality (AHRQ) Compendium of the US Health Systems, leading to a matched data set from the 124 health systems. Next, we used ordered logit model estimation to examine CEO preferences for partnership strategies to address current supply disruptions and the outcomes of strategy choices.\n          \n          \n            Results\n            Health systems with higher disruptions would choose integration (positive, P&lt;.001) over redesign, indicating that they still trust the existing partners. Integration strategy is perceived to result in better service outcomes (P&lt;.01), while collaborations are perceived to lead to greater growth opportunities (P&lt;.05); however, the role of integration in growth is not entirely ruled out (combined model, P&lt;.001). Plausibly, some health systems would choose integration and collaborative redesign models, which have a significant relationship with both services (combined model, P&lt;.01) and growth, establishing the importance of mixed strategies for health systems.\n          \n          \n            Conclusions\n            The cost of health care continues to rise, and supply-related costs constitute a large portion of a hospital’s expenditure. Understanding supply chain strategic choices are essential for a health system’s success. Although collaboration is an option, focusing on and improving existing integration dynamics is helpful to foster both growth and services for health systems.\n          </jats:sec",
+      "has_full_text": false,
+      "download_url": "",
+      "full_text_snippet": "",
+      "year": 2022,
+      "publisher": "JMIR Publications Inc.",
+      "oai": null
+    },
+    "semantic_scholar": {
+      "paper_id": "63f1b1f69b0e723a7c5d2ef032a13a5655ff1e2c",
+      "title": "Integration vs Collaborative Redesign Strategies of Health Systems’ Supply Chains in the Post-COVID-19 New Normal: Cross-sectional Survey Across the United States",
+      "abstract": "Background Given the widespread disruptions to supply chains in 2020 because of the COVID-19 pandemic, questions such as how health systems are shaping strategies to restore the supply chain disruptions are essential to have confidence in health systems’ supply chain model strategies. Plausibly, health systems have an opportunity for redesign, growth, and innovation by utilizing collaborative strategies now, compared to the usual strategies of integrating their existing supply chains to reduce inefficiencies. Objective This study focuses on teasing out the nuance of supply chain integration versus collaborative redesign strategies for health systems in the post-COVID-19 new normal. We focus on 2 research questions. First, we explore the impact of perceived supply chain challenges and disruptions on health systems’ supply chain integration (SC-INTEGRATION) and collaborative redesign (SC-REDESIGN) strategies. Second, we examine the outcomes of integration and collaborative redesign strategic choices on growth and service outcomes. Methods We used data for this study collected through a consultant from a robust group of health system chief executive officers (CEOs) across the United States from February to March 2021. Among the 625 health system CEOs contacted, 135 (21.6%) responded to our survey. We considered supply chain–relevant strategy and outcome variables from the literature and ratified them via expert consensus. We collected secondary data from the Agency for Healthcare Research and Quality (AHRQ) Compendium of the US Health Systems, leading to a matched data set from the 124 health systems. Next, we used ordered logit model estimation to examine CEO preferences for partnership strategies to address current supply disruptions and the outcomes of strategy choices. Results Health systems with higher disruptions would choose integration (positive, P<.001) over redesign, indicating that they still trust the existing partners. Integration strategy is perceived to result in better service outcomes (P<.01), while collaborations are perceived to lead to greater growth opportunities (P<.05); however, the role of integration in growth is not entirely ruled out (combined model, P<.001). Plausibly, some health systems would choose integration and collaborative redesign models, which have a significant relationship with both services (combined model, P<.01) and growth, establishing the importance of mixed strategies for health systems. Conclusions The cost of health care continues to rise, and supply-related costs constitute a large portion of a hospital’s expenditure. Understanding supply chain strategic choices are essential for a health system’s success. Although collaboration is an option, focusing on and improving existing integration dynamics is helpful to foster both growth and services for health systems.",
+      "year": 2021,
+      "venue": "JMIR Formative Research",
+      "citation_count": 5,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 31,
+      "mentions_ahrq": true
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 5,
+      "mentions_ahrq": true,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 95
+  },
+  {
+    "doi": "10.1377/hlthaff.2022.00045",
+    "eid": "2-s2.0-85133274201",
+    "title": "Hospital And Regional Characteristics Associated With Emergency Department Facility Fee Cash Pricing",
+    "timestamp": "2025-06-25T22:08:00.268582",
+    "crossref": {
+      "doi": "10.1377/hlthaff.2022.00045",
+      "is-referenced-by-count": 16,
+      "references-count": 14,
+      "title": "Hospital And Regional Characteristics Associated With Emergency Department Facility Fee Cash Pricing",
+      "publisher": "Health Affairs (Project Hope)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 16,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1097/SLA.0000000000005490",
+    "eid": "2-s2.0-85139571680",
+    "title": "Do we need to augment surgical judgment in emergency surgery?",
+    "timestamp": "2025-06-25T22:08:00.330409",
+    "crossref": {
+      "doi": "10.1097/SLA.0000000000005490",
+      "is-referenced-by-count": 1,
+      "references-count": 8,
+      "title": "Do We Need to Augment Surgical Judgment in Emergency Surgery?",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 1,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1007/s11606-021-07005-y",
+    "eid": "2-s2.0-85110687679",
+    "title": "The Association of Readmission Reduction Activities with Primary Care Practice Readmission Rates",
+    "timestamp": "2025-06-25T22:08:00.321868",
+    "crossref": {
+      "doi": "10.1007/s11606-021-07005-y",
+      "is-referenced-by-count": 4,
+      "references-count": 46,
+      "title": "The Association of Readmission Reduction Activities with Primary Care Practice Readmission Rates",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "DOI": "10.13039/100000133",
+          "name": "Agency for Healthcare Research and Quality",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "1U19HS024075",
+            "1U19HS024075",
+            "1U19HS024075",
+            "1U19HS024075",
+            "1U19HS024075"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000133",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "ahrq_funded": true
+    },
+    "core": {
+      "core_id": 237904021,
+      "title": "The Association of Readmission Reduction Activities with Primary Care Practice Readmission Rates",
+      "abstract": null,
+      "has_full_text": false,
+      "download_url": "https://link.springer.com/article/10.1007/s11606-021-07005-y/fulltext.html",
+      "full_text_snippet": "",
+      "year": 2021,
+      "publisher": "Springer Science and Business Media LLC",
+      "oai": null
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 4,
+      "mentions_ahrq": false,
+      "ahrq_funded": true,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1097/SLA.0000000000005802",
+    "eid": "2-s2.0-85160230430",
+    "title": "Safety and Distribution of Opioid Prescribing by U.S. Surgeons",
+    "timestamp": "2025-06-25T22:08:01.256344",
+    "crossref": {
+      "doi": "10.1097/SLA.0000000000005802",
+      "is-referenced-by-count": 11,
+      "references-count": 37,
+      "title": "Safety and Distribution of Opioid Prescribing by U.S. Surgeons",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 11,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1089/lgbt.2021.0391",
+    "eid": "2-s2.0-85146192973",
+    "title": "Gender-Affirming Primary Care Access Among Rural Transgender and Gender Diverse Adults in Five Northeastern U.S. States",
+    "timestamp": "2025-06-25T22:08:01.278581",
+    "crossref": {
+      "doi": "10.1089/lgbt.2021.0391",
+      "is-referenced-by-count": 4,
+      "references-count": 15,
+      "title": "Gender-Affirming Primary Care Access Among Rural Transgender and Gender Diverse Adults in Five Northeastern U.S. States",
+      "publisher": "Mary Ann Liebert Inc",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 4,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1007/s11701-021-01280-x",
+    "eid": "2-s2.0-85110518200",
+    "title": "Surgeon satisfaction and outcomes of tele-proctoring for robotic gynecologic surgery",
+    "timestamp": "2025-06-25T22:08:00.251016",
+    "crossref": {
+      "doi": "10.1007/s11701-021-01280-x",
+      "is-referenced-by-count": 18,
+      "references-count": 22,
+      "title": "Surgeon satisfaction and outcomes of tele-proctoring for robotic gynecologic surgery",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "DOI": "10.13039/100000071",
+          "name": "National Institute of Child Health and Human Development",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "K12HD043441"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000071",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 237859250,
+      "title": "Surgeon satisfaction and outcomes of tele-proctoring for robotic gynecologic surgery",
+      "abstract": null,
+      "has_full_text": false,
+      "download_url": "http://dx.doi.org/10.1007/s11701-021-01280-x",
+      "full_text_snippet": "",
+      "year": 2021,
+      "publisher": "Springer Science and Business Media LLC",
+      "oai": null
+    },
+    "semantic_scholar": {
+      "paper_id": "b1db92fb4f1693d41e90d0190a4eec5044465b15",
+      "title": "Surgeon satisfaction and outcomes of tele-proctoring for robotic gynecologic surgery",
+      "abstract": "Surgical proctoring requires increasing resources in growing healthcare systems. In addition, travel has become less safe in the era of COVID-19. This study demonstrates surgeon satisfaction and safety with tele-proctoring in robotic gynecologic surgery. This pilot study assesses surgeon satisfaction and operative outcomes with a novel operative tele-proctoring system with a continuous two-way video-audio feed that allows the off-site surgeon to see the operating room, surgical field, and hands of the robotic surgeon. After thorough system testing, two experienced surgeons underwent tele-proctoring for hospital credentialing, completing 7 total cases. Each completed pre- and post-surveys developed from the Michigan Standard Simulation Experience Scale. Surgical characteristics were compared between tele-proctored cases and 59 historical cases proctored in-person over the last 8 years. Surgeons reported unanimous high satisfaction with tele-proctoring (5 ± 0). There were no major technologic issues. Five of the tele-proctored cases and 35 of controls were hysterectomies. Mean age was 48.2 ± 1.4 years, mean BMI was 29.6 ± 0.9 kg/m2, and mean uterine weight was 152 ± 112.3 g. Two-thirds had prior abdominal surgery (P > 0.1). Tele-proctored hysterectomies were 58 ± 6.5 min shorter than controls (P = 0.001). There were no differences in EBL or complication rates (P > 0.1). Tele-proctoring resulted in high surgeon satisfaction rates with no difference in EBL or complications. Tele-mentoring is a natural extension of tele-proctoring that could provide advanced surgical expertise far beyond where we can physically reach.",
+      "year": 2021,
+      "venue": "Journal of Robotic Surgery",
+      "citation_count": 20,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 24,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 20,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1093/cid/ciac515",
+    "eid": "2-s2.0-85143180974",
+    "title": "Harnessing the Power of Health Systems and Networks for Antimicrobial Stewardship",
+    "timestamp": "2025-06-25T22:08:01.230871",
+    "crossref": {
+      "doi": "10.1093/cid/ciac515",
+      "is-referenced-by-count": 12,
+      "references-count": 20,
+      "title": "Harnessing the Power of Health Systems and Networks for Antimicrobial Stewardship",
+      "publisher": "Oxford University Press (OUP)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 230746633,
+      "title": "Harnessing the Power of Health Systems and Networks for Antimicrobial Stewardship",
+      "abstract": "Abstract\n               Twenty of 21 health systems and network-based antimicrobial stewardship programs (ASPs) who were invited participated in a questionnaire, a webinar, and focus groups to understand implementation strategies for system-wide antimicrobial stewardship. Four centralized ASPs structures emerged. Of participating organizations, 3 (15%) confirmed classification as collaborative, 3 (15%) as centrally coordinated, 3 (15%) as in between or in transition between centrally coordinated and centrally led, 8 (40%) as centrally led, 2 (10%) as collaborative, consultative network. One (5%) organization considered themselves to be a hybrid. System-level stewardship responsibilities varied across sites and generally fell into 6 major categories: building and leading a stewardship community, strategic planning and goal setting, development of validated data streams, leveraging tools and technology for stewardship interventions, provision of subject-matter expertise, and communication/education. Centralized ASPs included in this study most commonly took a centrally led approach and engaged in activities tailored to system-wide goals.</jats:p",
+      "has_full_text": false,
+      "download_url": "",
+      "full_text_snippet": "",
+      "year": 2022,
+      "publisher": "Oxford University Press (OUP)",
+      "oai": null
+    },
+    "semantic_scholar": {
+      "paper_id": "0a6b774bd967fa37167f4c6023eb320d86bd59bd",
+      "title": "Harnessing the Power of Health Systems and Networks for Antimicrobial Stewardship",
+      "abstract": "Abstract Twenty of 21 health systems and network-based antimicrobial stewardship programs (ASPs) who were invited participated in a questionnaire, a webinar, and focus groups to understand implementation strategies for system-wide antimicrobial stewardship. Four centralized ASPs structures emerged. Of participating organizations, 3 (15%) confirmed classification as collaborative, 3 (15%) as centrally coordinated, 3 (15%) as in between or in transition between centrally coordinated and centrally led, 8 (40%) as centrally led, 2 (10%) as collaborative, consultative network. One (5%) organization considered themselves to be a hybrid. System-level stewardship responsibilities varied across sites and generally fell into 6 major categories: building and leading a stewardship community, strategic planning and goal setting, development of validated data streams, leveraging tools and technology for stewardship interventions, provision of subject-matter expertise, and communication/education. Centralized ASPs included in this study most commonly took a centrally led approach and engaged in activities tailored to system-wide goals.",
+      "year": 2022,
+      "venue": "Clinical Infectious Diseases",
+      "citation_count": 11,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 18,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 12,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1001/jamanetworkopen.2021.36358",
+    "eid": "2-s2.0-85120075083",
+    "title": "Representation of Women in the Leadership Structure of the US Health Care System",
+    "timestamp": "2025-06-25T22:08:02.211663",
+    "crossref": {
+      "doi": "10.1001/jamanetworkopen.2021.36358",
+      "is-referenced-by-count": 15,
+      "references-count": 6,
+      "title": "Representation of Women in the Leadership Structure of the US Health Care System",
+      "publisher": "American Medical Association (AMA)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 235289887,
+      "title": "Representation of Women in the Leadership Structure of the US Health Care System",
+      "abstract": null,
+      "has_full_text": false,
+      "download_url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2786684/odei_2021_ld_210261_1637393820.42045.pdf",
+      "full_text_snippet": "",
+      "year": 2021,
+      "publisher": "American Medical Association (AMA)",
+      "oai": null
+    },
+    "semantic_scholar": {
+      "paper_id": "dabd2d0d8afdbec939615c0d2218d158e6b71970",
+      "title": "Representation of Women in the Leadership Structure of the US Health Care System",
+      "abstract": "This cross-sectional study evaluates the gender distribution among chief executives and senior leaders at US health care organizations.",
+      "year": 2021,
+      "venue": "JAMA Network Open",
+      "citation_count": 14,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 4,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 15,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1016/j.echo.2023.01.002",
+    "eid": "2-s2.0-85150390319",
+    "title": "Variation in Cost of Echocardiography Within and Across United States Hospitals",
+    "timestamp": "2025-06-25T22:08:02.325429",
+    "crossref": {
+      "doi": "10.1016/j.echo.2023.01.002",
+      "is-referenced-by-count": 14,
+      "references-count": 20,
+      "title": "Variation in Cost of Echocardiography Within and Across United States Hospitals",
+      "publisher": "Elsevier BV",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "DOI": "10.13039/100000050",
+          "name": "National Heart Lung and Blood Institute",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100000050",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 14,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1093/ntr/ntad008",
+    "eid": "2-s2.0-85159783694",
+    "title": "Implementation, Maintenance, and Outcomes of an Electronic Referral to a Tobacco Quitline Across Five Health Systems",
+    "timestamp": "2025-06-25T22:08:02.097790",
+    "crossref": {
+      "doi": "10.1093/ntr/ntad008",
+      "is-referenced-by-count": 4,
+      "references-count": 43,
+      "title": "Implementation, Maintenance, and Outcomes of an Electronic Referral to a Tobacco Quitline Across Five Health Systems",
+      "publisher": "Oxford University Press (OUP)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "name": "UC Center for Health Quality and Innovation’s"
+        },
+        {
+          "DOI": "10.13039/100005188",
+          "name": "Tobacco-Related Disease Research Program",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "28CP-0039"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100005188",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100005002",
+          "name": "California Department of Public Health",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "1U58DP004038",
+            "NU59DP006136",
+            "NU58DP006738"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100005002",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 154516123,
+      "title": "Implementation, Maintenance, and Outcomes of an Electronic Referral to a Tobacco Quitline Across Five Health Systems",
+      "abstract": "IntroductionElectronic referral (e-referral) to quitlines helps connect tobacco-using patients to free, evidence-based cessation counseling. Little has been published about the real-world implementation of e-referrals across U.S. health systems, their maintenance over time, and the outcomes of e-referred patients.Aims and methodsBeginning in 2014, the University of California (UC)-wide project called UC Quits scaled up quitline e-referrals and related modifications to clinical workflows from one to five UC health systems. Implementation strategies were used to increase site readiness. Maintenance was supported through ongoing monitoring and quality improvement programs. Data on e-referred patients (n = 20 709) and quitline callers (n = 197 377) were collected from April 2014 to March 2021. Analyses of referral trends and cessation outcomes were conducted in 2021-2022.ResultsOf 20 709 patients referred, the quitline contacted 47.1%, 20.6% completed intake, 15.2% requested counseling, and 10.9% received it. In the 1.5-year implementation phase, 1813 patients were referred. In the 5.5-year maintenance phase, volume was sustained, with 3436 referrals annually on average. Among referred patients completing intake (n = 4264), 46.2% were nonwhite, 58.8% had Medicaid, 58.7% had a chronic disease, and 48.8% had a behavioral health condition. In a sample randomly selected for follow-up, e-referred patients were as likely as general quitline callers to attempt quitting (68.5% vs. 71.4%; p = .23), quit for 30 days (28.3% vs. 26.9%; p = .52), and quit for 6 months (13.6% vs. 13.9%; p = .88).ConclusionsWith a whole-systems approach, quitline e-referrals can be established and sustained across inpatient and outpatient settings with diverse patient populations. Cessation outcomes were similar to those of general quitline callers.ImplicationsThis study supports the broad implementation of tobacco quitline e-referrals in health care. To the best of our knowledge, no other paper has described the implementation of e-referrals across multiple U.S. health systems or how they were sustained over time. Modifying electronic health records systems and clinical workflows to enable and encourage e-referrals, if implemented and maintained appropriately, can be expected to improve patient care, make it easier for clinicians to support patients in quitting, increase the proportion of patients using evidence-based treatment, provide data to assess progress on quality goals, and help meet reporting requirements for tobacco screening and prevention",
+      "has_full_text": false,
+      "download_url": "",
+      "full_text_snippet": "",
+      "year": 2023,
+      "publisher": "eScholarship, University of California",
+      "oai": null
+    },
+    "semantic_scholar": {
+      "paper_id": "69090b4d36cc766bd666a5abe6488d6b85696529",
+      "title": "Implementation, Maintenance, and Outcomes of an Electronic Referral to a Tobacco Quitline Across Five Health Systems",
+      "abstract": "Abstract Introduction Electronic referral (e-referral) to quitlines helps connect tobacco-using patients to free, evidence-based cessation counseling. Little has been published about the real-world implementation of e-referrals across U.S. health systems, their maintenance over time, and the outcomes of e-referred patients. Aims and Methods Beginning in 2014, the University of California (UC)-wide project called UC Quits scaled up quitline e-referrals and related modifications to clinical workflows from one to five UC health systems. Implementation strategies were used to increase site readiness. Maintenance was supported through ongoing monitoring and quality improvement programs. Data on e-referred patients (n = 20 709) and quitline callers (n = 197 377) were collected from April 2014 to March 2021. Analyses of referral trends and cessation outcomes were conducted in 2021–2022. Results Of 20 709 patients referred, the quitline contacted 47.1%, 20.6% completed intake, 15.2% requested counseling, and 10.9% received it. In the 1.5-year implementation phase, 1813 patients were referred. In the 5.5-year maintenance phase, volume was sustained, with 3436 referrals annually on average. Among referred patients completing intake (n = 4264), 46.2% were nonwhite, 58.8% had Medicaid, 58.7% had a chronic disease, and 48.8% had a behavioral health condition. In a sample randomly selected for follow-up, e-referred patients were as likely as general quitline callers to attempt quitting (68.5% vs. 71.4%; p = .23), quit for 30 days (28.3% vs. 26.9%; p = .52), and quit for 6 months (13.6% vs. 13.9%; p = .88). Conclusions With a whole-systems approach, quitline e-referrals can be established and sustained across inpatient and outpatient settings with diverse patient populations. Cessation outcomes were similar to those of general quitline callers. Implications This study supports the broad implementation of tobacco quitline e-referrals in health care. To the best of our knowledge, no other paper has described the implementation of e-referrals across multiple U.S. health systems or how they were sustained over time. Modifying electronic health records systems and clinical workflows to enable and encourage e-referrals, if implemented and maintained appropriately, can be expected to improve patient care, make it easier for clinicians to support patients in quitting, increase the proportion of patients using evidence-based treatment, provide data to assess progress on quality goals, and help meet reporting requirements for tobacco screening and prevention.",
+      "year": 2023,
+      "venue": "Nicotine & Tobacco Research",
+      "citation_count": 4,
+      "influential_citations": 1,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 48,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 4,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1002/trc2.12408",
+    "eid": "2-s2.0-85166415907",
+    "title": "Dementia care navigation: Building toward a common definition, key principles, and outcomes",
+    "timestamp": "2025-06-25T22:08:02.498895",
+    "crossref": {
+      "doi": "10.1002/trc2.12408",
+      "is-referenced-by-count": 19,
+      "references-count": 42,
+      "title": "Dementia care navigation: Building toward a common definition, key principles, and outcomes",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 149661876,
+      "title": "Dementia care navigation: Building toward a common definition, key principles, and outcomes",
+      "abstract": "Abstract INTRODUCTION As the complexity of medical treatments and patient care systems have increased, the concept of patient navigation is growing in both popularity and breadth of application. Patient navigators are trained personnel whose role is not to provide clinical care, but to partner with patients to help them identify their needs and goals and then overcome modifiable patient‐, provider‐, and systems‐level barriers. Due to its high incidence, duration, and medical–social complexity, dementia is an ideal candidate for a patient‐centric health care delivery model such as care navigation. METHODS The Alzheimer's Association formed an expert workgroup of researchers in the field of dementia care navigation to identify evidence‐based guidelines. RESULTS Recognizing the unique and challenging needs of persons living with dementia and their care partners, several U.S. dementia care navigation programs have been developed and assessed in recent years. Collectively these programs demonstrate that persons living with dementia and their care partners benefit from dementia care navigation. Improved care system outcomes for the person living with dementia include reduced emergency department visits, lower hospital readmissions, fewer days hospitalized, and shorter delays in long‐term care placement. Well‐being is also increased, as there is decreased depression, illness, strain, embarrassment, and behavioral symptoms and increased self‐reported quality of life. For care partners, dementia navigation resulted in decreased depression, burden, and unmet needs. DISCUSSION This article presents principles of dementia care navigation to inform existing and emerging dementia care navigation programs. Highlights Several U.S. dementia care navigation programs have demonstrated outcomes for persons living with dementia, care partners, and health systems. The Alzheimer's Association formed an expert workgroup of researchers in the field of dementia care navigation to create a shared definition and identify evidence‐based guidelines or principles. These outlined principles of dementia care navigation can inform existing and emerging dementia care navigation programs",
+      "has_full_text": false,
+      "download_url": "https://core.ac.uk/download/649474163.pdf",
+      "full_text_snippet": "",
+      "year": 2023,
+      "publisher": "Wiley",
+      "oai": null
+    },
+    "semantic_scholar": {
+      "paper_id": "502bbe50955a2c67495c826d78d552db9e2b2c8e",
+      "title": "Dementia care navigation: Building toward a common definition, key principles, and outcomes",
+      "abstract": "As the complexity of medical treatments and patient care systems have increased, the concept of patient navigation is growing in both popularity and breadth of application. Patient navigators are trained personnel whose role is not to provide clinical care, but to partner with patients to help them identify their needs and goals and then overcome modifiable patient‐, provider‐, and systems‐level barriers. Due to its high incidence, duration, and medical–social complexity, dementia is an ideal candidate for a patient‐centric health care delivery model such as care navigation.",
+      "year": 2023,
+      "venue": "Alzheimer's & Dementia",
+      "citation_count": 20,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 43,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 20,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1377/hlthaff.2022.01319",
+    "eid": "2-s2.0-85166783883",
+    "title": "Who’s accountable? Low-value care received by medicare beneficiaries outside of their attributed health systems",
+    "timestamp": "2025-06-25T22:08:03.134514",
+    "crossref": {
+      "doi": "10.1377/hlthaff.2022.01319",
+      "is-referenced-by-count": 2,
+      "references-count": 35,
+      "title": "Who’s Accountable? Low-Value Care Received By Medicare Beneficiaries Outside Of Their Attributed Health Systems",
+      "publisher": "Health Affairs (Project Hope)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 2,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1097/MLR.0000000000001673",
+    "eid": "2-s2.0-85122831730",
+    "title": "Survey of Information Exchange and Advanced Use of Other Health Information Technology in Primary Care Settings Capabilities In and Outside of the Safety Net",
+    "timestamp": "2025-06-25T22:08:03.270414",
+    "crossref": {
+      "doi": "10.1097/MLR.0000000000001673",
+      "is-referenced-by-count": 7,
+      "references-count": 32,
+      "title": "Survey of Information Exchange and Advanced Use of Other Health Information Technology in Primary Care Settings",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 7,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1200/OP.20.01089",
+    "eid": "2-s2.0-85105767840",
+    "title": "Fragmentation of Care Among Black Women With Breast Cancer and Comorbidities: The Role of Health Systems",
+    "timestamp": "2025-06-25T22:08:03.335752",
+    "crossref": {
+      "doi": "10.1200/OP.20.01089",
+      "is-referenced-by-count": 19,
+      "references-count": 51,
+      "title": "Fragmentation of Care Among Black Women With Breast Cancer and Comorbidities: The Role of Health Systems",
+      "publisher": "American Society of Clinical Oncology (ASCO)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 19,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1007/s11606-020-06485-8",
+    "eid": "2-s2.0-85099565948",
+    "title": "The Missed Opportunity of Primary Care Providers’ Online Biographies: a Content Analysis of US Health Systems in 2020",
+    "timestamp": "2025-06-25T22:08:03.548179",
+    "crossref": {
+      "doi": "10.1007/s11606-020-06485-8",
+      "is-referenced-by-count": 1,
+      "references-count": 28,
+      "title": "The Missed Opportunity of Primary Care Providers’ Online Biographies: a Content Analysis of US Health Systems in 2020",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 241608774,
+      "title": "The Missed Opportunity of Primary Care Providers’ Online Biographies: a Content Analysis of US Health Systems in 2020",
+      "abstract": null,
+      "has_full_text": false,
+      "download_url": "https://link.springer.com/article/10.1007/s11606-020-06485-8/fulltext.html",
+      "full_text_snippet": "",
+      "year": 2021,
+      "publisher": "Springer Science and Business Media LLC",
+      "oai": null
+    },
+    "semantic_scholar": {
+      "paper_id": "10c8d06f6212fa225dc8d7cf01e94f91edb12729",
+      "title": "The Missed Opportunity of Primary Care Providers’ Online Biographies: a Content Analysis of US Health Systems in 2020",
+      "abstract": "Prospective patients are increasingly going to health systems’ online directories to find their next primary care providers (PCP), making this channel of communication important to assess to determine if it is meeting patients’ needs. When seeking a new PCP, patients want to know not only educational credentials but also providers’ communication traits, and personal information to showcase providers as real people. Offering this information, to help patients find providers best suited to meet their needs, is a key attribute of patient-centered care. To analyze whether health systems’ online PCP biographies are including the information prospective patients deem important when selecting a PCP. Using the AHRQ’s Compendium of US Health Systems, 523 health systems’ PCP biographies were content analyzed (n = 5004 biographies) from December 2019 to March 2020. Forty-eight unique pieces of information were coded for either their presence or absence (e.g., education, photo, languages spoken, insurance accepted, patient reviews, philosophy of care, video provided, personal hobbies/interests). Providers’ alphabetic credentials (e.g., MD, DO, APRN) were also documented. The majority of biographies stated the provider’s medical education (83.6%) and included a photo (81.4%). However, information patients also desire (e.g., communication traits and personal information) were less prevalent. Only 33.7% listed languages spoken, 18.2% offered patient reviews, 14.4% had personal hobbies/interests, and 10.6% included a video. There were also 192 unique alphabetic credential combinations listed next to providers’ names. Two health systems clearly included information within biographies to help prospective patients understand what these credentials meant. Health systems could make simple changes to their providers’ online biographies in order to help patients make more informed decisions of PCPs. Doing so may decrease doctor shopping, and also lead to a greater likelihood of developing longer-term relationships with PCPs.",
+      "year": 2021,
+      "venue": "Journal of general internal medicine",
+      "citation_count": 2,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 26,
+      "mentions_ahrq": true
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 2,
+      "mentions_ahrq": true,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1377/hlthaff.2021.00001",
+    "eid": "2-s2.0-85115926183",
+    "title": "Regulating Hospital Prices Based On Market Concentration Is Likely To Leave High-Price Hospitals Unaffected",
+    "timestamp": "2025-06-25T22:08:03.980239",
+    "crossref": {
+      "doi": "10.1377/hlthaff.2021.00001",
+      "is-referenced-by-count": 7,
+      "references-count": 15,
+      "title": "Regulating Hospital Prices Based On Market Concentration Is Likely To Leave High-Price Hospitals Unaffected",
+      "publisher": "Health Affairs (Project Hope)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 236877155,
+      "title": "Regulating Hospital Prices Based On Market Concentration Is Likely To Leave High-Price Hospitals Unaffected",
+      "abstract": null,
+      "has_full_text": false,
+      "download_url": "",
+      "full_text_snippet": "",
+      "year": 2021,
+      "publisher": "Health Affairs (Project Hope)",
+      "oai": null
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 7,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1001/jamanetworkopen.2020.37196",
+    "eid": "2-s2.0-85101483257",
+    "title": "Assessment of Spanish Translation of Websites at Top-Ranked US Hospitals",
+    "timestamp": "2025-06-25T22:08:04.256260",
+    "crossref": {
+      "doi": "10.1001/jamanetworkopen.2020.37196",
+      "is-referenced-by-count": 5,
+      "references-count": 6,
+      "title": "Assessment of Spanish Translation of Websites at Top-Ranked US Hospitals",
+      "publisher": "American Medical Association (AMA)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 241120149,
+      "title": "Assessment of Spanish Translation of Websites at Top-Ranked US Hospitals",
+      "abstract": null,
+      "has_full_text": false,
+      "download_url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2776169/honeycutt_2021_ld_200229_1647360145.58033.pdf",
+      "full_text_snippet": "",
+      "year": 2021,
+      "publisher": "American Medical Association (AMA)",
+      "oai": null
+    },
+    "semantic_scholar": {
+      "paper_id": "06c365783713aab8f42b41e22b8804d78e84defe",
+      "title": "Assessment of Spanish Translation of Websites at Top-Ranked US Hospitals",
+      "abstract": "This cross-sectional study examines whether Spanish translation of top US hospital websites is associated with hospitals with public medical schools, children’s hospitals, larger Latinx population, or local Immigration and Customs Enforcement activities.",
+      "year": 2021,
+      "venue": "JAMA Network Open",
+      "citation_count": 5,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 0,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 5,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1097/SLA.0000000000006541",
+    "eid": "2-s2.0-85205298178",
+    "title": "Characteristics of High-Quality Multi-Hospital Health Systems Performing Major Cancer Surgery",
+    "timestamp": "2025-06-25T22:08:04.202868",
+    "crossref": {
+      "doi": "10.1097/SLA.0000000000006541",
+      "is-referenced-by-count": 0,
+      "references-count": 0,
+      "title": "Characteristics of High-Quality Multi-Hospital Health Systems Performing Major Cancer Surgery",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1377/hlthaff.2020.00812",
+    "eid": "2-s2.0-85099417722",
+    "title": "Geographic variation in the consolidation of physicians into health systems, 2016–18",
+    "timestamp": "2025-06-25T22:08:04.444857",
+    "crossref": {
+      "doi": "10.1377/hlthaff.2020.00812",
+      "is-referenced-by-count": 15,
+      "references-count": 5,
+      "title": "Geographic Variation In The Consolidation Of Physicians Into Health Systems, 2016–18",
+      "publisher": "Health Affairs (Project Hope)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 241938378,
+      "title": "Geographic Variation In The Consolidation Of Physicians Into Health Systems, 2016–18",
+      "abstract": null,
+      "has_full_text": false,
+      "download_url": "",
+      "full_text_snippet": "",
+      "year": 2021,
+      "publisher": "Health Affairs (Project Hope)",
+      "oai": null
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 15,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1377/hlthaff.2020.00100",
+    "eid": "2-s2.0-85099409024",
+    "title": "Avoiding medicaid: Characteristics of primary care practices with no medicaid revenue",
+    "timestamp": "2025-06-25T22:08:04.962512",
+    "crossref": {
+      "doi": "10.1377/hlthaff.2020.00100",
+      "is-referenced-by-count": 14,
+      "references-count": 35,
+      "title": "Avoiding Medicaid: Characteristics Of Primary Care Practices With No Medicaid Revenue",
+      "publisher": "Health Affairs (Project Hope)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 241920258,
+      "title": "Avoiding Medicaid: Characteristics Of Primary Care Practices With No Medicaid Revenue",
+      "abstract": null,
+      "has_full_text": false,
+      "download_url": "",
+      "full_text_snippet": "",
+      "year": 2021,
+      "publisher": "Health Affairs (Project Hope)",
+      "oai": null
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 14,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1097/JHM-D-23-00210",
+    "eid": "2-s2.0-85198292021",
+    "title": "Leadership to Accelerate Healthcare's Digital Transformation: Evidence from 33 Health Systems",
+    "timestamp": "2025-06-25T22:08:05.148975",
+    "crossref": {
+      "doi": "10.1097/JHM-D-23-00210",
+      "is-referenced-by-count": 4,
+      "references-count": 25,
+      "title": "Leadership to Accelerate Healthcare’s Digital Transformation: Evidence From 33 Health Systems",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 4,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1111/1468-0009.70016",
+    "eid": "2-s2.0-105004352464",
+    "title": "A Policy and Regulatory Framework to Promote Care Delivery Redesign and Production Efficiency in Health Care Markets",
+    "timestamp": "2025-06-25T22:08:05.125981",
+    "crossref": {
+      "doi": "10.1111/1468-0009.70016",
+      "is-referenced-by-count": 0,
+      "references-count": 117,
+      "title": "A Policy and Regulatory Framework to Promote Care Delivery Redesign and Production Efficiency in Health Care Markets",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "DOI": "10.13039/100000133",
+          "name": "Agency for Healthcare Research and Quality",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "1U19HS024067‐01"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000133",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "ahrq_funded": true
+    },
+    "semantic_scholar": {
+      "paper_id": "5a2c0c41e7ac0b4b607cb0379cb64381c9f1b06f",
+      "title": "A Policy and Regulatory Framework to Promote Care Delivery Redesign and Production Efficiency in Health Care Markets.",
+      "abstract": "Policy Points Antitrust enforcement has been too narrowly focused on predicting postmerger market share and not enough on the likely impact of mergers and acquisitions on production efficiency and quality. Care delivery redesign is a term that captures various innovations and changes in the organization and delivery of health care, which may lead to increased production efficiency and improved quality of care. Regulators and policymakers can use the framework to develop empirical measures to assist in understanding changes in production processes as well as in resultant outcomes. Significant opportunities exist to improve data collection and require reporting to better assist regulators with antitrust enforcement and help policymakers create effective legislation. Examples include improving compliance with required hospital and insurer transaction price data reporting, growing the availability of all-payer claims databases, improving existing Medicare cost reporting, and achieving consensus on quality measures that are best used to measure the impact of consolidation. There is a fundamental need to systematically track health care organizations and their affiliations and component parts (e.g., hospitals, physician practices, skilled nursing facilities, etc.) longitudinally, especially as organizations expand across markets and state boundaries and are owned by various entities, including private equity.",
+      "year": 2025,
+      "venue": "Milbank Quarterly",
+      "citation_count": 0,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 70,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": true,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1136/leader-2023-000969",
+    "eid": "2-s2.0-85204191424",
+    "title": "Evolving role of the health system CIO: perspectives from 33 health systems",
+    "timestamp": "2025-06-25T22:08:05.619368",
+    "crossref": {
+      "doi": "10.1136/leader-2023-000969",
+      "is-referenced-by-count": 0,
+      "references-count": 17,
+      "title": "Evolving role of the health system CIO: perspectives from 33 health systems",
+      "publisher": "BMJ",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "name": "Scottsdale Institute",
+          "award": [
+            "Not Applicable"
+          ]
+        }
+      ],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1001/jama.2022.24032",
+    "eid": "2-s2.0-85147047824",
+    "title": "Organization and Performance of US Health Systems",
+    "timestamp": "2025-06-25T22:08:05.968081",
+    "crossref": {
+      "doi": "10.1001/jama.2022.24032",
+      "is-referenced-by-count": 37,
+      "references-count": 48,
+      "title": "Organization and Performance of US Health Systems",
+      "publisher": "American Medical Association (AMA)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 229497879,
+      "title": "Organization and Performance of US Health Systems",
+      "abstract": "ImportanceHealth systems play a central role in the delivery of health care, but relatively little is known about these organizations and their performance.ObjectiveTo (1) identify and describe health systems in the United States; (2) assess differences between physicians and hospitals in and outside of health systems; and (3) compare quality and cost of care delivered by physicians and hospitals in and outside of health systems.Evidence ReviewHealth systems were defined as groups of commonly owned or managed entities that included at least 1 general acute care hospital, 10 primary care physicians, and 50 total physicians located within a single hospital referral region. They were identified using Centers for Medicare &amp;amp;amp; Medicaid Services administrative data, Internal Revenue Service filings, Medicare and commercial claims, and other data. Health systems were categorized as academic, public, large for-profit, large nonprofit, or other private systems. Quality of preventive care, chronic disease management, patient experience, low-value care, mortality, hospital readmissions, and spending were assessed for Medicare beneficiaries attributed to system and nonsystem physicians. Prices for physician and hospital services and total spending were assessed in 2018 commercial claims data. Outcomes were adjusted for patient characteristics and geographic area.FindingsA total of 580 health systems were identified and varied greatly in size. Systems accounted for 40% of physicians and 84% of general acute care hospital beds and delivered primary care to 41% of traditional Medicare beneficiaries. Academic and large nonprofit systems accounted for a majority of system physicians (80%) and system hospital beds (64%). System hospitals were larger than nonsystem hospitals (67% vs 23% with &amp;amp;gt;100 beds), as were system physician practices (74% vs 12% with &amp;amp;gt;100 physicians). Performance on measures of preventive care, clinical quality, and patient experience was modestly higher for health system physicians and hospitals than for nonsystem physicians and hospitals. Prices paid to health system physicians and hospitals were significantly higher than prices paid to nonsystem physicians and hospitals (12%-26% higher for physician services, 31% for hospital services). Adjusting for practice size attenuated health systems differences on quality measures, but price differences for small and medium practices remained large.Conclusions and RelevanceIn 2018, health system physicians and hospitals delivered a large portion of medical services. Performance on clinical quality and patient experience measures was marginally better in systems but spending and prices were substantially higher. This was especially true for small practices. Small quality differentials combined with large price differentials suggests that health systems have not, on average, realized their potential for better care at equal or lower cost.</jats:sec",
+      "has_full_text": false,
+      "download_url": "http://dx.doi.org/10.1001/jama.2022.24032",
+      "full_text_snippet": "",
+      "year": 2023,
+      "publisher": "American Medical Association (AMA)",
+      "oai": null
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 37,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1001/jamahealthforum.2022.4889",
+    "eid": "2-s2.0-85145562188",
+    "title": "Performance of Physician Groups and Hospitals Participating in Bundled Payments among Medicare Beneficiaries",
+    "timestamp": "2025-06-25T22:08:06.094632",
+    "crossref": {
+      "doi": "10.1001/jamahealthforum.2022.4889",
+      "is-referenced-by-count": 2,
+      "references-count": 22,
+      "title": "Performance of Physician Groups and Hospitals Participating in Bundled Payments Among Medicare Beneficiaries",
+      "publisher": "American Medical Association (AMA)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 230188989,
+      "title": "Performance of Physician Groups and Hospitals Participating in Bundled Payments Among Medicare Beneficiaries",
+      "abstract": "ImportanceHospital participation in bundled payment initiatives has been associated with financial savings and stable quality of care. However, how physician group practices (PGPs) perform in bundled payments compared with hospitals remains unknown.ObjectivesTo evaluate the association of PGP participation in the Bundled Payments for Care Improvement (BPCI) initiative with episode outcomes and to compare these with outcomes for participating hospitals.Design, Settings, and ParticipantsThis cohort study with a difference-in-differences analysis used 2011 to 2018 Medicare claims data to compare the association of BPCI participation with episode outcomes for PGPs vs hospitals providing medical and surgical care to Medicare beneficiaries. Data analyses were conducted from January 1, 2020, to May 31, 2022.ExposuresHospitalization for any of the 10 highest-volume episodes (5 medical and 5 surgical) included in the BPCI initiative for Medicare patients of participating PGPs and hospitals.Main Outcomes and MeasuresThe primary outcome was 90-day total episode spending. Secondary outcomes were 90-day readmissions and mortality.ResultsThe total sample comprised data from 1 288 781 Medicare beneficiaries, of whom 696 710 (mean [SD] age, 76.2 [10.8] years; 432 429 [59.7%] women; 619 655 [85.5%] White individuals) received care through 379 BPCI-participating hospitals and 1441 propensity-matched non−BPCI-participating hospitals, and 592 071 (mean [SD] age, 75.4 [10.9] years; 527 574 [86.6%] women; 360 835 [59.3%] White individuals) received care from 6405 physicians in BPCI-participating PGPs and 24 758 propensity-matched physicians in non−BPCI-participating PGPs. For PGPs, BPCI participation was associated with greater reductions in episode spending for surgical (difference, –$1368; 95% CI, –$1648 to –$1088) but not for medical episodes (difference, –$101; 95% CI, –$410 to $206). Hospital participation in BPCI was associated with greater reductions in episode spending for both surgical (–$1010; 95% CI, –$1345 to –$675) and medical (–$763; 95% CI, –$1139 to –$386) episodes.Conclusions and RelevanceThis cohort study and difference-in-differences analysis of PGPs and hospital participation in BPCI found that bundled payments were associated with cost savings for surgical episodes for PGPs, and savings for both surgical and medical episodes for hospitals. Policy makers should consider the comparative performance of participant types when designing and evaluating bundled payment models.</jats:sec",
+      "has_full_text": false,
+      "download_url": "https://jamanetwork.com/journals/jama-health-forum/articlepdf/2799960/liao_2022_oi_220088_1671729512.28702.pdf",
+      "full_text_snippet": "",
+      "year": 2022,
+      "publisher": "American Medical Association (AMA)",
+      "oai": null
+    },
+    "semantic_scholar": {
+      "paper_id": "fdb8d7c806510550f4d8dbf25d8d89ec27e6c9c8",
+      "title": "Performance of Physician Groups and Hospitals Participating in Bundled Payments Among Medicare Beneficiaries",
+      "abstract": "Key Points Question Do physician group practices participating in bundled payments among Medicare beneficiaries exhibit similar or different changes in episode outcomes compared with participating hospitals? Findings This cohort study with a difference-in-differences analysis found that physician group practices participating in bundled payments had associated savings with surgical but not medical episodes, whereas participating hospitals had savings associated with both episode types. Meaning The findings of this cohort study suggest that policy makers should consider the comparative performance of participant type when designing and evaluating future bundled payment models.",
+      "year": 2022,
+      "venue": "JAMA Health Forum",
+      "citation_count": 2,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 21,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 2,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1001/jama.2022.20619",
+    "eid": "2-s2.0-85143645337",
+    "title": "Association between Individual Primary Care Physician Merit-based Incentive Payment System Score and Measures of Process and Patient Outcomes",
+    "timestamp": "2025-06-25T22:08:06.230221",
+    "crossref": {
+      "doi": "10.1001/jama.2022.20619",
+      "is-referenced-by-count": 25,
+      "references-count": 31,
+      "title": "Association Between Individual Primary Care Physician Merit-based Incentive Payment System Score and Measures of Process and Patient Outcomes",
+      "publisher": "American Medical Association (AMA)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 25,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1200/OP.22.00136",
+    "eid": "2-s2.0-85139738916",
+    "title": "Trends in Medically Integrated Dispensing among Oncology Practices",
+    "timestamp": "2025-06-25T22:08:06.700782",
+    "crossref": {
+      "doi": "10.1200/OP.22.00136",
+      "is-referenced-by-count": 5,
+      "references-count": 34,
+      "title": "Trends in Medically Integrated Dispensing Among Oncology Practices",
+      "publisher": "American Society of Clinical Oncology (ASCO)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 5,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1186/s13722-024-00477-3",
+    "eid": "2-s2.0-85195534060",
+    "title": "Using 42 CFR part 2 revisions to integrate substance use disorder treatment information into electronic health records at a safety net health system",
+    "timestamp": "2025-06-25T22:08:08.956955",
+    "crossref": {
+      "doi": "10.1186/s13722-024-00477-3",
+      "is-referenced-by-count": 2,
+      "references-count": 38,
+      "title": "Using 42 CFR part 2 revisions to integrate substance use disorder treatment information into electronic health records at a safety net health system",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "DOI": "10.13039/100000133",
+          "name": "Agency for Healthcare Research and Quality",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "R18HS027389"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000133",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "ahrq_funded": true
+    },
+    "semantic_scholar": {
+      "paper_id": "f00ffc96d632083f19424cb172000af01cbbf53a",
+      "title": "Using 42 CFR part 2 revisions to integrate substance use disorder treatment information into electronic health records at a safety net health system",
+      "abstract": "Background Regulations put in place to protect the privacy of individuals receiving substance use disorder (SUD) treatment have resulted in an unintended consequence of siloed SUD treatment and referral information outside of the integrated electronic health record (EHR). Recent revisions to these regulations have opened the door to data integration, which creates opportunities for enhanced patient care and more efficient workflows. We report on the experience of one safety-net hospital system integrating SUD treatment data into the EHR. Methods SUD treatment and referral information was integrated from siloed systems into the EHR through the implementation of a referral order, treatment episode definition, and referral and episode-related tools for addiction therapists and other clinicians. Integration was evaluated by monitoring SUD treatment episode characteristics, patient characteristics, referral linkage, and treatment episode retention before and after integration. Satisfaction of end-users with the new tools was evaluated through a survey of addiction therapists. Results After integration, three more SUD treatment programs were represented in the EHR. This increased the number of patients that could be tracked as initiating SUD treatment by 250%, from 562 before to 1,411 after integration. After integration, overall referral linkage declined (74% vs. 48%) and treatment episode retention at 90-days was higher (45% vs. 74%). Addiction therapists appreciated the efficiency of having all SUD treatment information in the EHR but did not find that the tools provided a large time savings shortly after integration. Conclusions Integration of SUD treatment program data into the EHR facilitated both care coordination in patient treatment and quality improvement initiatives for treatment programs. Referral linkage and retention rates were likely modified by a broader capture of patients and changed outcome definition criteria. Greater preparatory workflow analysis may decrease initial end-user burden. Integration of siloed data, made possible given revised regulations, is essential to an efficient hub-and-spoke model of care, which must standardize and coordinate patient care across multiple clinics and departments.",
+      "year": 2024,
+      "venue": "Addiction Science & Clinical Practice",
+      "citation_count": 2,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 32,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 2,
+      "mentions_ahrq": false,
+      "ahrq_funded": true,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1007/s11606-024-09028-7",
+    "eid": "2-s2.0-85205438678",
+    "title": "Leadership Practices, Organization Structure, and Other Factors Associated with Higher 2022–2023 US News and World Report Ranking",
+    "timestamp": "2025-06-25T22:08:09.117163",
+    "crossref": {
+      "doi": "10.1007/s11606-024-09028-7",
+      "is-referenced-by-count": 0,
+      "references-count": 27,
+      "title": "Leadership Practices, Organization Structure, and Other Factors Associated with Higher 2022–2023 US News and World Report Ranking",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1111/1475-6773.14172",
+    "eid": "2-s2.0-85161193713",
+    "title": "Hospital-physician integration and clinical volume in traditional Medicare",
+    "timestamp": "2025-06-25T22:08:09.290243",
+    "crossref": {
+      "doi": "10.1111/1475-6773.14172",
+      "is-referenced-by-count": 5,
+      "references-count": 47,
+      "title": "Hospital‐physician integration and clinical volume in traditional Medicare",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "DOI": "10.13039/100000133",
+          "name": "Agency for Healthcare Research and Quality",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "R36HS02704401",
+            "R01HS025707"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000133",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "ahrq_funded": true
+    },
+    "semantic_scholar": {
+      "paper_id": "22a87e790209175bc38d9c93aeb945cf674444e5",
+      "title": "Hospital‐physician integration and clinical volume in traditional Medicare",
+      "abstract": "Abstract Objective To test the effect of hospital‐physician integration on primary care physicians' (PCP) clinical volume in traditional Medicare. Data Sources and Study Setting Nationwide retrospective longitudinal study using Medicare claims and other data sources from 2010 to 2016. Study Design We identified 70,000 PCPs, some of whom remained non‐integrated and some who became hospital‐integrated during this study period. We used an event study design to identify the effect of integration on key measures of physicians' clinical volume, including the number of claims, work‐relative value units (RVUs), professional revenue generated, number of patients treated, and facility fee revenue generated. Principal Findings Per‐physician clinical volume declined by statistically and economically significant margins. Relative to the comparison group who remained non‐integrated, work RVUs fell by 7% (95% confidence interval [CI]: −8.6% to −5.5%); the number of patients treated fell by 4% (95% CI: −5.8% to −2.6%); and claims volume among PCPs who became hospital‐integrated fell by over 15% (95% CI: −16.8% to −13.5%). Though professional revenue declined by $29,165 (95% CI: −$32,286 to −$26,044), this loss was almost entirely offset by increased facility fee revenue of $28,556 (95% CI: 26,909 to 30,203). Conclusions Hospital‐physician integration may affect the quantity of clinical services delivered by PCPs to traditional Medicare beneficiaries. Reductions in clinical volume associated with integration may have long‐term consequences for the supply of physician services and patient access to primary care. Future research on physician time use and patient access following hospital integration would further add to the evidence base.",
+      "year": 2023,
+      "venue": "Health Services Research",
+      "citation_count": 6,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 46,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 6,
+      "mentions_ahrq": false,
+      "ahrq_funded": true,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.5858/arpa.2024-0056-OA",
+    "eid": "2-s2.0-105004032689",
+    "title": "The Anatomic Pathology Hospitalist Model A Novel Approach to Frozen Section Practice in a Tertiary Care Center",
+    "timestamp": "2025-06-25T22:08:10.114034",
+    "crossref": {
+      "doi": "10.5858/arpa.2024-0056-OA",
+      "is-referenced-by-count": 0,
+      "references-count": 38,
+      "title": "The Anatomic Pathology Hospitalist Model : A Novel Approach to Frozen Section Practice in a Tertiary Care Center",
+      "publisher": "Archives of Pathology and Laboratory Medicine",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.2196/43802",
+    "eid": "2-s2.0-85156169275",
+    "title": "Health-Related Data Sources Accessible to Health Researchers from the US Government: Mapping Review",
+    "timestamp": "2025-06-25T22:08:10.089635",
+    "crossref": {
+      "doi": "10.2196/43802",
+      "is-referenced-by-count": 2,
+      "references-count": 30,
+      "title": "Health-Related Data Sources Accessible to Health Researchers From the US Government: Mapping Review",
+      "publisher": "JMIR Publications Inc.",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 146226690,
+      "title": "Health-Related Data Sources Accessible to Health Researchers From the US Government: Mapping Review",
+      "abstract": "BackgroundBig data from large, government-sponsored surveys and data sets offers researchers opportunities to conduct population-based studies of important health issues in the United States, as well as develop preliminary data to support proposed future work. Yet, navigating these national data sources is challenging. Despite the widespread availability of national data, there is little guidance for researchers on how to access and evaluate the use of these resources.\n            ObjectiveOur aim was to identify and summarize a comprehensive list of federally sponsored, health- and health care–related data sources that are accessible in the public domain in order to facilitate their use by researchers.\n            MethodsWe conducted a systematic mapping review of government sources of health-related data on US populations and with active or recent (previous 10 years) data collection. The key measures were government sponsor, overview and purpose of data, population of interest, sampling design, sample size, data collection methodology, type and description of data, and cost to obtain data. Convergent synthesis was used to aggregate findings.\n            ResultsAmong 106 unique data sources, 57 met the inclusion criteria. Data sources were classified as survey or assessment data (n=30, 53%), trends data (n=27, 47%), summative processed data (n=27, 47%), primary registry data (n=17, 30%), and evaluative data (n=11, 19%). Most (n=39, 68%) served more than 1 purpose. The population of interest included individuals/patients (n=40, 70%), providers (n=15, 26%), and health care sites and systems (n=14, 25%). The sources collected data on demographic (n=44, 77%) and clinical information (n=35, 61%), health behaviors (n=24, 42%), provider or practice characteristics (n=22, 39%), health care costs (n=17, 30%), and laboratory tests (n=8, 14%). Most (n=43, 75%) offered free data sets.\n            ConclusionsA broad scope of national health data is accessible to researchers. These data provide insights into important health issues and the nation’s health care system while eliminating the burden of primary data collection. Data standardization and uniformity were uncommon across government entities, highlighting a need to improve data consistency. Secondary analyses of national data are a feasible, cost-efficient means to address national health concerns",
+      "has_full_text": false,
+      "download_url": "",
+      "full_text_snippet": "",
+      "year": 2023,
+      "publisher": "JMIR Publications",
+      "oai": null
+    },
+    "semantic_scholar": {
+      "paper_id": "1f53a2ad42a3bc9b40f43c8f3056bc0bd1f08806",
+      "title": "Health-Related Data Sources Accessible to Health Researchers From the US Government: Mapping Review",
+      "abstract": "Background Big data from large, government-sponsored surveys and data sets offers researchers opportunities to conduct population-based studies of important health issues in the United States, as well as develop preliminary data to support proposed future work. Yet, navigating these national data sources is challenging. Despite the widespread availability of national data, there is little guidance for researchers on how to access and evaluate the use of these resources. Objective Our aim was to identify and summarize a comprehensive list of federally sponsored, health- and health care–related data sources that are accessible in the public domain in order to facilitate their use by researchers. Methods We conducted a systematic mapping review of government sources of health-related data on US populations and with active or recent (previous 10 years) data collection. The key measures were government sponsor, overview and purpose of data, population of interest, sampling design, sample size, data collection methodology, type and description of data, and cost to obtain data. Convergent synthesis was used to aggregate findings. Results Among 106 unique data sources, 57 met the inclusion criteria. Data sources were classified as survey or assessment data (n=30, 53%), trends data (n=27, 47%), summative processed data (n=27, 47%), primary registry data (n=17, 30%), and evaluative data (n=11, 19%). Most (n=39, 68%) served more than 1 purpose. The population of interest included individuals/patients (n=40, 70%), providers (n=15, 26%), and health care sites and systems (n=14, 25%). The sources collected data on demographic (n=44, 77%) and clinical information (n=35, 61%), health behaviors (n=24, 42%), provider or practice characteristics (n=22, 39%), health care costs (n=17, 30%), and laboratory tests (n=8, 14%). Most (n=43, 75%) offered free data sets. Conclusions A broad scope of national health data is accessible to researchers. These data provide insights into important health issues and the nation’s health care system while eliminating the burden of primary data collection. Data standardization and uniformity were uncommon across government entities, highlighting a need to improve data consistency. Secondary analyses of national data are a feasible, cost-efficient means to address national health concerns.",
+      "year": 2023,
+      "venue": "Journal of Medical Internet Research",
+      "citation_count": 0,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 0,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 2,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1007/s11606-023-08363-5",
+    "eid": "2-s2.0-85168162268",
+    "title": "Association of the Range of Outpatient Services Provided by Primary Care Physicians with Subsequent Health Care Costs and Utilization",
+    "timestamp": "2025-06-25T22:08:10.026138",
+    "crossref": {
+      "doi": "10.1007/s11606-023-08363-5",
+      "is-referenced-by-count": 2,
+      "references-count": 26,
+      "title": "Association of the Range of Outpatient Services Provided by Primary Care Physicians with Subsequent Health Care Costs and Utilization",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "DOI": "10.13039/100005227",
+          "name": "Centers for Medicare and Medicaid Services",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "HHSM-500-2014-00034I/HHSM-500-T0010",
+            "HHSM-500-2014-00034I/75FCMC19F0005."
+          ],
+          "id": [
+            {
+              "id": "10.13039/100005227",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 2,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1097/PRS.0000000000012164",
+    "eid": "2-s2.0-105003919850",
+    "title": "Private Equity Investment in Plastic Surgery Clinics: A Scoping Review",
+    "timestamp": "2025-06-25T22:08:10.321266",
+    "crossref": {
+      "doi": "10.1097/PRS.0000000000012164",
+      "is-referenced-by-count": 0,
+      "references-count": 0,
+      "title": "Private Equity Investment in Plastic Surgery Clinics: A Scoping Review",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1111/1468-0009.70019",
+    "eid": "2-s2.0-105006819186",
+    "title": "State Health Care Cost Commissions: Their Priorities and How States’ Political Leanings, Commercial Hospital Prices, and Medicaid Spending Predict Their Establishment",
+    "timestamp": "2025-06-25T22:08:11.016671",
+    "crossref": {
+      "doi": "10.1111/1468-0009.70019",
+      "is-referenced-by-count": 0,
+      "references-count": 55,
+      "title": "State Health Care Cost Commissions: Their Priorities and How States’ Political Leanings, Commercial Hospital Prices, and Medicaid Spending Predict Their Establishment",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1001/jamanetworkopen.2025.13274",
+    "eid": "2-s2.0-105007322937",
+    "title": "Outcomes for Very Preterm Infants Across Health Systems",
+    "timestamp": "2025-06-25T22:08:11.171093",
+    "crossref": {
+      "doi": "10.1001/jamanetworkopen.2025.13274",
+      "is-referenced-by-count": 0,
+      "references-count": 38,
+      "title": "Outcomes for Very Preterm Infants Across Health Systems",
+      "publisher": "American Medical Association (AMA)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "semantic_scholar": {
+      "paper_id": "6ab544dd6be3bae6bb0954c2b687297ae2d570f0",
+      "title": "Outcomes for Very Preterm Infants Across Health Systems",
+      "abstract": "Key Points Question Is there variation in outcomes for very preterm infants across health systems in the US? Findings In this cross-sectional study of 38 501 infants, variation in mortality across health systems was 1.5% of the total variance and 5.2% for length of stay among surviving infants. However, the 2–percentage point difference in mortality among systems in the highest and lowest performing quartiles and 12-day difference in length of stay among surviving infants were potentially clinically meaningful. Meaning These findings suggest that opportunities for health systems to improve quality exist, thereby decreasing mortality and length of stay for very preterm infants.",
+      "year": 2025,
+      "venue": "JAMA Network Open",
+      "citation_count": 0,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 30,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1200/OP.23.00632",
+    "eid": "2-s2.0-85187786751",
+    "title": "Private Payers and Cancer Care: Revisiting the Land of Opportunity",
+    "timestamp": "2025-06-25T22:08:11.345027",
+    "crossref": {
+      "doi": "10.1200/OP.23.00632",
+      "is-referenced-by-count": 0,
+      "references-count": 24,
+      "title": "Private Payers and Cancer Care: Revisiting the Land of Opportunity",
+      "publisher": "American Society of Clinical Oncology (ASCO)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1161/JAHA.123.031982",
+    "eid": "2-s2.0-85185614467",
+    "title": "Assessment of Price Variation in Coronary Artery Bypass Surgery at US Hospitals",
+    "timestamp": "2025-06-25T22:08:11.511650",
+    "crossref": {
+      "doi": "10.1161/JAHA.123.031982",
+      "is-referenced-by-count": 1,
+      "references-count": 39,
+      "title": "Assessment of Price Variation in Coronary Artery Bypass Surgery at US Hospitals",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "semantic_scholar": {
+      "paper_id": "177a4236a1f2049cef8d5d72288e684ccf6066ae",
+      "title": "Assessment of Price Variation in Coronary Artery Bypass Surgery at US Hospitals",
+      "abstract": "Background Little is known about hospital pricing for coronary artery bypass grafting (CABG). Using new price transparency data, we assessed variation in CABG prices across US hospitals and the association between higher prices and hospital characteristics, including quality of care. Methods and Results Prices for diagnosis related group code 236 were obtained from the Turquoise database and linked by Medicare Facility ID to publicly available hospital characteristics. Univariate and multivariable analyses were performed to assess factors predictive of higher prices. Across 544 hospitals, median commercial and self‐pay rates were 2.01 and 2.64 times the Medicare rate ($57 240 and $75 047, respectively, versus $28 398). Within hospitals, the 90th percentile insurer‐negotiated price was 1.83 times the 10th percentile price. Across hospitals, the 90th percentile commercial rate was 2.91 times the 10th percentile hospital rate. Regional median hospital prices ranged from $35 624 in the East South Central to $84 080 in the Pacific. In univariate analysis, higher inpatient revenue, greater annual discharges, and major teaching status were significantly associated with higher prices. In multivariable analysis, major teaching and investor‐owned status were associated with significantly higher prices (+$8653 and +$12 200, respectively). CABG prices were not related to death, readmissions, patient ratings, or overall Centers for Medicare and Medicaid Services hospital rating. Conclusions There is significant variation in CABG pricing, with certain characteristics associated with higher rates, including major teaching status and investor ownership. Notably, higher CABG prices were not associated with better‐quality care, suggesting a need for further investigation into drivers of pricing variation and the implications for health care spending and access.",
+      "year": 2024,
+      "venue": "Journal of the American Heart Association : Cardiovascular and Cerebrovascular Disease",
+      "citation_count": 0,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 33,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 1,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.17226/26657.3",
+    "eid": "2-s2.0-85169404002",
+    "title": "CARE SYSTEMS COVID-19 IMPACT ASSESSMENT: LESSONS LEARNED AND COMPELLING NEEDS",
+    "timestamp": "2025-06-25T22:08:11.858509",
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.21037/jhmhp-21-13",
+    "eid": "2-s2.0-85109674505",
+    "title": "The application of organizational slack to hospital system responsiveness during the COVID-19 pandemic",
+    "timestamp": "2025-06-25T22:08:12.116009",
+    "crossref": {
+      "doi": "10.21037/jhmhp-21-13",
+      "is-referenced-by-count": 2,
+      "references-count": 0,
+      "title": "The application of organizational slack to hospital system responsiveness during the COVID-19 pandemic",
+      "publisher": "AME Publishing Company",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 239157387,
+      "title": "The application of organizational slack to hospital system responsiveness during the COVID-19 pandemic",
+      "abstract": null,
+      "has_full_text": false,
+      "download_url": "http://dx.doi.org/10.21037/jhmhp-21-13",
+      "full_text_snippet": "",
+      "year": 2021,
+      "publisher": "AME Publishing Company",
+      "oai": null
+    },
+    "semantic_scholar": {
+      "paper_id": "7b94630a0c31cf217ee4c57a915f1df8cdb60c55",
+      "title": "The application of organizational slack to hospital system responsiveness during the COVID-19 pandemic",
+      "abstract": ": The COVID-19 pandemic placed intense pressure on individual hospitals and hospital systems. While no hospital could have predicted the exact needs required to respond to the crisis, there may be certain organizational characteristics or hospital system types that were better prepared to respond effectively. In this article, we propose a conceptual model for effectiveness of health system organizational response to COVID-19, using the theoretical foundation of organizational slack which is defined as the “excess” accumulated resources that do not contribute to that organization’s immediate production function. We first define and describe the contributors of organizational slack, such as accumulated social capital or financial health. We then describe the benefits of organizational slack such as the ability to be more innovative or having more operational flexibility. Next, we discuss the application of organizational slack during the pandemic to adapt operations, redeploy staff and/or supplies and to manage any technological pivots (e.g., the rapid escalation of telehealth). Finally, we address the ways that hospital system structures may moderate the relationship between the benefits and applications of organizational slack. The COVID-19 pandemic placed unique pressures on hospitals as the crisis was sustained and will most likely transform future operations and care delivery. Through the lens of organizational slack, we can better understand the optimal ways to respond to future crises.",
+      "year": 2021,
+      "venue": "Journal of Hospital Management and Health Policy",
+      "citation_count": 4,
+      "influential_citations": 1,
+      "fields": [
+        "Business"
+      ],
+      "reference_count": 54,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 4,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1016/j.hjdsi.2020.100460",
+    "eid": "2-s2.0-85099243840",
+    "title": "Estimates of ACO savings in the presence of provider and beneficiary selection",
+    "timestamp": "2025-06-25T22:08:12.222405",
+    "crossref": {
+      "doi": "10.1016/j.hjdsi.2020.100460",
+      "is-referenced-by-count": 9,
+      "references-count": 42,
+      "title": "Estimates of ACO savings in the presence of provider and beneficiary selection",
+      "publisher": "Elsevier BV",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "DOI": "10.13039/100000133",
+          "name": "Agency for Healthcare Research and Quality",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100000133",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100000049",
+          "name": "National Institute on Aging",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100000049",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "ahrq_funded": true
+    },
+    "core": {
+      "core_id": 275722210,
+      "title": "Estimates of ACO savings in the presence of provider and beneficiary selection",
+      "abstract": "Background: Medicare's accountable care organizations (ACOs)-designed to improve quality and lower spending-were associated with growing savings in previous studies. However, savings estimates may be biased by beneficiary sorting among providers based on healthcare needs and by providers opting into the program based on anticipated gains.\r\n\r\nMethods: Using Medicare administrative claims (2009-2014), we compared annual spending changes after provider organizations joined ACOs to changes in non-ACOs (controls). To address provider selection, using novel data to identify non-ACO organizations, we restricted controls to comparably large provider organizations. To address beneficiary selection, we (a) estimated within-organization (including non-ACO comparison organizations) spending changes, (b) estimated within-beneficiary spending changes, (c) incorporated beneficiaries without qualifying healthcare expenses, and (d) used a fixed beneficiary ACO assignment using the pre-ACO period.\r\n\r\nResults: Each year, 19% of Medicare beneficiaries switched provider organizations. Spending was higher for switchers than stayers ($3163, p < .001) and grew more the next year ($2004; p < .001). Starting from a baseline regression modeled on previous ACO evaluations, estimated savings varied widely as we sequentially introduced methods to address selection. Combining methods, however, generated more stable estimated ACO savings of $46 (p = .022), averaged across cohorts.\r\n\r\nConclusions: When implementing a comprehensive suite of methods to adjust for provider and beneficiary selection, we estimated ACO savings that grew over time. Our estimates are in line with, but smaller than, previous estimates in the literature. Implementing piecemeal adjustments produced misleading results.\r\n\r\nImplications: Our results confirm the importance of selection for savings estimates and for provider organizations managing costs and quality. Attribution rules that consider multiple years may help mitigate the impact of beneficiary churn for providers and payers. Implementing payment reform by randomizing early participants, or implementing fully across selected markets, may better serve efforts to evaluate and improve payment models",
+      "has_full_text": false,
+      "download_url": "",
+      "full_text_snippet": "",
+      "year": 2021,
+      "publisher": "",
+      "oai": null
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 9,
+      "mentions_ahrq": false,
+      "ahrq_funded": true,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1111/1475-6773.14101",
+    "eid": "2-s2.0-85142443861",
+    "title": "Differences between integrated and non-integrated plans in Medicare Advantage",
+    "timestamp": "2025-06-25T22:08:12.504755",
+    "crossref": {
+      "doi": "10.1111/1475-6773.14101",
+      "is-referenced-by-count": 4,
+      "references-count": 24,
+      "title": "Differences between integrated and non‐integrated plans in Medicare Advantage",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 4,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1016/j.lana.2024.100814",
+    "eid": "2-s2.0-85196261131",
+    "title": "Safety of SGLT2 inhibitors, DPP-4 inhibitors, and GLP-1 receptor agonists in US veterans with and without chronic kidney disease: a population-based study",
+    "timestamp": "2025-06-25T22:08:12.717807",
+    "crossref": {
+      "doi": "10.1016/j.lana.2024.100814",
+      "is-referenced-by-count": 2,
+      "references-count": 43,
+      "title": "Safety of SGLT2 inhibitors, DPP-4 inhibitors, and GLP-1 receptor agonists in US veterans with and without chronic kidney disease: a population-based study",
+      "publisher": "Elsevier BV",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 156822766,
+      "title": "Safety of SGLT2 inhibitors, DPP-4 inhibitors, and GLP-1 receptor agonists in US veterans with and without chronic kidney disease: a population-based study.",
+      "abstract": "BACKGROUND: We examined the real-world comparative safety of sodium-glucose cotransporter-2 inhibitors (SGLT2i) vs. other newer anti-glycemic medications (dipeptidyl peptidase-4 inhibitors [DPP4i], glucagon-like peptide-1 receptor agonists [GLP1a]) in patients with and without chronic kidney disease (CKD). METHODS: Among US Veterans with diabetes receiving care from the Veterans Affairs (VA) healthcare system over 2004-19, we identified incident users of SGLT2i vs. DPP4i vs. GLP1a monotherapy. In analyses stratified by CKD status, defined by estimated glomerular filtration rate and albuminuria, we examined associations of SGLT2i vs. DPP4i vs. GLP1a use with risk of infection-related (primary outcome) and genitourinary infection hospitalizations (secondary outcome) using multivariable Cox models. FINDINGS: Among 92,269 patients who met eligibility criteria, 52% did not have CKD, whereas 48% had CKD. In the overall and non-CKD cohorts, compared to DPP4i use, SGLT2i use was associated with lower infection-related hospitalization risk (HRs [95% CIs] 0.74 [0.67-0.81] and 0.77 [0.67, 0.88], respectively), whereas GLP1a use demonstrated comparable risk. However, in the CKD cohort SGLT2i and GLP1a use were each associated with lower risk (HRs [95% CIs] 0.70 [0.61, 0.81] and 0.91 [0.84, 0.99], respectively). Propensity score-matched analyses showed similar findings in the non-CKD and CKD cohorts. In the overall, non-CKD, and CKD cohorts, SGLT2i use was associated with lower genitourinary infection hospitalization risk whereas GLP1a use showed comparable risk vs. DPP4i use. INTERPRETATION: In a national cohort of Veterans with diabetes, compared with DPP4i use, SGLT2i use was associated with lower infection-related and genitourinary infection hospitalization risk. FUNDING: VA Health Services Research and Development, USA",
+      "has_full_text": false,
+      "download_url": "",
+      "full_text_snippet": "",
+      "year": 2024,
+      "publisher": "eScholarship, University of California",
+      "oai": null
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 2,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1111/1475-6773.14642",
+    "eid": "2-s2.0-105004848231",
+    "title": "Hospital Mergers and Acquisitions From 2010 to 2019: Creating a Valid Public Use Database",
+    "timestamp": "2025-06-25T22:08:13.157698",
+    "crossref": {
+      "doi": "10.1111/1475-6773.14642",
+      "is-referenced-by-count": 0,
+      "references-count": 32,
+      "title": "Hospital Mergers and Acquisitions From 2010 to 2019: Creating a Valid Public Use Database",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "DOI": "10.13039/100006418",
+          "name": "Brown University",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "5T32HS000011‐39"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100006418",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1093/jncics/pkac008",
+    "eid": "2-s2.0-85135369688",
+    "title": "Thematic Analysis of Organizational Characteristics in NCI Community Oncology Research Program Cancer Care Delivery Research",
+    "timestamp": "2025-06-25T22:08:13.127975",
+    "crossref": {
+      "doi": "10.1093/jncics/pkac008",
+      "is-referenced-by-count": 2,
+      "references-count": 41,
+      "title": "Thematic Analysis of Organizational Characteristics in NCI Community Oncology Research Program Cancer Care Delivery Research",
+      "publisher": "Oxford University Press (OUP)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 234105227,
+      "title": "Thematic Analysis of Organizational Characteristics in NCI Community Oncology Research Program Cancer Care Delivery Research",
+      "abstract": "Abstract\n               Organizational characteristics, including organizational structures and processes, are important to understanding care delivery and health outcomes. However, organizational-level constructs present measurement challenges in care delivery research. This analysis aims to understand if, when, and how organizational characteristics are examined in a National Cancer Institute (NCI) research network conducting cancer care delivery research (CCDR). The NCI Community Oncology Research Program encourages consideration of organizational variables in CCDR studies. We conducted a cross-sectional thematic analysis to identify organizational characteristics examined in this portfolio of research. Organizational characteristics targeted, related measures, and analytic approach were abstracted by 2 study investigators using a coding framework adapted from 2 existing frameworks. A total of 78.9% of eligible study protocols included organizational characteristics. Structural characteristics were the most common, collected in all 15 included protocols, 14 examined at least 1 organizational process, and 12 examined organizational-level outcomes. Most studies proposed descriptive practice-level analyses or multilevel analyses using random effects to account for clustering of patients and staff within practices. Few (n = 5) specified that organizational variables would be modeled as effects of interest (vs covaried out) or proposed analytic approaches that could more robustly examine effects of targeted organizational characteristics on primary outcomes. Inclusion of organizational variables is common in CCDR conducted through the NCI Community Oncology Research Program, NCI’s national network charged with bringing cancer clinical trials to people in their communities. Nonetheless, opportunities remain to improve the use of theory to guide organizational construct selection, operationalization, measurement, and incorporation into study hypotheses and analyses.</jats:p",
+      "has_full_text": false,
+      "download_url": "https://academic.oup.com/jncics/article-pdf/6/2/pkac008/42706517/pkac008.pdf",
+      "full_text_snippet": "",
+      "year": 2022,
+      "publisher": "Oxford University Press (OUP)",
+      "oai": null
+    },
+    "semantic_scholar": {
+      "paper_id": "2389d4eb7d7466698dafff48297f933192a4c95f",
+      "title": "Thematic Analysis of Organizational Characteristics in NCI Community Oncology Research Program Cancer Care Delivery Research.",
+      "abstract": "Organizational characteristics, including organizational structures and processes, are important to understanding care delivery and health outcomes. However, organizational-level constructs present measurement challenges in care delivery research. This analysis aims to understand if, when, and how organizational characteristics are examined in a National Cancer Institute (NCI) research network conducting cancer care delivery research (CCDR). The NCI Community Oncology Research Program encourages consideration of organizational variables in CCDR studies. We conducted a cross-sectional thematic analysis to identify organizational characteristics examined in this portfolio of research. Organizational characteristics targeted, related measures, and analytic approach were abstracted by 2 study investigators using a coding framework adapted from 2 existing frameworks. A total of 78.9% of eligible study protocols included organizational characteristics. Structural characteristics were the most common, collected in all 15 included protocols, 14 examined at least 1 organizational process, and 12 examined organizational-level outcomes. Most studies proposed descriptive practice-level analyses or multilevel analyses using random effects to account for clustering of patients and staff within practices. Few (n = 5) specified that organizational variables would be modeled as effects of interest (vs covaried out) or proposed analytic approaches that could more robustly examine effects of targeted organizational characteristics on primary outcomes. Inclusion of organizational variables is common in CCDR conducted through the NCI Community Oncology Research Program, NCI's national network charged with bringing cancer clinical trials to people in their communities. Nonetheless, opportunities remain to improve the use of theory to guide organizational construct selection, operationalization, measurement, and incorporation into study hypotheses and analyses.",
+      "year": 2022,
+      "venue": "JNCI Cancer Spectrum",
+      "citation_count": 1,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 0,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 2,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1097/SLA.0000000000006132",
+    "eid": "2-s2.0-85187535519",
+    "title": "Impact of Hospital Affiliation With a Flagship Hospital System on Surgical Outcomes",
+    "timestamp": "2025-06-25T22:08:13.490314",
+    "crossref": {
+      "doi": "10.1097/SLA.0000000000006132",
+      "is-referenced-by-count": 2,
+      "references-count": 41,
+      "title": "Impact of Hospital Affiliation With a Flagship Hospital System on Surgical Outcomes",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 2,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1007/s11606-023-08415-w",
+    "eid": "2-s2.0-85179320192",
+    "title": "Mortality Among Older Medical Patients at Flagship Hospitals and Their Affiliates",
+    "timestamp": "2025-06-25T22:08:13.641387",
+    "crossref": {
+      "doi": "10.1007/s11606-023-08415-w",
+      "is-referenced-by-count": 0,
+      "references-count": 31,
+      "title": "Mortality Among Older Medical Patients at Flagship Hospitals and Their Affiliates",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1001/jamanetworkopen.2024.25627",
+    "eid": "2-s2.0-85201491689",
+    "title": "Hospital–Skilled Nursing Facility Integration and Participation in a Bundled Payment Initiative",
+    "timestamp": "2025-06-25T22:08:13.893278",
+    "crossref": {
+      "doi": "10.1001/jamanetworkopen.2024.25627",
+      "is-referenced-by-count": 0,
+      "references-count": 38,
+      "title": "Hospital–Skilled Nursing Facility Integration and Participation in a Bundled Payment Initiative",
+      "publisher": "American Medical Association (AMA)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "semantic_scholar": {
+      "paper_id": "a485e1304fdb48055f5cf421fbefed49e96dd304",
+      "title": "Hospital–Skilled Nursing Facility Integration and Participation in a Bundled Payment Initiative",
+      "abstract": "Key Points Question Is hospital–skilled nursing facility (SNF) integration associated with reduced participation in Medicare’s Bundled Payments for Care Improvement Advanced (BPCI-A)? Findings In this cross-sectional study of hospitals participating in 4 BPCI-A episodes, hospital-SNF integration was associated with a statistically significant 4.7–percentage point reduction in BPCI-A participation in the major joint replacement of the lower extremity episode. There was no association between integration and participation in 3 other episodes. Meaning These findings suggest that hospital-SNF integration may attenuate incentives to participate in bundled payment programs, but any such association varies across contexts.",
+      "year": 2024,
+      "venue": "JAMA Network Open",
+      "citation_count": 0,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 27,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1016/j.jtcvs.2024.12.032",
+    "eid": "2-s2.0-85219543611",
+    "title": "Postoperative outcomes following lung resection performed at private equity–acquired hospitals",
+    "timestamp": "2025-06-25T22:08:14.059414",
+    "crossref": {
+      "doi": "10.1016/j.jtcvs.2024.12.032",
+      "is-referenced-by-count": 0,
+      "references-count": 40,
+      "title": "Postoperative outcomes following lung resection performed at private equity–acquired hospitals",
+      "publisher": "Elsevier BV",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "DOI": "10.13039/100028672",
+          "name": "Western Thoracic Surgical Association",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100028672",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100000002",
+          "name": "National Institutes of Health",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100000002",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1001/jamahealthforum.2025.0046",
+    "eid": "2-s2.0-86000695473",
+    "title": "Enhanced COVID-19 Provider Relief, Hospital Finances, and Care for Medicare Inpatients",
+    "timestamp": "2025-06-25T22:08:14.489952",
+    "crossref": {
+      "doi": "10.1001/jamahealthforum.2025.0046",
+      "is-referenced-by-count": 0,
+      "references-count": 50,
+      "title": "Enhanced COVID-19 Provider Relief, Hospital Finances, and Care for Medicare Inpatients",
+      "publisher": "American Medical Association (AMA)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "semantic_scholar": {
+      "paper_id": "4f1f7daf40216dcd45c56830e6ef96c72cc152e5",
+      "title": "Enhanced COVID-19 Provider Relief, Hospital Finances, and Care for Medicare Inpatients",
+      "abstract": "Key Points Question COVID-19 pandemic relief funds stabilized hospital finances, but what is the association between funding generosity and changes in hospital finances and operations? Findings In this cohort study of 555 hospitals, receipt of enhanced relief was associated with increased margins and improved liquidity but no detectible changes in expenditures or service delivery. Meaning Adjusted approaches to relief distribution may maximize the impact of funding on clinical care and hospital operations during emergencies without differentially improving finances among similarly situated hospitals.",
+      "year": 2025,
+      "venue": "JAMA Health Forum",
+      "citation_count": 0,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 26,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1007/s10278-024-01374-6",
+    "eid": "2-s2.0-105007682408",
+    "title": "Medical Imaging Data Strategies for Catalyzing AI Medical Device Innovation",
+    "timestamp": "2025-06-25T22:08:14.483927",
+    "crossref": {
+      "doi": "10.1007/s10278-024-01374-6",
+      "is-referenced-by-count": 0,
+      "references-count": 29,
+      "title": "Medical Imaging Data Strategies for Catalyzing AI Medical Device Innovation",
+      "publisher": "Springer Science and Business Media LLC",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1001/jamasurg.2024.5920",
+    "eid": "2-s2.0-85217569562",
+    "title": "Esophagectomy Trends and Postoperative Outcomes at Private Equity-Acquired Health Centers",
+    "timestamp": "2025-06-25T22:08:14.903865",
+    "crossref": {
+      "doi": "10.1001/jamasurg.2024.5920",
+      "is-referenced-by-count": 0,
+      "references-count": 49,
+      "title": "Esophagectomy Trends and Postoperative Outcomes at Private Equity–Acquired Health Centers",
+      "publisher": "American Medical Association (AMA)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1016/j.jhealeco.2025.102997",
+    "eid": "2-s2.0-105002323099",
+    "title": "Does physician-hospital vertical integration signal care-coordination? Evidence from mover-stayer analysis of commercially insured enrollees",
+    "timestamp": "2025-06-25T22:08:14.978496",
+    "crossref": {
+      "doi": "10.1016/j.jhealeco.2025.102997",
+      "is-referenced-by-count": 0,
+      "references-count": 62,
+      "title": "Does physician-hospital vertical integration signal care-coordination? Evidence from mover-stayer analysis of commercially insured enrollees",
+      "publisher": "Elsevier BV",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "DOI": "10.13039/100000016",
+          "name": "U.S. Department of Health and Human Services",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100000016",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100000133",
+          "name": "Agency for Healthcare Research and Quality",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100000133",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "ahrq_funded": true
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": true,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1371/journal.pone.0323381",
+    "eid": "2-s2.0-105005965706",
+    "title": "Measure what matters: A survey-based examination of health equity tracking and measurement practices across healthcare systems in the United States",
+    "timestamp": "2025-06-25T22:08:15.320415",
+    "crossref": {
+      "doi": "10.1371/journal.pone.0323381",
+      "is-referenced-by-count": 0,
+      "references-count": 30,
+      "title": "Measure what matters: A survey-based examination of health equity tracking and measurement practices across healthcare systems in the United States",
+      "publisher": "Public Library of Science (PLoS)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 291801967,
+      "title": "Measure what matters: A survey-based examination of health equity tracking and measurement practices across healthcare systems in the United States.",
+      "abstract": "The objectives of this study were to understand how healthcare systems are incorporating equity into performance measurement and to uncover trends that inform healthcare systems' efforts to advance equity. A national cross-sectional survey was designed and administered during Spring 2022 to evaluate organizational efforts to track and measure health equity. The survey examined clinical and non-clinical health equity metrics/indicators tracked at the executive-level. We identified variation in how health equity is measured. Of the 27 respondents, seven (25.9%) were in the planning phase, nine (33.3%) were in early implementation, seven (25.9%) had practices implemented for one to two years, and four (14.8%) had practices implemented for three or more years. Most systems were tracking clinical metrics and evaluating metrics across subpopulations. Metrics related to chronic disease management and preventive care were mentioned most frequently (23.6% and 16.0%, respectively). Race/ethnicity was the most utilized demographic filter to evaluate equity. Systems at later stages of implementation were tracking fewer metrics, yet many systems were still in early stages of implementation. Health systems need specific and pragmatic guidance to develop and implement equity measures tracked at the executive level. Insights from current health system initiatives can help inform guidelines from national quality organizations for disparity reduction in clinical outcomes",
+      "has_full_text": false,
+      "download_url": "",
+      "full_text_snippet": "",
+      "year": 2025,
+      "publisher": "Public Library of Science (PLoS)",
+      "oai": null
+    },
+    "semantic_scholar": {
+      "paper_id": "87da736a4c9b49f7031ff418e408ccf53918b786",
+      "title": "Measure what matters: A survey-based examination of health equity tracking and measurement practices across healthcare systems in the United States",
+      "abstract": "The objectives of this study were to understand how healthcare systems are incorporating equity into performance measurement and to uncover trends that inform healthcare systems’ efforts to advance equity. A national cross-sectional survey was designed and administered during Spring 2022 to evaluate organizational efforts to track and measure health equity. The survey examined clinical and non-clinical health equity metrics/indicators tracked at the executive-level. We identified variation in how health equity is measured. Of the 27 respondents, seven (25.9%) were in the planning phase, nine (33.3%) were in early implementation, seven (25.9%) had practices implemented for one to two years, and four (14.8%) had practices implemented for three or more years. Most systems were tracking clinical metrics and evaluating metrics across subpopulations. Metrics related to chronic disease management and preventive care were mentioned most frequently (23.6% and 16.0%, respectively). Race/ethnicity was the most utilized demographic filter to evaluate equity. Systems at later stages of implementation were tracking fewer metrics, yet many systems were still in early stages of implementation. Health systems need specific and pragmatic guidance to develop and implement equity measures tracked at the executive level. Insights from current health system initiatives can help inform guidelines from national quality organizations for disparity reduction in clinical outcomes.",
+      "year": 2025,
+      "venue": "PLoS ONE",
+      "citation_count": 0,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 24,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 90
+  },
+  {
+    "doi": "10.1016/j.ajem.2022.05.035",
+    "eid": "2-s2.0-85131136695",
+    "title": "Trends in treatment costs of U.S. emergency department visits",
+    "timestamp": "2025-06-25T22:08:15.359743",
+    "crossref": {
+      "doi": "10.1016/j.ajem.2022.05.035",
+      "is-referenced-by-count": 18,
+      "references-count": 17,
+      "title": "Trends in treatment costs of U.S. emergency department visits",
+      "publisher": "Elsevier BV",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "DOI": "10.13039/100000133",
+          "name": "Agency for Healthcare Research and Quality",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "HHSA-290-2018-00001-C"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000133",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "ahrq_funded": true
+    },
+    "core": {
+      "core_id": 231486975,
+      "title": "Trends in treatment costs of U.S. emergency department visits",
+      "abstract": null,
+      "has_full_text": false,
+      "download_url": "https://api.elsevier.com/content/article/PII:S0735675722003448?httpAccept=text/plain",
+      "full_text_snippet": "",
+      "year": 2022,
+      "publisher": "Elsevier BV",
+      "oai": null
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 18,
+      "mentions_ahrq": false,
+      "ahrq_funded": true,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 85
+  },
+  {
+    "doi": "10.1017/ice.2023.283",
+    "eid": "2-s2.0-85182694332",
+    "title": "The next frontier of healthcare-associated infection (HAI) surveillance metrics: Beyond device-associated infections",
+    "timestamp": "2025-06-25T22:08:15.809632",
+    "crossref": {
+      "doi": "10.1017/ice.2023.283",
+      "is-referenced-by-count": 3,
+      "references-count": 36,
+      "title": "The next frontier of healthcare-associated infection (HAI) surveillance metrics: Beyond device-associated infections",
+      "publisher": "Cambridge University Press (CUP)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 3,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 85
+  },
+  {
+    "doi": "10.2196/46159",
+    "eid": "2-s2.0-85169019559",
+    "title": "Social Determinants of Health Documentation in Structured and Unstructured Clinical Data of Patients With Diabetes: Comparative Analysis",
+    "timestamp": "2025-06-25T22:08:15.907023",
+    "crossref": {
+      "doi": "10.2196/46159",
+      "is-referenced-by-count": 9,
+      "references-count": 25,
+      "title": "Social Determinants of Health Documentation in Structured and Unstructured Clinical Data of Patients With Diabetes: Comparative Analysis",
+      "publisher": "JMIR Publications Inc.",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "semantic_scholar": {
+      "paper_id": "caff5f19ea80ff3f95b53b5b0569388259d5b534",
+      "title": "Social Determinants of Health Documentation in Structured and Unstructured Clinical Data of Patients With Diabetes: Comparative Analysis",
+      "abstract": "Background Electronic health records (EHRs) have yet to fully capture social determinants of health (SDOH) due to challenges such as nonexistent or inconsistent data capture tools across clinics, lack of time, and the burden of extra steps for the clinician. However, patient clinical notes (unstructured data) may be a better source of patient-related SDOH information. Objective It is unclear how accurately EHR data reflect patients’ lived experience of SDOH. The manual process of retrieving SDOH information from clinical notes is time-consuming and not feasible. We leveraged two high-throughput tools to identify SDOH mappings to structured and unstructured patient data: PatientExploreR and Electronic Medical Record Search Engine (EMERSE). Methods We included adult patients (≥18 years of age) receiving primary care for their diabetes at the University of California, San Francisco (UCSF), from January 1, 2018, to December 31, 2019. We used expert raters to develop a corpus using SDOH in the compendium as a knowledge base as targets for the natural language processing (NLP) text string mapping to find string stems, roots, and syntactic similarities in the clinical notes of patients with diabetes. We applied advanced built-in EMERSE NLP query parsers implemented with JavaCC. Results We included 4283 adult patients receiving primary care for diabetes at UCSF. Our study revealed that SDOH may be more significant in the lives of patients with diabetes than is evident from structured data recorded on EHRs. With the application of EMERSE NLP rules, we uncovered additional information from patient clinical notes on problems related to social connectionsisolation, employment, financial insecurity, housing insecurity, food insecurity, education, and stress. Conclusions We discovered more patient information related to SDOH in unstructured data than in structured data. The application of this technique and further investment in similar user-friendly tools and infrastructure to extract SDOH information from unstructured data may help to identify the range of social conditions that influence patients’ disease experiences and inform clinical decision-making.",
+      "year": 2023,
+      "venue": "JMIR Medical Informatics",
+      "citation_count": 7,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 26,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 9,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 85
+  },
+  {
+    "doi": "10.1111/birt.12753",
+    "eid": "2-s2.0-85166668318",
+    "title": "Effects of the COVID-19 early pandemic on delivery outcomes among women with and without COVID-19 at birth",
+    "timestamp": "2025-06-25T22:08:16.679934",
+    "crossref": {
+      "doi": "10.1111/birt.12753",
+      "is-referenced-by-count": 0,
+      "references-count": 50,
+      "title": "Effects of the <scp>COVID</scp>‐19 early pandemic on delivery outcomes among women with and without <scp>COVID</scp>‐19 at birth",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 85
+  },
+  {
+    "doi": "10.1001/jamainternmed.2021.5531",
+    "eid": "2-s2.0-85115867159",
+    "title": "Low-Value Care at the Actionable Level of Individual Health Systems",
+    "timestamp": "2025-06-25T22:08:16.333207",
+    "crossref": {
+      "doi": "10.1001/jamainternmed.2021.5531",
+      "is-referenced-by-count": 52,
+      "references-count": 47,
+      "title": "Low-Value Care at the Actionable Level of Individual Health Systems",
+      "publisher": "American Medical Association (AMA)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 236574361,
+      "title": "Low-Value Care at the Actionable Level of Individual Health Systems",
+      "abstract": null,
+      "has_full_text": false,
+      "download_url": "http://dx.doi.org/10.1001/jamainternmed.2021.5531",
+      "full_text_snippet": "",
+      "year": 2021,
+      "publisher": "American Medical Association (AMA)",
+      "oai": null
+    },
+    "semantic_scholar": {
+      "paper_id": "bdb11900b0cedc9e59ef138d2d3c357b5e14a394",
+      "title": "Low-Value Care at the Actionable Level of Individual Health Systems",
+      "abstract": "Key Points Question How does low-value care use vary across health systems? Findings This cohort study measured and reported the use of 41 individual low-value services and a composite measure of 28 services for 556 health systems serving a total of 11 637 763 Medicare beneficiaries across the US. Systems varied widely in the provision of low-value care; those with a smaller proportion of primary care physicians, without a major teaching hospital, headquartered in the South and West, and serving areas with higher health care spending delivered more low-value care. Meaning This study suggests that claims-based definitions can be used to measure low-value care within systems, providing granular, actionable feedback to promote health care quality and affordability.",
+      "year": 2021,
+      "venue": "JAMA Internal Medicine",
+      "citation_count": 51,
+      "influential_citations": 0,
+      "fields": [
+        "Medicine"
+      ],
+      "reference_count": 46,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 52,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 85
+  },
+  {
+    "doi": "10.1017/ice.2023.138",
+    "eid": "2-s2.0-85172796584",
+    "title": "Executive Summary: A Compendium of Strategies to Prevent Healthcare-Associated Infections in Acute-Care Hospitals: 2022 Updates",
+    "timestamp": "2025-06-25T22:08:16.855882",
+    "crossref": {
+      "doi": "10.1017/ice.2023.138",
+      "is-referenced-by-count": 9,
+      "references-count": 36,
+      "title": "Executive Summary: A Compendium of Strategies to Prevent Healthcare-Associated Infections in Acute-Care Hospitals: 2022 Updates",
+      "publisher": "Cambridge University Press (CUP)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 149419278,
+      "title": "Executive Summary: A Compendium of Strategies to Prevent Healthcare-Associated Infections in Acute-Care Hospitals: 2022 Updates.",
+      "abstract": null,
+      "has_full_text": true,
+      "download_url": "https://core.ac.uk/download/586765647.pdf",
+      "full_text_snippet": "Not available for public API users.",
+      "year": 2023,
+      "publisher": "Cambridge University Press",
+      "oai": null
+    },
+    "aggregated": {
+      "has_open_access": true,
+      "total_citations": 9,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": true,
+      "citing_works_found": 0
+    },
+    "original_confidence": 85
+  },
+  {
+    "doi": "10.1001/jama.2020.24991",
+    "eid": "2-s2.0-85099537701",
+    "title": "Neonatal Abstinence Syndrome and Maternal Opioid-Related Diagnoses in the US, 2010-2017",
+    "timestamp": "2025-06-25T22:08:16.405511",
+    "crossref": {
+      "doi": "10.1001/jama.2020.24991",
+      "is-referenced-by-count": 411,
+      "references-count": 37,
+      "title": "Neonatal Abstinence Syndrome and Maternal Opioid-Related Diagnoses in the US, 2010-2017",
+      "publisher": "American Medical Association (AMA)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 241702410,
+      "title": "Neonatal Abstinence Syndrome and Maternal Opioid-Related Diagnoses in the US, 2010-2017",
+      "abstract": null,
+      "has_full_text": false,
+      "download_url": "http://dx.doi.org/10.1001/jama.2020.24991",
+      "full_text_snippet": "",
+      "year": 2021,
+      "publisher": "American Medical Association (AMA)",
+      "oai": null
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 411,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 85
+  },
+  {
+    "doi": "10.1002/jhm.2769",
+    "eid": "2-s2.0-85129996893",
+    "title": "Contributors to disparities in postpartum readmission rates between safety-net and non-safety-net hospitals: A decomposition analysis",
+    "timestamp": "2025-06-25T22:08:17.551809",
+    "crossref": {
+      "doi": "10.1002/jhm.2769",
+      "is-referenced-by-count": 7,
+      "references-count": 40,
+      "title": "Contributors to disparities in postpartum readmission rates between safety‐net and non‐safety‐net hospitals: A decomposition analysis",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 7,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 85
+  },
+  {
+    "doi": "10.1111/1475-6773.13709",
+    "eid": "2-s2.0-85111711444",
+    "title": "Methods for estimating the cost of treat-and-release emergency department visits",
+    "timestamp": "2025-06-25T22:08:17.620206",
+    "crossref": {
+      "doi": "10.1111/1475-6773.13709",
+      "is-referenced-by-count": 3,
+      "references-count": 23,
+      "title": "Methods for estimating the cost of treat‐and‐release emergency department visits",
+      "publisher": "Wiley",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "DOI": "10.13039/100000133",
+          "name": "Agency for Healthcare Research and Quality",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "Contract No HHSA‐290‐2018‐00001‐C"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000133",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "ahrq_funded": true
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 3,
+      "mentions_ahrq": false,
+      "ahrq_funded": true,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 85
+  },
+  {
+    "doi": "10.1093/cid/ciad777",
+    "eid": "2-s2.0-85201437404",
+    "title": "Reply to Diekema et al",
+    "timestamp": "2025-06-25T22:08:17.874715",
+    "crossref": {
+      "doi": "10.1093/cid/ciad777",
+      "is-referenced-by-count": 0,
+      "references-count": 6,
+      "title": "Reply to Diekema et al",
+      "publisher": "Oxford University Press (OUP)",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "core": {
+      "core_id": 153864627,
+      "title": "Reply to Diekema et al.  Are contact precautions  essential  for the prevention of healthcare-associated methicillin-resistant staphylococcus aureus?",
+      "abstract": null,
+      "has_full_text": false,
+      "download_url": "https://core.ac.uk/download/603377206.pdf",
+      "full_text_snippet": "",
+      "year": 2023,
+      "publisher": "SHARE @ Advocate Health - Midwest",
+      "oai": null
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 85
+  },
+  {
+    "doi": "10.1177/15248399241302060",
+    "eid": "2-s2.0-85213836403",
+    "title": "From Free Play to Farm Chores: Using the Youth Compendium to Characterize Physical Activity Behaviors Among Rural Children",
+    "timestamp": "2025-06-25T22:08:18.532027",
+    "crossref": {
+      "doi": "10.1177/15248399241302060",
+      "is-referenced-by-count": 0,
+      "references-count": 38,
+      "title": "From Free Play to Farm Chores: Using the Youth Compendium to Characterize Physical Activity Behaviors Among Rural Children",
+      "publisher": "SAGE Publications",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "DOI": "10.13039/100000050",
+          "name": "National Heart, Lung, and Blood Institute",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "R01HL123699"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000050",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100000050",
+          "name": "National Heart, Lung, and Blood Institute",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "T32HL150452"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000050",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100009993",
+          "name": "Center for Clinical and Translational Research",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "UL1TR002494"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100009993",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 80
+  },
+  {
+    "doi": "10.1016/j.jcpo.2025.100571",
+    "eid": "2-s2.0-105000437662",
+    "title": "Availability, affordability and health insurance coverage of breast cancer services in Iran - An analysis based on the Universal Health Coverage-Service Planning Delivery and Implementation tool",
+    "timestamp": "2025-06-25T22:08:18.317191",
+    "crossref": {
+      "doi": "10.1016/j.jcpo.2025.100571",
+      "is-referenced-by-count": 0,
+      "references-count": 26,
+      "title": "Availability, affordability and health insurance coverage of breast cancer services in Iran - An analysis based on the Universal Health Coverage-Service Planning Delivery and Implementation tool",
+      "publisher": "Elsevier BV",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [
+        {
+          "DOI": "10.13039/100004423",
+          "name": "World Health Organization",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "2022/1277381",
+            "2022/1277381\\u20132"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100004423",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "ahrq_funded": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 0,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 80
+  },
+  {
+    "doi": "10.31354/globalce.v6i2.169",
+    "eid": "2-s2.0-85191003423",
+    "title": "A Landscape Study to Determine the Innovation Mortality Rate in Health Technology Innovations Across the Globe",
+    "timestamp": "2025-06-25T22:08:18.470757",
+    "crossref": {
+      "doi": "10.31354/globalce.v6i2.169",
+      "is-referenced-by-count": 1,
+      "references-count": 37,
+      "title": "A Landscape Study to Determine the Innovation Mortality Rate in Health Technology Innovations Across the Globe",
+      "publisher": "Global Clinical Engineering Journal",
+      "type": "journal-article",
+      "subject": [],
+      "funder": [],
+      "ahrq_funded": false
+    },
+    "semantic_scholar": {
+      "paper_id": "387461930d80e6b0f9e1ce285f4b2160abe6429f",
+      "title": "A Landscape Study to Determine the Innovation Mortality Rate in Health Technology Innovations Across the Globe",
+      "abstract": "Introduction : Health technology innovation encompasses many areas, such as medical devices, diagnostics, pharmaceuticals, digital health solutions, telemedicine, health informatics, and more. These innovations aim to enhance healthcare delivery, improve patient outcomes, increase access to services, reduce costs, and advance medical research.\nMethodology : We have analyzed health technology innovations reported between January 2011 and December 2022. Regulatory approval for the innovative products was determined based solely on official open-access websites of health agencies, disregarding information from company websites or third-party sources. The search process utilized identified innovation agencies and sources like Primary Health Care (Innovations were thoroughly examined from these sources, focusing on health technologies, and success was gauged through regulatory approval.\nResults : The WHO Compendium includes 200 health innovations primarily intended for low-resource settings, with the USA accounting for the highest number, followed by India, the only low- and middle-income country (LMIC) with significant innovations. However, 58% of the listed innovations did not obtain regulatory clearance. Medical devices dominated the listed innovations, while scalable assistive technologies were limited. Global innovation agencies, particularly Grand Challenges, supported many innovations, but the regulatory approval rate remained low. In India, BIRAC supported 92% of the mapped innovations, with a similar trend of low regulatory approval rates.\nConclusion: The study observed the highest number of innovations during 2015-2017, with medical devices being the most prominent category. However, most innovations from both global and domestic agencies were unapproved, raising concerns about regulatory clearance for these health technologies.\nManuscript Highlights: The manuscript presents several important highlights concerning health technology innovation and regulatory approval. It highlights the evaluation of health innovations from 2015 to 2022, focusing on their success rate based on health agency approval. It reveals an uneven distribution of innovations from different countries and emphasizes the need for critical interventions to improve the process. This study emphasizes the significance of innovations in achieving healthcare equity and sustainable development goals.",
+      "year": 2024,
+      "venue": "Global Clinical Engineering Journal",
+      "citation_count": 2,
+      "influential_citations": 0,
+      "fields": null,
+      "reference_count": 77,
+      "mentions_ahrq": false
+    },
+    "aggregated": {
+      "has_open_access": false,
+      "total_citations": 2,
+      "mentions_ahrq": false,
+      "ahrq_funded": false,
+      "full_text_available": false,
+      "citing_works_found": 0
+    },
+    "original_confidence": 80
+  }
+]

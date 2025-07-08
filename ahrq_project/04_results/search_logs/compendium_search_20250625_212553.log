@@ -1,0 +1,58 @@
+2025-06-25 21:25:53,814 - INFO - Agent1_DirectMentions - Searching: Exact phrase
+2025-06-25 21:25:53,815 - INFO - Agent2_Funding - Searching: Funding with Compendium
+2025-06-25 21:25:53,820 - INFO - Agent3_Methodology - Searching: ID systems pattern
+2025-06-25 21:25:53,822 - INFO - Agent4_Keywords - Searching: Author keyword exact
+2025-06-25 21:25:53,828 - INFO - Agent5_Citations - Searching: Reference exact
+2025-06-25 21:25:53,834 - INFO - Agent6_Indirect - Searching: Federal database
+2025-06-25 21:25:55,393 - INFO - Agent1_DirectMentions - Searching: Full name
+2025-06-25 21:25:55,395 - INFO - Agent4_Keywords - Searching: Author keyword pattern
+2025-06-25 21:25:55,399 - INFO - Agent3_Methodology - Searching: Affiliation pattern
+2025-06-25 21:25:55,469 - INFO - Agent6_Indirect - Searching: National affiliation
+2025-06-25 21:25:55,680 - INFO - Agent2_Funding - Searching: Funding exact phrase
+2025-06-25 21:25:55,683 - INFO - Agent5_Citations - Searching: Reference agency
+2025-06-25 21:25:56,669 - INFO - Agent4_Keywords - Searching: Affiliation data keyword
+2025-06-25 21:25:56,751 - INFO - Agent1_DirectMentions - Searching: Full name variant
+2025-06-25 21:25:56,761 - INFO - Agent6_Indirect - Searching: Mathematica data
+2025-06-25 21:25:56,793 - INFO - Agent3_Methodology - Searching: Database description
+2025-06-25 21:25:57,000 - INFO - Agent2_Funding - Searching: AHRQ sponsor + Compendium
+2025-06-25 21:25:57,314 - INFO - Agent5_Citations - Searching: Reference full name
+2025-06-25 21:25:57,959 - INFO - Agent4_Keywords - Searching: Compendium keyword
+2025-06-25 21:25:58,070 - INFO - Agent3_Methodology - Searching: Inventory pattern
+2025-06-25 21:25:58,121 - INFO - Agent6_Indirect - Searching: Comprehensive list
+2025-06-25 21:25:58,128 - INFO - Agent1_DirectMentions - Searching: Agency full name
+2025-06-25 21:25:58,414 - INFO - Agent2_Funding - Searching: AHRQ funding + database
+2025-06-25 21:25:59,342 - INFO - Agent4_Keywords - Searching: Index pattern
+2025-06-25 21:25:59,413 - INFO - Agent3_Methodology - Searching: Used AHRQ pattern
+2025-06-25 21:25:59,515 - INFO - Agent6_Indirect - Searching: Number pattern
+2025-06-25 21:25:59,519 - INFO - Agent1_DirectMentions - Searching: Fuzzy match 2 chars
+2025-06-25 21:25:59,540 - ERROR - Agent4_Keywords - Error 400 for query: INDEXTERMS("health system*" AND "database*" AND "United States")
+2025-06-25 21:25:59,854 - INFO - Agent2_Funding - Searching: HHS contracts
+2025-06-25 21:26:00,012 - ERROR - Agent6_Indirect - Error 500 for query: TITLE-ABS("we identified" W/5 "[0-9]+" W/5 "health system*")
+2025-06-25 21:26:00,183 - INFO - Agent5_Citations - Searching: Reference variant
+2025-06-25 21:26:00,543 - INFO - Agent4_Keywords - Searching: Network identification
+2025-06-25 21:26:00,776 - INFO - Agent3_Methodology - Searching: Linkage pattern
+2025-06-25 21:26:00,929 - ERROR - Agent4_Keywords - Error 400 for query: INDEXTERMS("hospital network*" AND "identification")
+2025-06-25 21:26:01,015 - INFO - Agent6_Indirect - Searching: Linking pattern
+2025-06-25 21:26:01,305 - INFO - Agent2_Funding - Searching: AHRQ grant numbers
+2025-06-25 21:26:01,391 - INFO - Agent1_DirectMentions - Searching: Wildcard
+2025-06-25 21:26:01,719 - INFO - Agent5_Citations - Searching: Known paper 1
+2025-06-25 21:26:01,734 - ERROR - Agent2_Funding - Error 500 for query: FUND-NO("290-*") AND TITLE-ABS("health system*")
+2025-06-25 21:26:01,932 - INFO - Agent4_Keywords - Searching: Consolidation measurement
+2025-06-25 21:26:02,129 - INFO - Agent3_Methodology - Searching: Membership pattern
+2025-06-25 21:26:02,152 - ERROR - Agent4_Keywords - Error 400 for query: INDEXTERMS("healthcare consolidation" AND "measurement")
+2025-06-25 21:26:02,718 - INFO - Agent6_Indirect - Searching: AHRQ data
+2025-06-25 21:26:02,930 - INFO - Agent1_DirectMentions - Searching: All fields search
+2025-06-25 21:26:03,156 - INFO - Agent4_Keywords - Searching: AHRQ indexed
+2025-06-25 21:26:03,318 - ERROR - Agent4_Keywords - Error 400 for query: INDEXTERMS("AHRQ")
+2025-06-25 21:26:03,445 - INFO - Agent5_Citations - Searching: Known paper 2
+2025-06-25 21:26:03,547 - INFO - Agent3_Methodology - Searching: 2018 data
+2025-06-25 21:26:04,052 - INFO - Agent6_Indirect - Searching: Linkage file
+2025-06-25 21:26:04,360 - INFO - Agent1_DirectMentions - Searching: All fields full name
+2025-06-25 21:26:04,741 - INFO - Agent5_Citations - Searching: Known paper 3
+2025-06-25 21:26:04,984 - INFO - Agent3_Methodology - Searching: 2022 data
+2025-06-25 21:26:06,144 - INFO - Agent5_Citations - Searching: AHRQ website reference
+2025-06-25 21:26:06,359 - INFO - Agent3_Methodology - Searching: 2023 data
+2025-06-25 21:26:07,307 - INFO - Agent1_DirectMentions - Searching: Close proximity
+2025-06-25 21:26:07,576 - INFO - Agent5_Citations - Searching: GitHub reference
+2025-06-25 21:26:10,403 - INFO - Agent1_DirectMentions - Searching: Medium proximity
+2025-06-25 21:26:11,802 - INFO - Agent1_DirectMentions - Searching: Agency proximity

@@ -1,0 +1,250 @@
+{
+  "publication": {
+    "description": "Core publication record representing a research paper or policy document that uses AHRQ data",
+    "source": "ahrq_reference_good.csv",
+    "fields": {
+      "id": {
+        "type": "number",
+        "description": "Unique identifier for the publication",
+        "generated": true
+      },
+      "publication_type": {
+        "type": "string",
+        "description": "Category of publication",
+        "values": ["GOVERNMENT", "POLICY", "OTHER"],
+        "examples": {
+          "GOVERNMENT": "Official government reports and agency publications",
+          "POLICY": "Policy briefs, white papers, and regulatory documents",
+          "OTHER": "Academic papers, industry reports, and other publications"
+        }
+      },
+      "title": {
+        "type": "string",
+        "description": "Full title of the publication",
+        "required": true,
+        "examples": [
+          "The Impact of AHRQ Quality Indicators on Hospital Performance",
+          "Using HCUP Data to Analyze Emergency Department Utilization Patterns"
+        ]
+      },
+      "authors": {
+        "type": "string",
+        "description": "Semi-colon separated list of author names",
+        "format": "LastName, FirstName; LastName, FirstName",
+        "parsing_notes": "May include affiliations in parentheses",
+        "examples": [
+          "Smith, John A.; Johnson, Mary B.",
+          "Brown, David (Harvard University); Lee, Sarah"
+        ]
+      },
+      "year": {
+        "type": "number",
+        "description": "Publication year",
+        "range": [2010, 2024],
+        "required": true
+      },
+      "journal": {
+        "type": "string",
+        "description": "Journal or venue where published",
+        "examples": [
+          "Health Affairs",
+          "New England Journal of Medicine",
+          "AHRQ Policy Brief"
+        ]
+      },
+      "publisher": {
+        "type": "string",
+        "description": "Publishing organization",
+        "examples": [
+          "National Academy Press",
+          "Centers for Medicare & Medicaid Services",
+          "Urban Institute"
+        ]
+      },
+      "usage_type": {
+        "type": "string",
+        "description": "How AHRQ data/tools were used in the publication",
+        "values": ["PRIMARY_ANALYSIS", "RESEARCH_ENABLER", "CONTEXTUAL_REFERENCE"],
+        "definitions": {
+          "PRIMARY_ANALYSIS": "AHRQ data is the main focus of analysis",
+          "RESEARCH_ENABLER": "AHRQ tools/methods enable the research",
+          "CONTEXTUAL_REFERENCE": "AHRQ work provides context or comparison"
+        }
+      },
+      "usage_justification": {
+        "type": "string",
+        "description": "Brief explanation of why this usage type was assigned",
+        "examples": [
+          "Study directly analyzes HCUP emergency department data",
+          "Uses AHRQ Quality Indicators as primary outcome measures"
+        ]
+      },
+      "usage_description": {
+        "type": "string",
+        "description": "Detailed description of how AHRQ data/tools were used",
+        "length": "typically 50-500 characters"
+      },
+      "research_domain": {
+        "type": "string",
+        "description": "Primary research area or field",
+        "examples": [
+          "Health Services Research",
+          "Emergency Medicine",
+          "Healthcare Quality",
+          "Health Economics",
+          "Clinical Effectiveness"
+        ]
+      },
+      "geographic_focus": {
+        "type": "string",
+        "description": "Geographic scope of the research",
+        "examples": [
+          "United States",
+          "California",
+          "Multi-state",
+          "Urban hospitals nationwide"
+        ],
+        "parsing_notes": "May contain institution names"
+      },
+      "data_years_used": {
+        "type": "string",
+        "description": "Years of AHRQ data used in the study",
+        "format": "Can be single year, range, or list",
+        "examples": [
+          "2018-2020",
+          "2019",
+          "2015, 2017, 2019"
+        ]
+      },
+      "key_findings": {
+        "type": "string",
+        "description": "Main findings or conclusions from the publication",
+        "length": "typically 100-1000 characters",
+        "content": "Summary of primary results and insights"
+      },
+      "policy_implications": {
+        "type": "string",
+        "description": "Policy relevance and potential impact",
+        "length": "typically 100-1000 characters",
+        "keywords_tracked": [
+          "regulatory",
+          "enforcement",
+          "antitrust",
+          "competition",
+          "oversight",
+          "compliance",
+          "legislation",
+          "guidelines"
+        ]
+      },
+      "doi_url": {
+        "type": "string",
+        "description": "Digital Object Identifier or URL to access publication",
+        "format": "URL or DOI",
+        "examples": [
+          "https://doi.org/10.1001/jama.2020.12345",
+          "https://www.healthaffairs.org/doi/10.1377/hlthaff.2020.00123"
+        ]
+      },
+      "notes": {
+        "type": "string",
+        "description": "Additional notes or comments",
+        "optional": true
+      },
+      "quality_score": {
+        "type": "number",
+        "description": "Computed score indicating publication quality and completeness",
+        "range": [0, 100],
+        "calculated": true,
+        "factors": [
+          "Presence of DOI (20 points)",
+          "Usage justification detail (20 points)",
+          "Key findings completeness (20 points)",
+          "Policy implications detail (20 points)",
+          "Data years specificity (10 points)",
+          "Author information completeness (10 points)"
+        ]
+      },
+      "policy_impact_score": {
+        "type": "number",
+        "description": "Computed score indicating policy relevance and impact",
+        "range": [0, 100],
+        "calculated": true,
+        "calculation": "Based on keyword analysis in policy_implications field",
+        "keywords_weights": {
+          "regulatory": 15,
+          "enforcement": 15,
+          "legislation": 20,
+          "guidelines": 10,
+          "oversight": 10
+        }
+      }
+    },
+    "relationships": {
+      "authors_to_network": "Authors are parsed and linked as nodes in the collaboration network",
+      "domain_to_sankey": "Research domains form the third level of the Sankey diagram",
+      "year_to_trends": "Years are used for all time-series trend analyses",
+      "scores_to_filters": "Quality and policy scores are used for filtering and ranking"
+    }
+  },
+  
+  "network_node": {
+    "description": "Node in the author collaboration network",
+    "derived_from": "Parsed from publication authors field",
+    "fields": {
+      "id": {
+        "type": "string",
+        "description": "Normalized author name",
+        "format": "LastName, FirstName"
+      },
+      "publicationCount": {
+        "type": "number",
+        "description": "Total publications by this author"
+      },
+      "collaborationCount": {
+        "type": "number",
+        "description": "Number of unique collaborators"
+      },
+      "policyImpactAvg": {
+        "type": "number",
+        "description": "Average policy impact score across publications"
+      },
+      "domains": {
+        "type": "array",
+        "description": "List of research domains author has published in"
+      }
+    }
+  },
+  
+  "network_edge": {
+    "description": "Edge representing collaboration between authors",
+    "fields": {
+      "source": {
+        "type": "string",
+        "description": "First author ID"
+      },
+      "target": {
+        "type": "string",
+        "description": "Second author ID"
+      },
+      "weight": {
+        "type": "number",
+        "description": "Collaboration strength (0-1)"
+      },
+      "sharedPublications": {
+        "type": "number",
+        "description": "Number of publications together"
+      }
+    }
+  },
+  
+  "sankey_flow": {
+    "description": "Flow in the Sankey diagram",
+    "levels": [
+      "Publication Type → Usage Type",
+      "Usage Type → Research Domain",
+      "Research Domain → Policy Impact Category"
+    ],
+    "value_calculation": "Number of publications flowing through path"
+  }
+}

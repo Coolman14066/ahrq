@@ -1,0 +1,27 @@
+{
+  "total_publications": 146,
+  "publications_2021_onwards": 137,
+  "high_impact_studies": 89,
+  "unique_domains": 11,
+  "recent_publications_2023_plus": 94,
+  "publication_types": {
+    "ACADEMIC": 95,
+    "POLICY": 23,
+    "OTHER": 19,
+    "GOVERNMENT": 9
+  },
+  "usage_types": {
+    "CONTEXTUAL_REFERENCE": 55,
+    "RESEARCH_ENABLER": 51,
+    "PRIMARY_ANALYSIS": 40
+  },
+  "year_distribution": {
+    "2019": 3,
+    "2020": 6,
+    "2021": 23,
+    "2022": 20,
+    "2023": 35,
+    "2024": 30,
+    "2025": 29
+  }
+}

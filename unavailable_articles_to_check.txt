@@ -1,0 +1,501 @@
+UNAVAILABLE ARTICLES TO CHECK
+==================================================
+These articles were not available via Scopus API.
+Try to download them from publisher websites.
+Save them in 'downloaded_articles' folder if accessible.
+
+
+Article 1:
+Title: Outcomes for Very Preterm Infants Across Health Systems
+Authors: Rogowski J.A.
+Year: 2025
+Journal: JAMA Network Open
+DOI: 10.1001/jamanetworkopen.2025.13274
+DOI URL: https://doi.org/10.1001/jamanetworkopen.2025.13274
+EID: 2-s2.0-105007322937
+Suggested filename: Unavailable_Article1_Rogowski_2025.pdf
+--------------------------------------------------
+
+Article 2:
+Title: State Health Care Cost Commissions: Their Priorities and How States’ Political Leanings, Commercial Hospital Prices, and Medicaid Spending Predict Their Establishment
+Authors: Fulton B.D.
+Year: 2025
+Journal: Milbank Quarterly
+DOI: 10.1111/1468-0009.70019
+DOI URL: https://doi.org/10.1111/1468-0009.70019
+EID: 2-s2.0-105006819186
+Suggested filename: Unavailable_Article2_Fulton_2025.pdf
+--------------------------------------------------
+
+Article 3:
+Title: Private Equity Investment in Plastic Surgery Clinics: A Scoping Review
+Authors: Roth J.M.
+Year: 2025
+Journal: Plastic and Reconstructive Surgery
+DOI: 10.1097/PRS.0000000000012164
+DOI URL: https://doi.org/10.1097/PRS.0000000000012164
+EID: 2-s2.0-105003919850
+Suggested filename: Unavailable_Article3_Roth_2025.pdf
+--------------------------------------------------
+
+Article 4:
+Title: Using 42 CFR part 2 revisions to integrate substance use disorder treatment information into electronic health records at a safety net health system
+Authors: Tillman A.R.
+Year: 2024
+Journal: Addiction Science and Clinical Practice
+DOI: 10.1186/s13722-024-00477-3
+DOI URL: https://doi.org/10.1186/s13722-024-00477-3
+EID: 2-s2.0-85195534060
+Suggested filename: Unavailable_Article4_Tillman_2024.pdf
+--------------------------------------------------
+
+Article 5:
+Title: Private Payers and Cancer Care: Revisiting the Land of Opportunity
+Authors: Kolodziej M.A.
+Year: 2024
+Journal: JCO Oncology Practice
+DOI: 10.1200/OP.23.00632
+DOI URL: https://doi.org/10.1200/OP.23.00632
+EID: 2-s2.0-85187786751
+Suggested filename: Unavailable_Article5_Kolodziej_2024.pdf
+--------------------------------------------------
+
+Article 6:
+Title: Relationship Between In-Hospital Adverse Events and Hospital Performance on 30-Day All-cause Mortality and Readmission for Patients With Heart Failure
+Authors: Wang Y.
+Year: 2023
+Journal: Circulation Cardiovascular Quality and Outcomes
+DOI: 10.1161/CIRCOUTCOMES.122.009573
+DOI URL: https://doi.org/10.1161/CIRCOUTCOMES.122.009573
+EID: 2-s2.0-85165519517
+Suggested filename: Unavailable_Article6_Wang_2023.pdf
+--------------------------------------------------
+
+Article 7:
+Title: Advance Care Planning Billing Codes Associated With Decreased Healthcare Utilization in Neurological Disease
+Authors: Brown G.
+Year: 2025
+Journal: Journal of Healthcare Management
+DOI: 10.1097/JHM-D-23-00234
+DOI URL: https://doi.org/10.1097/JHM-D-23-00234
+EID: 2-s2.0-85214589203
+Suggested filename: Unavailable_Article7_Brown_2025.pdf
+--------------------------------------------------
+
+Article 8:
+Title: Disparities in End-of-Life Care: A Retrospective Study on Intensive Care Utilization and Advance Care Planning in the Colorado All-Payer Claims Database
+Authors: Holladay Ford D.
+Year: 2025
+Journal: American Journal of Hospice and Palliative Medicine
+DOI: 10.1177/10499091251327191
+DOI URL: https://doi.org/10.1177/10499091251327191
+EID: 2-s2.0-105000825148
+Suggested filename: Unavailable_Article8_Holladay_2025.pdf
+--------------------------------------------------
+
+Article 9:
+Title: Advance Care Planning (ACP) in Medicare Beneficiaries with Heart Failure
+Authors: Bose Brill S.
+Year: 2024
+Journal: Journal of General Internal Medicine
+DOI: 10.1007/s11606-024-08604-1
+DOI URL: https://doi.org/10.1007/s11606-024-08604-1
+EID: 2-s2.0-85193607288
+Suggested filename: Unavailable_Article9_Bose_2024.pdf
+--------------------------------------------------
+
+Article 10:
+Title: Delivering High-Quality Cancer Care: Charting a New Course for a System in Crisis: One Decade Later
+Authors: Nekhlyudov L.
+Year: 2024
+Journal: Journal of Clinical Oncology
+DOI: 10.1200/JCO-24-01243
+DOI URL: https://doi.org/10.1200/JCO-24-01243
+EID: 2-s2.0-85207884598
+Suggested filename: Unavailable_Article10_Nekhlyudov_2024.pdf
+--------------------------------------------------
+
+Article 11:
+Title: A Quality Improvement Initiative for Inpatient Advance Care Planning
+Authors: Sacks O.A.
+Year: 2024
+Journal: JAMA Health Forum
+DOI: 10.1001/jamahealthforum.2024.3172
+DOI URL: https://doi.org/10.1001/jamahealthforum.2024.3172
+EID: 2-s2.0-85205605112
+Suggested filename: Unavailable_Article11_Sacks_2024.pdf
+--------------------------------------------------
+
+Article 12:
+Title: Promoting serious illness conversations in primary care through telehealth among persons living with cognitive impairment
+Authors: Gabbard J.L.
+Year: 2024
+Journal: Journal of the American Geriatrics Society
+DOI: 10.1111/jgs.19100
+DOI URL: https://doi.org/10.1111/jgs.19100
+EID: 2-s2.0-85199136404
+Suggested filename: Unavailable_Article12_Gabbard_2024.pdf
+--------------------------------------------------
+
+Article 13:
+Title: Moral grounds, standards, and decision-making models for surrogate life-sustaining treatment decisions by family members: a reflection on Taiwan’s hospice and palliative care policy
+Authors: Juang Y.C.
+Year: 2024
+Journal: Taiwan Journal of Public Health
+DOI: 10.6288/TJPH.202408_43(4).113028
+DOI URL: https://doi.org/10.6288/TJPH.202408_43(4).113028
+EID: 2-s2.0-85206559495
+Suggested filename: Unavailable_Article13_Juang_2024.pdf
+--------------------------------------------------
+
+Article 14:
+Title: Federal Advance Care Planning Policy Primer – Key Aspects, Barriers, and Opportunities
+Authors: Singh S.
+Year: 2024
+Journal: American Journal of Hospice and Palliative Medicine
+DOI: 10.1177/10499091231175641
+DOI URL: https://doi.org/10.1177/10499091231175641
+EID: 2-s2.0-85162938913
+Suggested filename: Unavailable_Article14_Singh_2024.pdf
+--------------------------------------------------
+
+Article 15:
+Title: US clinicians' perspectives on advance care planning for persons with dementia: A qualitative study
+Authors: Tjia J.
+Year: 2023
+Journal: Journal of the American Geriatrics Society
+DOI: 10.1111/jgs.18197
+DOI URL: https://doi.org/10.1111/jgs.18197
+EID: 2-s2.0-85145100965
+Suggested filename: Unavailable_Article15_Tjia_2023.pdf
+--------------------------------------------------
+
+Article 16:
+Title: Perspectives on deprescribing in palliative care
+Authors: Tjia J.
+Year: 2023
+Journal: Expert Review of Clinical Pharmacology
+DOI: 10.1080/17512433.2023.2197592
+DOI URL: https://doi.org/10.1080/17512433.2023.2197592
+EID: 2-s2.0-85153349340
+Suggested filename: Unavailable_Article16_Tjia_2023.pdf
+--------------------------------------------------
+
+Article 17:
+Title: Early Integrated Palliative Care Within a Surgical Oncology Clinic
+Authors: Bansal V.V.
+Year: 2023
+Journal: JAMA Network Open
+DOI: 10.1001/jamanetworkopen.2023.41928
+DOI URL: https://doi.org/10.1001/jamanetworkopen.2023.41928
+EID: 2-s2.0-85176304094
+Suggested filename: Unavailable_Article17_Bansal_2023.pdf
+--------------------------------------------------
+
+Article 18:
+Title: Life-Sustaining Treatments Among Medicare Beneficiaries with and without Dementia at the End of Life
+Authors: Zhu Y.
+Year: 2023
+Journal: Journal of Alzheimer S Disease
+DOI: 10.3233/JAD-230692
+DOI URL: https://doi.org/10.3233/JAD-230692
+EID: 2-s2.0-85177982056
+Suggested filename: Unavailable_Article18_Zhu_2023.pdf
+--------------------------------------------------
+
+Article 19:
+Title: Impact of Advance Care Planning on the Hospitalization-Associated Utilization and Cost of Patients with Alzheimer’s Disease-Related Disorders Receiving Primary Care via Telehealth in a Provider Shortage Area: A Quantitative Pre-Study
+Authors: Yoo J.W.
+Year: 2023
+Journal: International Journal of Environmental Research and Public Health
+DOI: 10.3390/ijerph20126157
+DOI URL: https://doi.org/10.3390/ijerph20126157
+EID: 2-s2.0-85163773788
+Suggested filename: Unavailable_Article19_Yoo_2023.pdf
+--------------------------------------------------
+
+Article 20:
+Title: Timing and setting of billed advance care planning among Medicare decedents in 2017–2019
+Authors: Gotanda H.
+Year: 2023
+Journal: Journal of the American Geriatrics Society
+DOI: 10.1111/jgs.18476
+DOI URL: https://doi.org/10.1111/jgs.18476
+EID: 2-s2.0-85162175378
+Suggested filename: Unavailable_Article20_Gotanda_2023.pdf
+--------------------------------------------------
+
+Article 21:
+Title: Visit and Between-Visit Interaction Frequency before and after COVID-19 Telehealth Implementation
+Authors: Nouri S.
+Year: 2023
+Journal: JAMA Network Open
+DOI: 10.1001/jamanetworkopen.2023.33944
+DOI URL: https://doi.org/10.1001/jamanetworkopen.2023.33944
+EID: 2-s2.0-85171351862
+Suggested filename: Unavailable_Article21_Nouri_2023.pdf
+--------------------------------------------------
+
+Article 22:
+Title: Advance care planning billing codes in patients undergoing TAVR is infrequent and associated with adverse TAVR outcomes
+Authors: Shah K.B.
+Year: 2023
+Journal: Journal of the American Geriatrics Society
+DOI: 10.1111/jgs.18045
+DOI URL: https://doi.org/10.1111/jgs.18045
+EID: 2-s2.0-85139072500
+Suggested filename: Unavailable_Article22_Shah_2023.pdf
+--------------------------------------------------
+
+Article 23:
+Title: Missed Opportunities and Health Disparities for Advance Care Planning before Elective Surgery in Older Adults
+Authors: Colley A.
+Year: 2022
+Journal: JAMA Surgery
+DOI: 10.1001/jamasurg.2022.3687
+DOI URL: https://doi.org/10.1001/jamasurg.2022.3687
+EID: 2-s2.0-85137284078
+Suggested filename: Unavailable_Article23_Colley_2022.pdf
+--------------------------------------------------
+
+Article 24:
+Title: Practice Billing for Medicare Advance Care Planning Across the USA
+Authors: Luth E.A.
+Year: 2022
+Journal: Journal of General Internal Medicine
+DOI: 10.1007/s11606-022-07404-9
+DOI URL: https://doi.org/10.1007/s11606-022-07404-9
+EID: 2-s2.0-85123632988
+Suggested filename: Unavailable_Article24_Luth_2022.pdf
+--------------------------------------------------
+
+Article 25:
+Title: The Underuse of Medicare's Prevention and Coordination Codes in Primary Care A Cross-Sectional and Modeling Study
+Authors: Agarwal S.D.
+Year: 2022
+Journal: Annals of Internal Medicine
+DOI: 10.7326/M21-4770
+DOI URL: https://doi.org/10.7326/M21-4770
+EID: 2-s2.0-85135989582
+Suggested filename: Unavailable_Article25_Agarwal_2022.pdf
+--------------------------------------------------
+
+Article 26:
+Title: Commercial insurers' market power and hospital prices in Medicaid managed care
+Authors: Wang Y.
+Year: 2025
+Journal: Health Services Research
+DOI: 10.1111/1475-6773.14407
+DOI URL: https://doi.org/10.1111/1475-6773.14407
+EID: 2-s2.0-85208730046
+Suggested filename: Unavailable_Article26_Wang_2025.pdf
+--------------------------------------------------
+
+Article 27:
+Title: Reported Prices for High-Volume Hand Surgery in the Era of Price Transparency: Implications for Future Policy Iterations
+Authors: Fahmy J.N.
+Year: 2025
+Journal: Plastic and Reconstructive Surgery
+DOI: 10.1097/PRS.0000000000011378
+DOI URL: https://doi.org/10.1097/PRS.0000000000011378
+EID: 2-s2.0-85201578523
+Suggested filename: Unavailable_Article27_Fahmy_2025.pdf
+--------------------------------------------------
+
+Article 28:
+Title: Do Insurers With Greater Market Power Negotiate Consistently Lower Prices for Hospital Care? Evidence From Hospital Price Transparency Data
+Authors: Wang Y.
+Year: 2024
+Journal: Medical Care Research and Review
+DOI: 10.1177/10775587231193475
+DOI URL: https://doi.org/10.1177/10775587231193475
+EID: 2-s2.0-85170056845
+Suggested filename: Unavailable_Article28_Wang_2024.pdf
+--------------------------------------------------
+
+Article 29:
+Title: Cross-Validation of Insurer and Hospital Price Transparency Data
+Authors: Henderson M.A.
+Year: 2024
+Journal: American Journal of Managed Care
+DOI: 10.37765/ajmc.2024.89594
+DOI URL: https://doi.org/10.37765/ajmc.2024.89594
+EID: 2-s2.0-85201341807
+Suggested filename: Unavailable_Article29_Henderson_2024.pdf
+--------------------------------------------------
+
+Article 30:
+Title: Performance of health care service area definitions for capturing variation in inpatient care and social determinants of health
+Authors: Crook H.
+Year: 2024
+Journal: Health Services Research
+DOI: 10.1111/1475-6773.14312
+DOI URL: https://doi.org/10.1111/1475-6773.14312
+EID: 2-s2.0-85192196883
+Suggested filename: Unavailable_Article30_Crook_2024.pdf
+--------------------------------------------------
+
+Article 31:
+Title: Trauma Activation Fees Vary Widely Across US Trauma Centers
+Authors: Scott K.W.
+Year: 2024
+Journal: Health Affairs
+DOI: 10.1377/HLTHAFF.2023.00933
+DOI URL: https://doi.org/10.1377/HLTHAFF.2023.00933
+EID: 2-s2.0-85203052455
+Suggested filename: Unavailable_Article31_Scott_2024.pdf
+--------------------------------------------------
+
+Article 32:
+Title: A Competition Perspective on Physician Non-compete Agreements
+Authors: Gilman D.J.
+Year: 2024
+Journal: Inquiry United States
+DOI: 10.1177/00469580241237621
+DOI URL: https://doi.org/10.1177/00469580241237621
+EID: 2-s2.0-85187110361
+Suggested filename: Unavailable_Article32_Gilman_2024.pdf
+--------------------------------------------------
+
+Article 33:
+Title: The relationship between community social risk factors and regional hospital-reported cash, negotiated, and chargemaster prices for 14 common services
+Authors: Chang E.
+Year: 2024
+Journal: BMC Health Services Research
+DOI: 10.1186/s12913-024-10762-1
+DOI URL: https://doi.org/10.1186/s12913-024-10762-1
+EID: 2-s2.0-85187141803
+Suggested filename: Unavailable_Article33_Chang_2024.pdf
+--------------------------------------------------
+
+Article 34:
+Title: Payer Type and Emergency Department Visit Prices
+Authors: Morey J.R.
+Year: 2024
+Journal: JAMA Network Open
+DOI: 10.1001/jamanetworkopen.2024.1297
+DOI URL: https://doi.org/10.1001/jamanetworkopen.2024.1297
+EID: 2-s2.0-85187104342
+Suggested filename: Unavailable_Article34_Morey_2024.pdf
+--------------------------------------------------
+
+Article 35:
+Title: Facts About Hospital-Insurer Contracting
+Authors: Henderson M.
+Year: 2024
+Journal: American Journal of Managed Care
+DOI: 10.37765/ajmc.2024.89502
+DOI URL: https://doi.org/10.37765/ajmc.2024.89502
+EID: 2-s2.0-85185621101
+Suggested filename: Unavailable_Article35_Henderson_2024.pdf
+--------------------------------------------------
+
+Article 36:
+Title: Hospital Survival In Rural Markets: Closures, Mergers, And Profitability
+Authors: Carroll C.
+Year: 2023
+Journal: Health Affairs
+DOI: 10.1377/hlthaff.2022.01191
+DOI URL: https://doi.org/10.1377/hlthaff.2022.01191
+EID: 2-s2.0-85151617584
+Suggested filename: Unavailable_Article36_Carroll_2023.pdf
+--------------------------------------------------
+
+Article 37:
+Title: The Relationships Among Cash Prices, Negotiated Rates, And Chargemaster Prices For Shoppable Hospital Services
+Authors: Wang Y.
+Year: 2023
+Journal: Health Affairs
+DOI: 10.1377/hlthaff.2022.00977
+DOI URL: https://doi.org/10.1377/hlthaff.2022.00977
+EID: 2-s2.0-85151668857
+Suggested filename: Unavailable_Article37_Wang_2023.pdf
+--------------------------------------------------
+
+Article 38:
+Title: Assessing Compliance with Hospital Price Transparency over Time
+Authors: Henderson M.
+Year: 2023
+Journal: Journal of General Internal Medicine
+DOI: 10.1007/s11606-022-08020-3
+DOI URL: https://doi.org/10.1007/s11606-022-08020-3
+EID: 2-s2.0-85146921354
+Suggested filename: Unavailable_Article38_Henderson_2023.pdf
+--------------------------------------------------
+
+Article 39:
+Title: Price Variability for Common Radiology Services within U.S. Hospitals
+Authors: Jiang J.
+Year: 2023
+Journal: Radiology
+DOI: 10.1148/radiol.221815
+DOI URL: https://doi.org/10.1148/radiol.221815
+EID: 2-s2.0-85146124535
+Suggested filename: Unavailable_Article39_Jiang_2023.pdf
+--------------------------------------------------
+
+Article 40:
+Title: Insurer Market Power And Hospital Prices In The US
+Authors: Losasso A.T.
+Year: 2023
+Journal: Health Affairs
+DOI: 10.1377/hlthaff.2022.01184
+DOI URL: https://doi.org/10.1377/hlthaff.2022.01184
+EID: 2-s2.0-85157973504
+Suggested filename: Unavailable_Article40_Losasso_2023.pdf
+--------------------------------------------------
+
+Article 41:
+Title: Florida emergency department facility fees vary significantly based on hospital ownership
+Authors: Zitek T.
+Year: 2023
+Journal: Academic Emergency Medicine
+DOI: 10.1111/acem.14696
+DOI URL: https://doi.org/10.1111/acem.14696
+EID: 2-s2.0-85150620982
+Suggested filename: Unavailable_Article41_Zitek_2023.pdf
+--------------------------------------------------
+
+Article 42:
+Title: Professional Fees for U.S. Hospital Care, 2016-2020
+Authors: Peterson C.
+Year: 2023
+Journal: Medical Care
+DOI: 10.1097/MLR.0000000000001900
+DOI URL: https://doi.org/10.1097/MLR.0000000000001900
+EID: 2-s2.0-85176445474
+Suggested filename: Unavailable_Article42_Peterson_2023.pdf
+--------------------------------------------------
+
+Article 43:
+Title: Factors Associated With Hospital Commercial Negotiated Price for Magnetic Resonance Imaging of Brain
+Authors: Jiang J.X.
+Year: 2023
+Journal: JAMA Network Open
+DOI: 10.1001/jamanetworkopen.2023.3875
+DOI URL: https://doi.org/10.1001/jamanetworkopen.2023.3875
+EID: 2-s2.0-85150670848
+Suggested filename: Unavailable_Article43_Jiang_2023.pdf
+--------------------------------------------------
+
+Article 44:
+Title: How price and quantity factors drive spending in nongroup and employer health plans
+Authors: Pelech D.
+Year: 2022
+Journal: Health Services Research
+DOI: 10.1111/1475-6773.13962
+DOI URL: https://doi.org/10.1111/1475-6773.13962
+EID: 2-s2.0-85126241436
+Suggested filename: Unavailable_Article44_Pelech_2022.pdf
+--------------------------------------------------
+
+Article 45:
+Title: Certificates of Public Advantage and Hospital Mergers
+Authors: Garmon C.
+Year: 2022
+Journal: Journal of Law and Economics
+DOI: 10.1086/719661
+DOI URL: https://doi.org/10.1086/719661
+EID: 2-s2.0-85139660531
+Suggested filename: Unavailable_Article45_Garmon_2022.pdf
+--------------------------------------------------

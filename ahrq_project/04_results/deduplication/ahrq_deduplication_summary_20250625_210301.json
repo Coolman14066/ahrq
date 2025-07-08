@@ -1,0 +1,15 @@
+{
+  "timestamp": "20250625_210301",
+  "total_search_results": 370,
+  "reference_articles": 136,
+  "new_unique_articles": 350,
+  "definite_matches": 10,
+  "very_likely_matches": 10,
+  "probable_matches": 0,
+  "possible_matches": 0,
+  "match_type_distribution": {
+    "": 350,
+    "title_fuzzy": 10,
+    "doi": 10
+  }
+}

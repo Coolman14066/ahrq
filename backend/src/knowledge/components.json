@@ -1,0 +1,199 @@
+{
+  "AHRQDashboard": {
+    "description": "Main dashboard container that orchestrates all visualizations and data analysis for AHRQ research publications",
+    "capabilities": [
+      "Switch between Overview, Network Analysis, Flow Analysis, and Trends tabs",
+      "Apply global filters for years, publication types, usage types, and research domains",
+      "Search publications by title, author, or keyword",
+      "Export filtered data in CSV or JSON format"
+    ],
+    "data_access": [
+      "All publications from ahrq_reference_good.csv",
+      "Computed quality scores (0-100) based on completeness and rigor",
+      "Policy impact scores (0-100) based on keyword analysis",
+      "Aggregated metrics and statistics"
+    ],
+    "key_metrics": [
+      "Total publications count",
+      "Average policy impact score",
+      "Publication distribution by type and year",
+      "Top authors and research domains"
+    ]
+  },
+  
+  "NetworkGraph": {
+    "description": "Interactive force-directed graph showing author collaboration networks",
+    "capabilities": [
+      "Visualize author collaborations as network connections",
+      "Filter by minimum collaboration count",
+      "Color nodes by publication count or policy impact",
+      "Zoom and pan for detailed exploration",
+      "Click nodes to see author details",
+      "Hover edges to see collaboration details"
+    ],
+    "node_properties": {
+      "size": "Represents number of publications",
+      "color": "Indicates average policy impact score",
+      "position": "Determined by force simulation based on collaborations"
+    },
+    "edge_properties": {
+      "thickness": "Represents collaboration strength",
+      "opacity": "Indicates recency of collaboration",
+      "label": "Shows number of shared publications"
+    },
+    "interactions": [
+      "Click node: Focus on author and show details",
+      "Hover node: Preview author statistics",
+      "Click edge: Show collaboration timeline",
+      "Drag node: Reposition in network",
+      "Scroll: Zoom in/out",
+      "Drag background: Pan view"
+    ]
+  },
+  
+  "SankeyDiagram": {
+    "description": "Flow visualization showing how publications flow from types through usage patterns to policy impacts",
+    "layers": [
+      {
+        "level": 0,
+        "name": "Publication Types",
+        "categories": ["GOVERNMENT", "POLICY", "OTHER"]
+      },
+      {
+        "level": 1,
+        "name": "Usage Types",
+        "categories": ["PRIMARY_ANALYSIS", "RESEARCH_ENABLER", "CONTEXTUAL_REFERENCE"]
+      },
+      {
+        "level": 2,
+        "name": "Research Domains",
+        "categories": "Dynamic based on data"
+      },
+      {
+        "level": 3,
+        "name": "Policy Impact Categories",
+        "categories": [
+          "Market Competition & Antitrust",
+          "Healthcare Affordability & Access",
+          "Data & Methodology Standards",
+          "Quality & Performance Oversight",
+          "Strategic Planning & Policy Development"
+        ]
+      }
+    ],
+    "flow_properties": {
+      "width": "Represents number of publications in flow",
+      "color": "Indicates source category",
+      "opacity": "Shows average quality score"
+    },
+    "interactions": [
+      "Hover flow: See publication count and details",
+      "Click node: Filter to show only flows through that node",
+      "Click flow: Highlight entire path",
+      "Drag node: Reorder within level"
+    ]
+  },
+  
+  "TrendsAnalysis": {
+    "description": "Time-series visualizations showing publication trends over time",
+    "chart_types": [
+      {
+        "name": "Publication Volume",
+        "description": "Line chart showing publication counts by year",
+        "metrics": ["Total publications", "By publication type", "By usage type"]
+      },
+      {
+        "name": "Policy Impact Trends",
+        "description": "Area chart showing average policy impact scores over time",
+        "metrics": ["Overall impact", "By research domain", "By publication type"]
+      },
+      {
+        "name": "Domain Evolution",
+        "description": "Stacked bar chart showing research domain distribution changes",
+        "metrics": ["Domain proportions", "Emerging domains", "Declining domains"]
+      },
+      {
+        "name": "Quality Metrics",
+        "description": "Combined chart showing quality score trends",
+        "metrics": ["Average quality score", "High-quality publication ratio", "Completeness trends"]
+      }
+    ],
+    "interactions": [
+      "Hover point: See exact values",
+      "Click legend: Toggle series visibility",
+      "Brush selection: Zoom to time range",
+      "Click data point: Filter dashboard to that year"
+    ]
+  },
+  
+  "OverviewStats": {
+    "description": "Summary statistics and key metrics displayed as cards",
+    "metrics": [
+      {
+        "name": "Total Publications",
+        "description": "Count of all publications in database",
+        "calculation": "Simple count of all records"
+      },
+      {
+        "name": "Average Policy Impact",
+        "description": "Mean policy impact score across all publications",
+        "calculation": "Average of policy_impact_score field",
+        "range": "0-100"
+      },
+      {
+        "name": "Total Authors",
+        "description": "Count of unique authors across all publications",
+        "calculation": "Unique count after parsing author strings"
+      },
+      {
+        "name": "Active Years",
+        "description": "Range of publication years in dataset",
+        "calculation": "Min and max of publication_year field"
+      }
+    ]
+  },
+  
+  "FilterPanel": {
+    "description": "Advanced filtering controls for the entire dashboard",
+    "filter_types": [
+      {
+        "name": "Year Range",
+        "type": "range_slider",
+        "description": "Filter publications by year",
+        "min": 2010,
+        "max": 2024
+      },
+      {
+        "name": "Publication Types",
+        "type": "multi_select",
+        "options": ["GOVERNMENT", "POLICY", "OTHER"],
+        "description": "Filter by publication category"
+      },
+      {
+        "name": "Usage Types",
+        "type": "multi_select",
+        "options": ["PRIMARY_ANALYSIS", "RESEARCH_ENABLER", "CONTEXTUAL_REFERENCE"],
+        "description": "Filter by how AHRQ data was used"
+      },
+      {
+        "name": "Research Domains",
+        "type": "searchable_multi_select",
+        "description": "Filter by research area"
+      },
+      {
+        "name": "Policy Impact Score",
+        "type": "range_slider",
+        "description": "Filter by minimum policy impact",
+        "min": 0,
+        "max": 100
+      },
+      {
+        "name": "Quality Score",
+        "type": "range_slider",
+        "description": "Filter by minimum quality score",
+        "min": 0,
+        "max": 100
+      }
+    ]
+  }
+}

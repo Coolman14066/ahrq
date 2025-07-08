@@ -1,0 +1,76 @@
+AHRQ DEDUPLICATION REPORT
+============================================================
+Generated: 2025-06-25 21:03:01
+
+SUMMARY
+----------------------------------------
+Total search results analyzed: 370
+Reference articles in database: 136
+
+MATCH RESULTS
+----------------------------------------
+New unique discoveries: 350 (94.6%)
+Definite matches (95-100%): 10
+Very likely matches (85-94%): 10
+Probable matches (70-84%): 0
+Possible matches (60-69%): 0
+
+MATCH TYPE DISTRIBUTION
+----------------------------------------
+: 350
+title_fuzzy: 10
+doi: 10
+
+
+TOP NEW DISCOVERIES (by relevance score)
+============================================================
+
+[8.0] AHRQ's digital healthcare research program: 20 years of advancing innovation and...
+  Authors: Valdez R.B.
+  Year: 2024 | Journal: Journal of the American Medical Informatics Association
+  DOI: 10.1093/jamia/ocae251
+
+[8.0] Assessing the excess costs of the in-hospital adverse events covered by the AHRQ...
+  Authors: Giese A.
+  Year: 2024 | Journal: Plos One
+  DOI: 10.1371/journal.pone.0285285
+
+[8.0] What AHRQ Learned While Working to Transform Primary Care...
+  Authors: Meyers D.
+  Year: 2024 | Journal: Annals of Family Medicine
+  DOI: 10.1370/afm.3090
+
+[8.0] Private Payers and Cancer Care: Revisiting the Land of Opportunity...
+  Authors: Kolodziej M.A.
+  Year: 2024 | Journal: JCO Oncology Practice
+  DOI: 10.1200/OP.23.00632
+
+[8.0] State Health Care Cost Commissions: Their Priorities and How States’ Political L...
+  Authors: Fulton B.D.
+  Year: 2025 | Journal: Milbank Quarterly
+  DOI: 10.1111/1468-0009.70019
+
+[8.0] Outcomes for Very Preterm Infants Across Health Systems...
+  Authors: Rogowski J.A.
+  Year: 2025 | Journal: JAMA Network Open
+  DOI: 10.1001/jamanetworkopen.2025.13274
+
+[8.0] AHRQ's Healthcare Extension Service - State-Based Solutions to Health Care Impro...
+  Authors: Rhodes K.V.
+  Year: 2024 | Journal: JAMA
+  DOI: 10.1001/jama.2023.23600
+
+[8.0] Private Equity Investment in Plastic Surgery Clinics: A Scoping Review...
+  Authors: Roth J.M.
+  Year: 2025 | Journal: Plastic and Reconstructive Surgery
+  DOI: 10.1097/PRS.0000000000012164
+
+[8.0] AHRQ’s National Center for Excellence in Primary Care Research (NCEPCR): A New H...
+  Authors: Eden A.R.
+  Year: 2025 | Journal: Annals of Family Medicine
+  DOI: 10.1370/afm.240501
+
+[8.0] Moving the Needle on Measurement of Patient Safety: The Evolving Role of the Age...
+  Authors: Rosen A.K.
+  Year: 2025 | Journal: Joint Commission Journal on Quality and Patient Safety
+  DOI: 10.1016/j.jcjq.2024.11.004

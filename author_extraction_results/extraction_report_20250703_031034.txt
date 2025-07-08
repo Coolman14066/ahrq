@@ -1,0 +1,122 @@
+=== AUTHOR EXTRACTION REPORT ===
+
+Start Time: 2025-07-03T03:09:23.907700
+End Time: 2025-07-03T03:10:34.797765
+
+=== STATISTICS ===
+Total rows in file: 146
+Rows needing extraction: 93
+Successful extractions: 65
+Failed extractions: 26
+Success rate: 69.9%
+
+=== EXTRACTION SOURCES ===
+web_scraping: 9
+crossref: 55
+openalex: 1
+
+=== FAILED EXTRACTIONS ===
+Row 2: Prices Paid to Hospitals by Private Health Plans â...
+  DOI: None
+  Error: None
+
+Row 12: Monetizing Medicine: Private Equity and Competitio...
+  DOI: None
+  Error: None
+
+Row 16: Rural Hospitalsâ€™ Perspectives on Health System A...
+  DOI: None
+  Error: None
+
+Row 17: Vertical Integration and Plan Design in Healthcare...
+  DOI: None
+  Error: None
+
+Row 19: Benefit Design, Provider Networks & Performance of...
+  DOI: None
+  Error: None
+
+Row 20: Impact of Health System Affiliation on Continuity ...
+  DOI: None
+  Error: None
+
+Row 24: 2024 Trends Shaping the Health Economy...
+  DOI: None
+  Error: None
+
+Row 32: The Pennsylvania Rural Health Model (PARHM) Third ...
+  DOI: None
+  Error: None
+
+Row 33: Health System Integration and Cancer Center Access...
+  DOI: None
+  Error: None
+
+Row 37: Whoâ€™s Accountable? Low-Value Care Received By Me...
+  DOI: None
+  Error: None
+
+Row 47: What explains the growth in hospital assets from 2...
+  DOI: None
+  Error: None
+
+Row 51: How do hospitals exert market power? Evidence from...
+  DOI: None
+  Error: None
+
+Row 55: Comparison of System Affiliated Hospitals Identifi...
+  DOI: None
+  Error: None
+
+Row 64: The Anatomic Pathology Hospitalist Model A Novel A...
+  DOI: None
+  Error: None
+
+Row 71: Impact of Hospital Affiliation with a Flagship Hos...
+  DOI: None
+  Error: None
+
+Row 78: The Impact of the No Surprises Act on Physician-In...
+  DOI: None
+  Error: None
+
+Row 95: Harnessing the Power of Health Systems and Network...
+  DOI: None
+  Error: None
+
+Row 100: Exploring the Relationship Between Medication Adhe...
+  DOI: None
+  Error: None
+
+Row 109: Practice and market factors associated with provid...
+  DOI: None
+  Error: None
+
+Row 113: Exploring the Relationship Between Medication Adhe...
+  DOI: None
+  Error: None
+
+Row 114: Association of the Range of Outpatient Services Pr...
+  DOI: None
+  Error: None
+
+Row 116: Estimates of ACO savings in the presence of provid...
+  DOI: None
+  Error: None
+
+Row 127: Hospital-physician integration and clinical volume...
+  DOI: None
+  Error: None
+
+Row 129: Estimates of ACO savings in the presence of provid...
+  DOI: None
+  Error: None
+
+Row 131: Hospital‐based health systems 20 years later: A ta...
+  DOI: None
+  Error: None
+
+Row 143: Consolidation And Health Systems In 2018: New Data...
+  DOI: 10.1377/forefront.20191122.345861
+  Error: None
+
